@@ -1,1 +1,18 @@
-.App {}
+.App {
+  background: #282e3c;
+}
+
+.ant-card-meta-title {
+  color: #bf4250 !important;
+}
+
+/* @font-face {
+  font-family: 'Eater';
+  src: url('./styles/Eater-Regular.ttf') format('truetype');
+}
+
+body {
+  font-family: "Eater", serif;
+  margin: 0;
+  padding: 0;
+} */
