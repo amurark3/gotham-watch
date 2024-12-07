@@ -1,37 +1,94 @@
 import { Button, Select } from 'antd';
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { Chart } from 'react-google-charts';
 
 const CrimeVisulization = () => {
-  const [stateList, setStateList] = useState([
-    { value: 'Arizona', label: 'Arizona' },
-  ]);
-  const [countyList, setCountyList] = useState([
-    { value: '04013', label: 'Maricopa County' },
-  ]);
+  const [stateList, setStateList] = useState([]);
+  const [countyList, setCountyList] = useState([]);
+  const yearList = [
+    {
+      label: '2014',
+      value: '2014',
+    },
+    {
+      label: '2013',
+      value: '2013',
+    },
+    {
+      label: '2012',
+      value: '2012',
+    },
+    {
+      label: '2011',
+      value: '2011',
+    },
+  ];
   const [stateSelected, setStateSelected] = useState('');
   const [countySelected, setCountySelected] = useState('');
-  const [crimeData, setCrimeData] = useState([
-    ['Crime Name', 'Number of crimes'],
-    ['Murder', 10],
-    ['Rape', 10],
-    ['Robbery', 100],
-    ['Aggravated Assault', 120],
-    ['Fraud', 170],
-    ['Weapons', 80],
-    ['DUI', 840],
-  ]);
+  const [yearSelected, setYearSelected] = useState('');
+  const [crimeData, setCrimeData] = useState([]);
 
   const handleStateSelect = (e) => {
     setStateSelected(e);
+    getCountyData(e);
   };
 
   const handleCountySelect = (e) => {
     setCountySelected(e);
   };
 
-  const handleFilterClick = () => {
-    //Filter API
+  const getCountyData = async (stateCode) => {
+    try {
+      const response = await fetch('http://localhost:5000/api/use-case-2', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ selectedState: stateCode }), // Send the form data as JSON
+      });
+
+      if (response.ok) {
+        const data = await response.json();
+        setCountyList(data.results);
+      } else {
+        //set error
+      }
+    } catch (error) {
+      // setError('Error : ' + error.message);
+    } finally {
+      // setLoading(false);
+    }
+  };
+
+  const handleYearSelect = (e) => {
+    setYearSelected(e);
+  };
+
+  const handleFilterClick = async () => {
+    try {
+      const response = await fetch('http://localhost:5000/api/use-case-3', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          selectedState: stateSelected,
+          selectedCounty: countySelected,
+          selectedYear: yearSelected,
+        }),
+      });
+
+      if (response.ok) {
+        const data = await response.json();
+        setCrimeData(data.results);
+      } else {
+        //set error
+      }
+    } catch (error) {
+      // setError('Error: ' + error.message);
+    } finally {
+      // setLoading(false);
+    }
   };
 
   const options = {
@@ -45,6 +102,34 @@ const CrimeVisulization = () => {
       },
     },
   };
+
+  const fetchStateData = async () => {
+    try {
+      const response = await fetch('http://localhost:5000/api/use-case-1', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({}),
+      });
+
+      if (response.ok) {
+        const data = await response.json();
+
+        setStateList(data);
+      } else {
+        //set error
+      }
+    } catch (error) {
+      // setError('Error form: ' + error.message);
+    } finally {
+      // setLoading(false);
+    }
+  };
+
+  useEffect(() => {
+    fetchStateData();
+  }, []);
 
   return (
     <div>
@@ -69,7 +154,16 @@ const CrimeVisulization = () => {
         <div>
           <Select
             style={{
-              width: 150,
+              width: 250,
+            }}
+            onSelect={handleYearSelect}
+            options={yearList}
+          />
+        </div>
+        <div>
+          <Select
+            style={{
+              width: 250,
             }}
             onSelect={handleStateSelect}
             options={stateList}
@@ -90,17 +184,19 @@ const CrimeVisulization = () => {
           </Button>
         </div>
       </div>
-      <div style={{ marginTop: '20px' }}>
-        <Chart
-          chartType="PieChart"
-          height="700px"
-          data={crimeData}
-          options={options}
-          style={{
-            background: '#282e3c',
-          }}
-        />
-      </div>
+      {crimeData.length && (
+        <div style={{ marginTop: '20px' }}>
+          <Chart
+            chartType="PieChart"
+            height="700px"
+            data={crimeData}
+            options={options}
+            style={{
+              background: '#282e3c',
+            }}
+          />
+        </div>
+      )}
     </div>
   );
 };

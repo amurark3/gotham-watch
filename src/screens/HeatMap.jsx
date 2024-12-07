@@ -4,14 +4,6 @@ import usCounties from '../data/county.topo.json';
 import { scaleQuantize } from 'd3-scale';
 import { Button, Select } from 'antd';
 
-// Mock data
-const data = [
-  { id: '01001', value: 30 },
-  { id: '01003', value: 70 },
-  { id: '01005', value: 50 },
-  { id: '04013', value: 500 },
-];
-
 const colorScale = scaleQuantize()
   .domain([0, 100])
   .range(['#ffbaba', '#ff7b7b', '#ff5252', '#ff0000', '#a70000']);
@@ -36,7 +28,28 @@ const USCountyChoroplethMap = () => {
     setYearSelected(e);
   };
 
-  const handleFilterClick = () => {};
+  const handleFilterClick = async () => {
+    try {
+      const response = await fetch('http://localhost:5000/api/use-case-4', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ years: yearSelected }),
+      });
+
+      if (response.ok) {
+        const data = await response.json();
+        setCrimeData([...data]);
+      } else {
+        //set error
+      }
+    } catch (error) {
+      // setError('Error: ' + error.message);
+    } finally {
+      // setLoading(false);
+    }
+  };
 
   return (
     <div>
@@ -83,7 +96,9 @@ const USCountyChoroplethMap = () => {
           <Geographies geography={usCounties}>
             {({ geographies }) =>
               geographies.map((geo) => {
-                const countyData = data.find((county) => county.id === geo.id);
+                const countyData = crimeData.find(
+                  (county) => county.id === geo.id
+                );
                 return (
                   <Geography
                     key={geo.rsmKey}
