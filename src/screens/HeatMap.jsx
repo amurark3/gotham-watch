@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { ComposableMap, Geographies, Geography } from 'react-simple-maps';
 import usCounties from '../data/county.topo.json';
 import { scaleQuantize } from 'd3-scale';
@@ -50,6 +50,10 @@ const USCountyChoroplethMap = () => {
       // setLoading(false);
     }
   };
+
+  useEffect(() => {
+    handleFilterClick();
+  }, []);
 
   return (
     <div>

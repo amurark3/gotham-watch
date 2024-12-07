@@ -156,6 +156,7 @@ const CrimeVisulization = () => {
             style={{
               width: 250,
             }}
+            placeholder="Select Year"
             onSelect={handleYearSelect}
             options={yearList}
           />
@@ -165,6 +166,7 @@ const CrimeVisulization = () => {
             style={{
               width: 250,
             }}
+            placeholder="Select State"
             onSelect={handleStateSelect}
             options={stateList}
           />
@@ -174,6 +176,7 @@ const CrimeVisulization = () => {
             style={{
               width: 250,
             }}
+            placeholder="Select county"
             onSelect={handleCountySelect}
             options={countyList}
           />
@@ -184,7 +187,7 @@ const CrimeVisulization = () => {
           </Button>
         </div>
       </div>
-      {crimeData.length && (
+      {crimeData.length > 0 && (
         <div style={{ marginTop: '20px' }}>
           <Chart
             chartType="PieChart"

@@ -1,0 +1,3211 @@
+State Name,State Code,County Name,County Code,FIPS Code
+New York,ST_36,Suffolk County,ST_36_CT_103,36103
+New York,ST_36,New York County,ST_36_CT_61,36061
+New York,ST_36,Richmond County,ST_36_CT_85,36085
+New York,ST_36,Bronx County,ST_36_CT_5,36005
+New York,ST_36,Westchester County,ST_36_CT_119,36119
+New York,ST_36,Putnam County,ST_36_CT_79,36079
+New York,ST_36,Rockland County,ST_36_CT_87,36087
+New York,ST_36,Orange County,ST_36_CT_71,36071
+New York,ST_36,Nassau County,ST_36_CT_59,36059
+New York,ST_36,Queens County,ST_36_CT_81,36081
+New York,ST_36,Kings County,ST_36_CT_47,36047
+New York,ST_36,Albany County,ST_36_CT_1,36001
+New York,ST_36,Schenectady County,ST_36_CT_93,36093
+New York,ST_36,Montgomery County,ST_36_CT_57,36057
+New York,ST_36,Greene County,ST_36_CT_39,36039
+New York,ST_36,Columbia County,ST_36_CT_21,36021
+New York,ST_36,Rensselaer County,ST_36_CT_83,36083
+New York,ST_36,Saratoga County,ST_36_CT_91,36091
+New York,ST_36,Fulton County,ST_36_CT_35,36035
+New York,ST_36,Schoharie County,ST_36_CT_95,36095
+New York,ST_36,Otsego County,ST_36_CT_77,36077
+New York,ST_36,Hamilton County,ST_36_CT_41,36041
+New York,ST_36,Delaware County,ST_36_CT_25,36025
+New York,ST_36,Ulster County,ST_36_CT_111,36111
+New York,ST_36,Dutchess County,ST_36_CT_27,36027
+New York,ST_36,Sullivan County,ST_36_CT_105,36105
+New York,ST_36,Warren County,ST_36_CT_113,36113
+New York,ST_36,Washington County,ST_36_CT_115,36115
+New York,ST_36,Essex County,ST_36_CT_31,36031
+New York,ST_36,Clinton County,ST_36_CT_19,36019
+New York,ST_36,Franklin County,ST_36_CT_33,36033
+New York,ST_36,St. Lawrence County,ST_36_CT_89,36089
+New York,ST_36,Onondaga County,ST_36_CT_67,36067
+New York,ST_36,Cayuga County,ST_36_CT_11,36011
+New York,ST_36,Oswego County,ST_36_CT_75,36075
+New York,ST_36,Madison County,ST_36_CT_53,36053
+New York,ST_36,Cortland County,ST_36_CT_23,36023
+New York,ST_36,Tompkins County,ST_36_CT_109,36109
+New York,ST_36,Oneida County,ST_36_CT_65,36065
+New York,ST_36,Seneca County,ST_36_CT_99,36099
+New York,ST_36,Chenango County,ST_36_CT_17,36017
+New York,ST_36,Wayne County,ST_36_CT_117,36117
+New York,ST_36,Lewis County,ST_36_CT_49,36049
+New York,ST_36,Herkimer County,ST_36_CT_43,36043
+New York,ST_36,Jefferson County,ST_36_CT_45,36045
+New York,ST_36,Tioga County,ST_36_CT_107,36107
+New York,ST_36,Broome County,ST_36_CT_7,36007
+New York,ST_36,Erie County,ST_36_CT_29,36029
+New York,ST_36,Genesee County,ST_36_CT_37,36037
+New York,ST_36,Niagara County,ST_36_CT_63,36063
+New York,ST_36,Wyoming County,ST_36_CT_121,36121
+New York,ST_36,Allegany County,ST_36_CT_3,36003
+New York,ST_36,Cattaraugus County,ST_36_CT_9,36009
+New York,ST_36,Chautauqua County,ST_36_CT_13,36013
+New York,ST_36,Orleans County,ST_36_CT_73,36073
+New York,ST_36,Monroe County,ST_36_CT_55,36055
+New York,ST_36,Livingston County,ST_36_CT_51,36051
+New York,ST_36,Yates County,ST_36_CT_123,36123
+New York,ST_36,Ontario County,ST_36_CT_69,36069
+New York,ST_36,Steuben County,ST_36_CT_101,36101
+New York,ST_36,Schuyler County,ST_36_CT_97,36097
+New York,ST_36,Chemung County,ST_36_CT_15,36015
+Puerto Rico,ST_72,Adjuntas Municipio,ST_72_CT_1,72001
+Puerto Rico,ST_72,Aguada Municipio,ST_72_CT_3,72003
+Puerto Rico,ST_72,Aguadilla Municipio,ST_72_CT_5,72005
+Puerto Rico,ST_72,Maricao Municipio,ST_72_CT_93,72093
+Puerto Rico,ST_72,Añasco Municipio,ST_72_CT_11,72011
+Puerto Rico,ST_72,Utuado Municipio,ST_72_CT_141,72141
+Puerto Rico,ST_72,Arecibo Municipio,ST_72_CT_13,72013
+Puerto Rico,ST_72,Barceloneta Municipio,ST_72_CT_17,72017
+Puerto Rico,ST_72,Cabo Rojo Municipio,ST_72_CT_23,72023
+Puerto Rico,ST_72,Peñuelas Municipio,ST_72_CT_111,72111
+Puerto Rico,ST_72,Camuy Municipio,ST_72_CT_27,72027
+Puerto Rico,ST_72,Lares Municipio,ST_72_CT_81,72081
+Puerto Rico,ST_72,San Germán Municipio,ST_72_CT_125,72125
+Puerto Rico,ST_72,Sabana Grande Municipio,ST_72_CT_121,72121
+Puerto Rico,ST_72,Ciales Municipio,ST_72_CT_39,72039
+Puerto Rico,ST_72,Dorado Municipio,ST_72_CT_51,72051
+Puerto Rico,ST_72,Guánica Municipio,ST_72_CT_55,72055
+Puerto Rico,ST_72,Florida Municipio,ST_72_CT_54,72054
+Puerto Rico,ST_72,Guayanilla Municipio,ST_72_CT_59,72059
+Puerto Rico,ST_72,Hatillo Municipio,ST_72_CT_65,72065
+Puerto Rico,ST_72,Hormigueros Municipio,ST_72_CT_67,72067
+Puerto Rico,ST_72,Isabela Municipio,ST_72_CT_71,72071
+Puerto Rico,ST_72,Jayuya Municipio,ST_72_CT_73,72073
+Puerto Rico,ST_72,Lajas Municipio,ST_72_CT_79,72079
+Puerto Rico,ST_72,Las Marías Municipio,ST_72_CT_83,72083
+Puerto Rico,ST_72,Manatí Municipio,ST_72_CT_91,72091
+Puerto Rico,ST_72,Moca Municipio,ST_72_CT_99,72099
+Puerto Rico,ST_72,Rincón Municipio,ST_72_CT_117,72117
+Puerto Rico,ST_72,Quebradillas Municipio,ST_72_CT_115,72115
+Puerto Rico,ST_72,Mayagüez Municipio,ST_72_CT_97,72097
+Puerto Rico,ST_72,San Sebastián Municipio,ST_72_CT_131,72131
+Puerto Rico,ST_72,Morovis Municipio,ST_72_CT_101,72101
+Puerto Rico,ST_72,Vega Alta Municipio,ST_72_CT_143,72143
+Puerto Rico,ST_72,Vega Baja Municipio,ST_72_CT_145,72145
+Puerto Rico,ST_72,Yauco Municipio,ST_72_CT_153,72153
+Puerto Rico,ST_72,Aguas Buenas Municipio,ST_72_CT_7,72007
+Puerto Rico,ST_72,Guayama Municipio,ST_72_CT_57,72057
+Puerto Rico,ST_72,Aibonito Municipio,ST_72_CT_9,72009
+Puerto Rico,ST_72,Maunabo Municipio,ST_72_CT_95,72095
+Puerto Rico,ST_72,Arroyo Municipio,ST_72_CT_15,72015
+Puerto Rico,ST_72,Ponce Municipio,ST_72_CT_113,72113
+Puerto Rico,ST_72,Naguabo Municipio,ST_72_CT_103,72103
+Puerto Rico,ST_72,Naranjito Municipio,ST_72_CT_105,72105
+Puerto Rico,ST_72,Orocovis Municipio,ST_72_CT_107,72107
+Puerto Rico,ST_72,Río Grande Municipio,ST_72_CT_119,72119
+Puerto Rico,ST_72,Patillas Municipio,ST_72_CT_109,72109
+Puerto Rico,ST_72,Caguas Municipio,ST_72_CT_25,72025
+Puerto Rico,ST_72,Canóvanas Municipio,ST_72_CT_29,72029
+Puerto Rico,ST_72,Ceiba Municipio,ST_72_CT_37,72037
+Puerto Rico,ST_72,Cayey Municipio,ST_72_CT_35,72035
+Puerto Rico,ST_72,Fajardo Municipio,ST_72_CT_53,72053
+Puerto Rico,ST_72,Cidra Municipio,ST_72_CT_41,72041
+Puerto Rico,ST_72,Humacao Municipio,ST_72_CT_69,72069
+Puerto Rico,ST_72,Salinas Municipio,ST_72_CT_123,72123
+Puerto Rico,ST_72,San Lorenzo Municipio,ST_72_CT_129,72129
+Puerto Rico,ST_72,Santa Isabel Municipio,ST_72_CT_133,72133
+Puerto Rico,ST_72,Vieques Municipio,ST_72_CT_147,72147
+Puerto Rico,ST_72,Villalba Municipio,ST_72_CT_149,72149
+Puerto Rico,ST_72,Yabucoa Municipio,ST_72_CT_151,72151
+Puerto Rico,ST_72,Coamo Municipio,ST_72_CT_43,72043
+Puerto Rico,ST_72,Las Piedras Municipio,ST_72_CT_85,72085
+Puerto Rico,ST_72,Loíza Municipio,ST_72_CT_87,72087
+Puerto Rico,ST_72,Luquillo Municipio,ST_72_CT_89,72089
+Puerto Rico,ST_72,Culebra Municipio,ST_72_CT_49,72049
+Puerto Rico,ST_72,Juncos Municipio,ST_72_CT_77,72077
+Puerto Rico,ST_72,Gurabo Municipio,ST_72_CT_63,72063
+Puerto Rico,ST_72,Comerío Municipio,ST_72_CT_45,72045
+Puerto Rico,ST_72,Corozal Municipio,ST_72_CT_47,72047
+Puerto Rico,ST_72,Barranquitas Municipio,ST_72_CT_19,72019
+Puerto Rico,ST_72,Juana Díaz Municipio,ST_72_CT_75,72075
+Puerto Rico,ST_72,San Juan Municipio,ST_72_CT_127,72127
+Puerto Rico,ST_72,Bayamón Municipio,ST_72_CT_21,72021
+Puerto Rico,ST_72,Toa Baja Municipio,ST_72_CT_137,72137
+Puerto Rico,ST_72,Toa Alta Municipio,ST_72_CT_135,72135
+Puerto Rico,ST_72,Cataño Municipio,ST_72_CT_33,72033
+Puerto Rico,ST_72,Guaynabo Municipio,ST_72_CT_61,72061
+Puerto Rico,ST_72,Trujillo Alto Municipio,ST_72_CT_139,72139
+Puerto Rico,ST_72,Carolina Municipio,ST_72_CT_31,72031
+Massachusetts,ST_25,Hampden County,ST_25_CT_13,25013
+Massachusetts,ST_25,Middlesex County,ST_25_CT_17,25017
+Massachusetts,ST_25,Worcester County,ST_25_CT_27,25027
+Massachusetts,ST_25,Essex County,ST_25_CT_9,25009
+Massachusetts,ST_25,Plymouth County,ST_25_CT_23,25023
+Massachusetts,ST_25,Norfolk County,ST_25_CT_21,25021
+Massachusetts,ST_25,Bristol County,ST_25_CT_5,25005
+Massachusetts,ST_25,Suffolk County,ST_25_CT_25,25025
+Massachusetts,ST_25,Barnstable County,ST_25_CT_1,25001
+Massachusetts,ST_25,Dukes County,ST_25_CT_7,25007
+Massachusetts,ST_25,Nantucket County,ST_25_CT_19,25019
+Rhode Island,ST_44,Newport County,ST_44_CT_5,44005
+Rhode Island,ST_44,Providence County,ST_44_CT_7,44007
+Rhode Island,ST_44,Washington County,ST_44_CT_9,44009
+Rhode Island,ST_44,Bristol County,ST_44_CT_1,44001
+Rhode Island,ST_44,Kent County,ST_44_CT_3,44003
+New Hampshire,ST_33,Hillsborough County,ST_33_CT_11,33011
+New Hampshire,ST_33,Rockingham County,ST_33_CT_15,33015
+New Hampshire,ST_33,Merrimack County,ST_33_CT_13,33013
+New Hampshire,ST_33,Grafton County,ST_33_CT_9,33009
+New Hampshire,ST_33,Belknap County,ST_33_CT_1,33001
+New Hampshire,ST_33,Carroll County,ST_33_CT_3,33003
+New Hampshire,ST_33,Sullivan County,ST_33_CT_19,33019
+New Hampshire,ST_33,Cheshire County,ST_33_CT_5,33005
+New Hampshire,ST_33,Coos County,ST_33_CT_7,33007
+New Hampshire,ST_33,Strafford County,ST_33_CT_17,33017
+Maine,ST_23,York County,ST_23_CT_31,23031
+Maine,ST_23,Cumberland County,ST_23_CT_5,23005
+Maine,ST_23,Sagadahoc County,ST_23_CT_23,23023
+Maine,ST_23,Oxford County,ST_23_CT_17,23017
+Maine,ST_23,Androscoggin County,ST_23_CT_1,23001
+Maine,ST_23,Franklin County,ST_23_CT_7,23007
+Maine,ST_23,Kennebec County,ST_23_CT_11,23011
+Maine,ST_23,Lincoln County,ST_23_CT_15,23015
+Maine,ST_23,Waldo County,ST_23_CT_27,23027
+Maine,ST_23,Penobscot County,ST_23_CT_19,23019
+Maine,ST_23,Piscataquis County,ST_23_CT_21,23021
+Maine,ST_23,Hancock County,ST_23_CT_9,23009
+Maine,ST_23,Washington County,ST_23_CT_29,23029
+Maine,ST_23,Aroostook County,ST_23_CT_3,23003
+Maine,ST_23,Somerset County,ST_23_CT_25,23025
+Maine,ST_23,Knox County,ST_23_CT_13,23013
+Vermont,ST_50,Windsor County,ST_50_CT_27,50027
+Vermont,ST_50,Orange County,ST_50_CT_17,50017
+Vermont,ST_50,Caledonia County,ST_50_CT_5,50005
+Vermont,ST_50,Windham County,ST_50_CT_25,50025
+Vermont,ST_50,Bennington County,ST_50_CT_3,50003
+Vermont,ST_50,Chittenden County,ST_50_CT_7,50007
+Vermont,ST_50,Grand Isle County,ST_50_CT_13,50013
+Vermont,ST_50,Franklin County,ST_50_CT_11,50011
+Vermont,ST_50,Lamoille County,ST_50_CT_15,50015
+Vermont,ST_50,Addison County,ST_50_CT_1,50001
+Vermont,ST_50,Washington County,ST_50_CT_23,50023
+Vermont,ST_50,Rutland County,ST_50_CT_21,50021
+Vermont,ST_50,Orleans County,ST_50_CT_19,50019
+Vermont,ST_50,Essex County,ST_50_CT_9,50009
+Connecticut,ST_9,Hartford County,ST_9_CT_3,9003
+Connecticut,ST_9,Litchfield County,ST_9_CT_5,9005
+Connecticut,ST_9,Tolland County,ST_9_CT_13,9013
+Connecticut,ST_9,Windham County,ST_9_CT_15,9015
+Connecticut,ST_9,New London County,ST_9_CT_11,9011
+Connecticut,ST_9,New Haven County,ST_9_CT_9,9009
+Connecticut,ST_9,Fairfield County,ST_9_CT_1,9001
+Connecticut,ST_9,Middlesex County,ST_9_CT_7,9007
+New Jersey,ST_34,Middlesex County,ST_34_CT_23,34023
+New Jersey,ST_34,Hudson County,ST_34_CT_17,34017
+New Jersey,ST_34,Essex County,ST_34_CT_13,34013
+New Jersey,ST_34,Morris County,ST_34_CT_27,34027
+New Jersey,ST_34,Bergen County,ST_34_CT_3,34003
+New Jersey,ST_34,Passaic County,ST_34_CT_31,34031
+New Jersey,ST_34,Union County,ST_34_CT_39,34039
+New Jersey,ST_34,Somerset County,ST_34_CT_35,34035
+New Jersey,ST_34,Sussex County,ST_34_CT_37,34037
+New Jersey,ST_34,Monmouth County,ST_34_CT_25,34025
+New Jersey,ST_34,Warren County,ST_34_CT_41,34041
+New Jersey,ST_34,Hunterdon County,ST_34_CT_19,34019
+New Jersey,ST_34,Salem County,ST_34_CT_33,34033
+New Jersey,ST_34,Camden County,ST_34_CT_7,34007
+New Jersey,ST_34,Ocean County,ST_34_CT_29,34029
+New Jersey,ST_34,Burlington County,ST_34_CT_5,34005
+New Jersey,ST_34,Gloucester County,ST_34_CT_15,34015
+New Jersey,ST_34,Atlantic County,ST_34_CT_1,34001
+New Jersey,ST_34,Cape May County,ST_34_CT_9,34009
+New Jersey,ST_34,Cumberland County,ST_34_CT_11,34011
+New Jersey,ST_34,Mercer County,ST_34_CT_21,34021
+Pennsylvania,ST_42,Beaver County,ST_42_CT_7,42007
+Pennsylvania,ST_42,Washington County,ST_42_CT_125,42125
+Pennsylvania,ST_42,Allegheny County,ST_42_CT_3,42003
+Pennsylvania,ST_42,Fayette County,ST_42_CT_51,42051
+Pennsylvania,ST_42,Westmoreland County,ST_42_CT_129,42129
+Pennsylvania,ST_42,Greene County,ST_42_CT_59,42059
+Pennsylvania,ST_42,Somerset County,ST_42_CT_111,42111
+Pennsylvania,ST_42,Bedford County,ST_42_CT_9,42009
+Pennsylvania,ST_42,Fulton County,ST_42_CT_57,42057
+Pennsylvania,ST_42,Armstrong County,ST_42_CT_5,42005
+Pennsylvania,ST_42,Indiana County,ST_42_CT_63,42063
+Pennsylvania,ST_42,Jefferson County,ST_42_CT_65,42065
+Pennsylvania,ST_42,Cambria County,ST_42_CT_21,42021
+Pennsylvania,ST_42,Clearfield County,ST_42_CT_33,42033
+Pennsylvania,ST_42,Elk County,ST_42_CT_47,42047
+Pennsylvania,ST_42,Forest County,ST_42_CT_53,42053
+Pennsylvania,ST_42,Cameron County,ST_42_CT_23,42023
+Pennsylvania,ST_42,Butler County,ST_42_CT_19,42019
+Pennsylvania,ST_42,Clarion County,ST_42_CT_31,42031
+Pennsylvania,ST_42,Lawrence County,ST_42_CT_73,42073
+Pennsylvania,ST_42,Crawford County,ST_42_CT_39,42039
+Pennsylvania,ST_42,Mercer County,ST_42_CT_85,42085
+Pennsylvania,ST_42,Venango County,ST_42_CT_121,42121
+Pennsylvania,ST_42,Warren County,ST_42_CT_123,42123
+Pennsylvania,ST_42,McKean County,ST_42_CT_83,42083
+Pennsylvania,ST_42,Erie County,ST_42_CT_49,42049
+Pennsylvania,ST_42,Blair County,ST_42_CT_13,42013
+Pennsylvania,ST_42,Huntingdon County,ST_42_CT_61,42061
+Pennsylvania,ST_42,Centre County,ST_42_CT_27,42027
+Pennsylvania,ST_42,Potter County,ST_42_CT_105,42105
+Pennsylvania,ST_42,Clinton County,ST_42_CT_35,42035
+Pennsylvania,ST_42,Tioga County,ST_42_CT_117,42117
+Pennsylvania,ST_42,Bradford County,ST_42_CT_15,42015
+Pennsylvania,ST_42,Cumberland County,ST_42_CT_41,42041
+Pennsylvania,ST_42,Mifflin County,ST_42_CT_87,42087
+Pennsylvania,ST_42,Lebanon County,ST_42_CT_75,42075
+Pennsylvania,ST_42,Dauphin County,ST_42_CT_43,42043
+Pennsylvania,ST_42,Perry County,ST_42_CT_99,42099
+Pennsylvania,ST_42,Juniata County,ST_42_CT_67,42067
+Pennsylvania,ST_42,Northumberland County,ST_42_CT_97,42097
+Pennsylvania,ST_42,York County,ST_42_CT_133,42133
+Pennsylvania,ST_42,Lancaster County,ST_42_CT_71,42071
+Pennsylvania,ST_42,Franklin County,ST_42_CT_55,42055
+Pennsylvania,ST_42,Adams County,ST_42_CT_1,42001
+Pennsylvania,ST_42,Lycoming County,ST_42_CT_81,42081
+Pennsylvania,ST_42,Sullivan County,ST_42_CT_113,42113
+Pennsylvania,ST_42,Union County,ST_42_CT_119,42119
+Pennsylvania,ST_42,Snyder County,ST_42_CT_109,42109
+Pennsylvania,ST_42,Columbia County,ST_42_CT_37,42037
+Pennsylvania,ST_42,Montour County,ST_42_CT_93,42093
+Pennsylvania,ST_42,Schuylkill County,ST_42_CT_107,42107
+Pennsylvania,ST_42,Northampton County,ST_42_CT_95,42095
+Pennsylvania,ST_42,Lehigh County,ST_42_CT_77,42077
+Pennsylvania,ST_42,Carbon County,ST_42_CT_25,42025
+Pennsylvania,ST_42,Bucks County,ST_42_CT_17,42017
+Pennsylvania,ST_42,Montgomery County,ST_42_CT_91,42091
+Pennsylvania,ST_42,Berks County,ST_42_CT_11,42011
+Pennsylvania,ST_42,Monroe County,ST_42_CT_89,42089
+Pennsylvania,ST_42,Luzerne County,ST_42_CT_79,42079
+Pennsylvania,ST_42,Pike County,ST_42_CT_103,42103
+Pennsylvania,ST_42,Wayne County,ST_42_CT_127,42127
+Pennsylvania,ST_42,Lackawanna County,ST_42_CT_69,42069
+Pennsylvania,ST_42,Susquehanna County,ST_42_CT_115,42115
+Pennsylvania,ST_42,Wyoming County,ST_42_CT_131,42131
+Pennsylvania,ST_42,Delaware County,ST_42_CT_45,42045
+Pennsylvania,ST_42,Philadelphia County,ST_42_CT_101,42101
+Pennsylvania,ST_42,Chester County,ST_42_CT_29,42029
+Delaware,ST_10,New Castle County,ST_10_CT_3,10003
+Delaware,ST_10,Kent County,ST_10_CT_1,10001
+Delaware,ST_10,Sussex County,ST_10_CT_5,10005
+District of Columbia,ST_11,District of Columbia,ST_11_CT_1,11001
+Virginia,ST_51,Loudoun County,ST_51_CT_107,51107
+Virginia,ST_51,Rappahannock County,ST_51_CT_157,51157
+Virginia,ST_51,Manassas city,ST_51_CT_683,51683
+Virginia,ST_51,Manassas Park city,ST_51_CT_685,51685
+Virginia,ST_51,Fauquier County,ST_51_CT_61,51061
+Virginia,ST_51,Fairfax County,ST_51_CT_59,51059
+Virginia,ST_51,Prince William County,ST_51_CT_153,51153
+Virginia,ST_51,Fairfax city,ST_51_CT_600,51600
+Virginia,ST_51,Falls Church city,ST_51_CT_610,51610
+Virginia,ST_51,Arlington County,ST_51_CT_13,51013
+Virginia,ST_51,Alexandria city,ST_51_CT_510,51510
+Virginia,ST_51,Fredericksburg city,ST_51_CT_630,51630
+Virginia,ST_51,Stafford County,ST_51_CT_179,51179
+Virginia,ST_51,Spotsylvania County,ST_51_CT_177,51177
+Virginia,ST_51,Caroline County,ST_51_CT_33,51033
+Virginia,ST_51,Northumberland County,ST_51_CT_133,51133
+Virginia,ST_51,Orange County,ST_51_CT_137,51137
+Virginia,ST_51,Essex County,ST_51_CT_57,51057
+Virginia,ST_51,Westmoreland County,ST_51_CT_193,51193
+Virginia,ST_51,King George County,ST_51_CT_99,51099
+Virginia,ST_51,Richmond County,ST_51_CT_159,51159
+Virginia,ST_51,Lancaster County,ST_51_CT_103,51103
+Virginia,ST_51,Winchester city,ST_51_CT_840,51840
+Virginia,ST_51,Frederick County,ST_51_CT_69,51069
+Virginia,ST_51,Warren County,ST_51_CT_187,51187
+Virginia,ST_51,Clarke County,ST_51_CT_43,51043
+Virginia,ST_51,Shenandoah County,ST_51_CT_171,51171
+Virginia,ST_51,Page County,ST_51_CT_139,51139
+Virginia,ST_51,Culpeper County,ST_51_CT_47,51047
+Virginia,ST_51,Madison County,ST_51_CT_113,51113
+Virginia,ST_51,Harrisonburg city,ST_51_CT_660,51660
+Virginia,ST_51,Rockingham County,ST_51_CT_165,51165
+Virginia,ST_51,Augusta County,ST_51_CT_15,51015
+Virginia,ST_51,Albemarle County,ST_51_CT_3,51003
+Virginia,ST_51,Charlottesville city,ST_51_CT_540,51540
+Virginia,ST_51,Nelson County,ST_51_CT_125,51125
+Virginia,ST_51,Greene County,ST_51_CT_79,51079
+Virginia,ST_51,Fluvanna County,ST_51_CT_65,51065
+Virginia,ST_51,Waynesboro city,ST_51_CT_820,51820
+Virginia,ST_51,Gloucester County,ST_51_CT_73,51073
+Virginia,ST_51,Amelia County,ST_51_CT_7,51007
+Virginia,ST_51,Buckingham County,ST_51_CT_29,51029
+Virginia,ST_51,Hanover County,ST_51_CT_85,51085
+Virginia,ST_51,King William County,ST_51_CT_101,51101
+Virginia,ST_51,New Kent County,ST_51_CT_127,51127
+Virginia,ST_51,Goochland County,ST_51_CT_75,51075
+Virginia,ST_51,Mathews County,ST_51_CT_115,51115
+Virginia,ST_51,King and Queen County,ST_51_CT_97,51097
+Virginia,ST_51,Louisa County,ST_51_CT_109,51109
+Virginia,ST_51,Cumberland County,ST_51_CT_49,51049
+Virginia,ST_51,Charles City County,ST_51_CT_36,51036
+Virginia,ST_51,Middlesex County,ST_51_CT_119,51119
+Virginia,ST_51,Henrico County,ST_51_CT_87,51087
+Virginia,ST_51,James City County,ST_51_CT_95,51095
+Virginia,ST_51,York County,ST_51_CT_199,51199
+Virginia,ST_51,Powhatan County,ST_51_CT_145,51145
+Virginia,ST_51,Chesterfield County,ST_51_CT_41,51041
+Virginia,ST_51,Richmond city,ST_51_CT_760,51760
+Virginia,ST_51,Williamsburg city,ST_51_CT_830,51830
+Virginia,ST_51,Accomack County,ST_51_CT_1,51001
+Virginia,ST_51,Isle of Wight County,ST_51_CT_93,51093
+Virginia,ST_51,Northampton County,ST_51_CT_131,51131
+Virginia,ST_51,Chesapeake city,ST_51_CT_550,51550
+Virginia,ST_51,Suffolk city,ST_51_CT_800,51800
+Virginia,ST_51,Virginia Beach city,ST_51_CT_810,51810
+Virginia,ST_51,Norfolk city,ST_51_CT_710,51710
+Virginia,ST_51,Newport News city,ST_51_CT_700,51700
+Virginia,ST_51,Hampton city,ST_51_CT_650,51650
+Virginia,ST_51,Poquoson city,ST_51_CT_735,51735
+Virginia,ST_51,Portsmouth city,ST_51_CT_740,51740
+Virginia,ST_51,Prince George County,ST_51_CT_149,51149
+Virginia,ST_51,Petersburg city,ST_51_CT_730,51730
+Virginia,ST_51,Brunswick County,ST_51_CT_25,51025
+Virginia,ST_51,Dinwiddie County,ST_51_CT_53,51053
+Virginia,ST_51,Nottoway County,ST_51_CT_135,51135
+Virginia,ST_51,Southampton County,ST_51_CT_175,51175
+Virginia,ST_51,Colonial Heights city,ST_51_CT_570,51570
+Virginia,ST_51,Surry County,ST_51_CT_181,51181
+Virginia,ST_51,Emporia city,ST_51_CT_595,51595
+Virginia,ST_51,Franklin city,ST_51_CT_620,51620
+Virginia,ST_51,Hopewell city,ST_51_CT_670,51670
+Virginia,ST_51,Sussex County,ST_51_CT_183,51183
+Virginia,ST_51,Greensville County,ST_51_CT_81,51081
+Virginia,ST_51,Prince Edward County,ST_51_CT_147,51147
+Virginia,ST_51,Mecklenburg County,ST_51_CT_117,51117
+Virginia,ST_51,Charlotte County,ST_51_CT_37,51037
+Virginia,ST_51,Lunenburg County,ST_51_CT_111,51111
+Virginia,ST_51,Appomattox County,ST_51_CT_11,51011
+Virginia,ST_51,Roanoke city,ST_51_CT_770,51770
+Virginia,ST_51,Roanoke County,ST_51_CT_161,51161
+Virginia,ST_51,Botetourt County,ST_51_CT_23,51023
+Virginia,ST_51,Patrick County,ST_51_CT_141,51141
+Virginia,ST_51,Henry County,ST_51_CT_89,51089
+Virginia,ST_51,Pulaski County,ST_51_CT_155,51155
+Virginia,ST_51,Montgomery County,ST_51_CT_121,51121
+Virginia,ST_51,Franklin County,ST_51_CT_67,51067
+Virginia,ST_51,Pittsylvania County,ST_51_CT_143,51143
+Virginia,ST_51,Floyd County,ST_51_CT_63,51063
+Virginia,ST_51,Giles County,ST_51_CT_71,51071
+Virginia,ST_51,Bedford County,ST_51_CT_19,51019
+Virginia,ST_51,Martinsville city,ST_51_CT_690,51690
+Virginia,ST_51,Craig County,ST_51_CT_45,51045
+Virginia,ST_51,Radford city,ST_51_CT_750,51750
+Virginia,ST_51,Salem city,ST_51_CT_775,51775
+Virginia,ST_51,Bristol city,ST_51_CT_520,51520
+Virginia,ST_51,Washington County,ST_51_CT_191,51191
+Virginia,ST_51,Wise County,ST_51_CT_195,51195
+Virginia,ST_51,Dickenson County,ST_51_CT_51,51051
+Virginia,ST_51,Lee County,ST_51_CT_105,51105
+Virginia,ST_51,Russell County,ST_51_CT_167,51167
+Virginia,ST_51,Buchanan County,ST_51_CT_27,51027
+Virginia,ST_51,Scott County,ST_51_CT_169,51169
+Virginia,ST_51,Norton city,ST_51_CT_720,51720
+Virginia,ST_51,Grayson County,ST_51_CT_77,51077
+Virginia,ST_51,Smyth County,ST_51_CT_173,51173
+Virginia,ST_51,Wythe County,ST_51_CT_197,51197
+Virginia,ST_51,Bland County,ST_51_CT_21,51021
+Virginia,ST_51,Carroll County,ST_51_CT_35,51035
+Virginia,ST_51,Galax city,ST_51_CT_640,51640
+Virginia,ST_51,Tazewell County,ST_51_CT_185,51185
+Virginia,ST_51,Staunton city,ST_51_CT_790,51790
+Virginia,ST_51,Bath County,ST_51_CT_17,51017
+Virginia,ST_51,Highland County,ST_51_CT_91,51091
+Virginia,ST_51,Rockbridge County,ST_51_CT_163,51163
+Virginia,ST_51,Buena Vista city,ST_51_CT_530,51530
+Virginia,ST_51,Alleghany County,ST_51_CT_5,51005
+Virginia,ST_51,Covington city,ST_51_CT_580,51580
+Virginia,ST_51,Lexington city,ST_51_CT_678,51678
+Virginia,ST_51,Lynchburg city,ST_51_CT_680,51680
+Virginia,ST_51,Campbell County,ST_51_CT_31,51031
+Virginia,ST_51,Halifax County,ST_51_CT_83,51083
+Virginia,ST_51,Amherst County,ST_51_CT_9,51009
+Virginia,ST_51,Danville city,ST_51_CT_590,51590
+Maryland,ST_24,Howard County,ST_24_CT_27,24027
+Maryland,ST_24,Charles County,ST_24_CT_17,24017
+Maryland,ST_24,St. Mary's County,ST_24_CT_37,24037
+Maryland,ST_24,Prince George's County,ST_24_CT_33,24033
+Maryland,ST_24,Calvert County,ST_24_CT_9,24009
+Maryland,ST_24,Anne Arundel County,ST_24_CT_3,24003
+Maryland,ST_24,Montgomery County,ST_24_CT_31,24031
+Maryland,ST_24,Harford County,ST_24_CT_25,24025
+Maryland,ST_24,Baltimore County,ST_24_CT_5,24005
+Maryland,ST_24,Carroll County,ST_24_CT_13,24013
+Maryland,ST_24,Baltimore city,ST_24_CT_510,24510
+Maryland,ST_24,Allegany County,ST_24_CT_1,24001
+Maryland,ST_24,Garrett County,ST_24_CT_23,24023
+Maryland,ST_24,Talbot County,ST_24_CT_41,24041
+Maryland,ST_24,Queen Anne's County,ST_24_CT_35,24035
+Maryland,ST_24,Caroline County,ST_24_CT_11,24011
+Maryland,ST_24,Kent County,ST_24_CT_29,24029
+Maryland,ST_24,Dorchester County,ST_24_CT_19,24019
+Maryland,ST_24,Frederick County,ST_24_CT_21,24021
+Maryland,ST_24,Washington County,ST_24_CT_43,24043
+Maryland,ST_24,Wicomico County,ST_24_CT_45,24045
+Maryland,ST_24,Worcester County,ST_24_CT_47,24047
+Maryland,ST_24,Somerset County,ST_24_CT_39,24039
+Maryland,ST_24,Cecil County,ST_24_CT_15,24015
+West Virginia,ST_54,Mercer County,ST_54_CT_55,54055
+West Virginia,ST_54,Wyoming County,ST_54_CT_109,54109
+West Virginia,ST_54,McDowell County,ST_54_CT_47,54047
+West Virginia,ST_54,Mingo County,ST_54_CT_59,54059
+West Virginia,ST_54,Greenbrier County,ST_54_CT_25,54025
+West Virginia,ST_54,Pocahontas County,ST_54_CT_75,54075
+West Virginia,ST_54,Monroe County,ST_54_CT_63,54063
+West Virginia,ST_54,Summers County,ST_54_CT_89,54089
+West Virginia,ST_54,Fayette County,ST_54_CT_19,54019
+West Virginia,ST_54,Kanawha County,ST_54_CT_39,54039
+West Virginia,ST_54,Raleigh County,ST_54_CT_81,54081
+West Virginia,ST_54,Roane County,ST_54_CT_87,54087
+West Virginia,ST_54,Boone County,ST_54_CT_5,54005
+West Virginia,ST_54,Putnam County,ST_54_CT_79,54079
+West Virginia,ST_54,Clay County,ST_54_CT_15,54015
+West Virginia,ST_54,Logan County,ST_54_CT_45,54045
+West Virginia,ST_54,Nicholas County,ST_54_CT_67,54067
+West Virginia,ST_54,Mason County,ST_54_CT_53,54053
+West Virginia,ST_54,Jackson County,ST_54_CT_35,54035
+West Virginia,ST_54,Calhoun County,ST_54_CT_13,54013
+West Virginia,ST_54,Gilmer County,ST_54_CT_21,54021
+West Virginia,ST_54,Berkeley County,ST_54_CT_3,54003
+West Virginia,ST_54,Jefferson County,ST_54_CT_37,54037
+West Virginia,ST_54,Morgan County,ST_54_CT_65,54065
+West Virginia,ST_54,Hampshire County,ST_54_CT_27,54027
+West Virginia,ST_54,Lincoln County,ST_54_CT_43,54043
+West Virginia,ST_54,Cabell County,ST_54_CT_11,54011
+West Virginia,ST_54,Wayne County,ST_54_CT_99,54099
+West Virginia,ST_54,Ohio County,ST_54_CT_69,54069
+West Virginia,ST_54,Brooke County,ST_54_CT_9,54009
+West Virginia,ST_54,Marshall County,ST_54_CT_51,54051
+West Virginia,ST_54,Hancock County,ST_54_CT_29,54029
+West Virginia,ST_54,Wood County,ST_54_CT_107,54107
+West Virginia,ST_54,Pleasants County,ST_54_CT_73,54073
+West Virginia,ST_54,Tyler County,ST_54_CT_95,54095
+West Virginia,ST_54,Wirt County,ST_54_CT_105,54105
+West Virginia,ST_54,Ritchie County,ST_54_CT_85,54085
+West Virginia,ST_54,Wetzel County,ST_54_CT_103,54103
+West Virginia,ST_54,Upshur County,ST_54_CT_97,54097
+West Virginia,ST_54,Webster County,ST_54_CT_101,54101
+West Virginia,ST_54,Randolph County,ST_54_CT_83,54083
+West Virginia,ST_54,Barbour County,ST_54_CT_1,54001
+West Virginia,ST_54,Tucker County,ST_54_CT_93,54093
+West Virginia,ST_54,Harrison County,ST_54_CT_33,54033
+West Virginia,ST_54,Lewis County,ST_54_CT_41,54041
+West Virginia,ST_54,Doddridge County,ST_54_CT_17,54017
+West Virginia,ST_54,Braxton County,ST_54_CT_7,54007
+West Virginia,ST_54,Taylor County,ST_54_CT_91,54091
+West Virginia,ST_54,Preston County,ST_54_CT_77,54077
+West Virginia,ST_54,Monongalia County,ST_54_CT_61,54061
+West Virginia,ST_54,Marion County,ST_54_CT_49,54049
+West Virginia,ST_54,Grant County,ST_54_CT_23,54023
+West Virginia,ST_54,Mineral County,ST_54_CT_57,54057
+West Virginia,ST_54,Hardy County,ST_54_CT_31,54031
+West Virginia,ST_54,Pendleton County,ST_54_CT_71,54071
+North Carolina,ST_37,Davie County,ST_37_CT_59,37059
+North Carolina,ST_37,Surry County,ST_37_CT_171,37171
+North Carolina,ST_37,Forsyth County,ST_37_CT_67,37067
+North Carolina,ST_37,Yadkin County,ST_37_CT_197,37197
+North Carolina,ST_37,Rowan County,ST_37_CT_159,37159
+North Carolina,ST_37,Stokes County,ST_37_CT_169,37169
+North Carolina,ST_37,Rockingham County,ST_37_CT_157,37157
+North Carolina,ST_37,Alamance County,ST_37_CT_1,37001
+North Carolina,ST_37,Randolph County,ST_37_CT_151,37151
+North Carolina,ST_37,Chatham County,ST_37_CT_37,37037
+North Carolina,ST_37,Montgomery County,ST_37_CT_123,37123
+North Carolina,ST_37,Caswell County,ST_37_CT_33,37033
+North Carolina,ST_37,Guilford County,ST_37_CT_81,37081
+North Carolina,ST_37,Orange County,ST_37_CT_135,37135
+North Carolina,ST_37,Lee County,ST_37_CT_105,37105
+North Carolina,ST_37,Davidson County,ST_37_CT_57,37057
+North Carolina,ST_37,Moore County,ST_37_CT_125,37125
+North Carolina,ST_37,Person County,ST_37_CT_145,37145
+North Carolina,ST_37,Harnett County,ST_37_CT_85,37085
+North Carolina,ST_37,Wake County,ST_37_CT_183,37183
+North Carolina,ST_37,Durham County,ST_37_CT_63,37063
+North Carolina,ST_37,Johnston County,ST_37_CT_101,37101
+North Carolina,ST_37,Granville County,ST_37_CT_77,37077
+North Carolina,ST_37,Franklin County,ST_37_CT_69,37069
+North Carolina,ST_37,Wayne County,ST_37_CT_191,37191
+North Carolina,ST_37,Vance County,ST_37_CT_181,37181
+North Carolina,ST_37,Warren County,ST_37_CT_185,37185
+North Carolina,ST_37,Edgecombe County,ST_37_CT_65,37065
+North Carolina,ST_37,Nash County,ST_37_CT_127,37127
+North Carolina,ST_37,Bertie County,ST_37_CT_15,37015
+North Carolina,ST_37,Beaufort County,ST_37_CT_13,37013
+North Carolina,ST_37,Pitt County,ST_37_CT_147,37147
+North Carolina,ST_37,Wilson County,ST_37_CT_195,37195
+North Carolina,ST_37,Hertford County,ST_37_CT_91,37091
+North Carolina,ST_37,Northampton County,ST_37_CT_131,37131
+North Carolina,ST_37,Halifax County,ST_37_CT_83,37083
+North Carolina,ST_37,Hyde County,ST_37_CT_95,37095
+North Carolina,ST_37,Martin County,ST_37_CT_117,37117
+North Carolina,ST_37,Greene County,ST_37_CT_79,37079
+North Carolina,ST_37,Pasquotank County,ST_37_CT_139,37139
+North Carolina,ST_37,Dare County,ST_37_CT_55,37055
+North Carolina,ST_37,Currituck County,ST_37_CT_53,37053
+North Carolina,ST_37,Perquimans County,ST_37_CT_143,37143
+North Carolina,ST_37,Camden County,ST_37_CT_29,37029
+North Carolina,ST_37,Tyrrell County,ST_37_CT_177,37177
+North Carolina,ST_37,Gates County,ST_37_CT_73,37073
+North Carolina,ST_37,Washington County,ST_37_CT_187,37187
+North Carolina,ST_37,Chowan County,ST_37_CT_41,37041
+North Carolina,ST_37,Stanly County,ST_37_CT_167,37167
+North Carolina,ST_37,Gaston County,ST_37_CT_71,37071
+North Carolina,ST_37,Anson County,ST_37_CT_7,37007
+North Carolina,ST_37,Iredell County,ST_37_CT_97,37097
+North Carolina,ST_37,Cleveland County,ST_37_CT_45,37045
+North Carolina,ST_37,Rutherford County,ST_37_CT_161,37161
+North Carolina,ST_37,Cabarrus County,ST_37_CT_25,37025
+North Carolina,ST_37,Mecklenburg County,ST_37_CT_119,37119
+North Carolina,ST_37,Lincoln County,ST_37_CT_109,37109
+North Carolina,ST_37,Union County,ST_37_CT_179,37179
+North Carolina,ST_37,Cumberland County,ST_37_CT_51,37051
+North Carolina,ST_37,Sampson County,ST_37_CT_163,37163
+North Carolina,ST_37,Robeson County,ST_37_CT_155,37155
+North Carolina,ST_37,Bladen County,ST_37_CT_17,37017
+North Carolina,ST_37,Duplin County,ST_37_CT_61,37061
+North Carolina,ST_37,Richmond County,ST_37_CT_153,37153
+North Carolina,ST_37,Scotland County,ST_37_CT_165,37165
+North Carolina,ST_37,Hoke County,ST_37_CT_93,37093
+North Carolina,ST_37,New Hanover County,ST_37_CT_129,37129
+North Carolina,ST_37,Brunswick County,ST_37_CT_19,37019
+North Carolina,ST_37,Pender County,ST_37_CT_141,37141
+North Carolina,ST_37,Columbus County,ST_37_CT_47,37047
+North Carolina,ST_37,Onslow County,ST_37_CT_133,37133
+North Carolina,ST_37,Lenoir County,ST_37_CT_107,37107
+North Carolina,ST_37,Pamlico County,ST_37_CT_137,37137
+North Carolina,ST_37,Carteret County,ST_37_CT_31,37031
+North Carolina,ST_37,Craven County,ST_37_CT_49,37049
+North Carolina,ST_37,Jones County,ST_37_CT_103,37103
+North Carolina,ST_37,Catawba County,ST_37_CT_35,37035
+North Carolina,ST_37,Avery County,ST_37_CT_11,37011
+North Carolina,ST_37,Watauga County,ST_37_CT_189,37189
+North Carolina,ST_37,Wilkes County,ST_37_CT_193,37193
+North Carolina,ST_37,Caldwell County,ST_37_CT_27,37027
+North Carolina,ST_37,Burke County,ST_37_CT_23,37023
+North Carolina,ST_37,Ashe County,ST_37_CT_9,37009
+North Carolina,ST_37,Alleghany County,ST_37_CT_5,37005
+North Carolina,ST_37,Alexander County,ST_37_CT_3,37003
+North Carolina,ST_37,Buncombe County,ST_37_CT_21,37021
+North Carolina,ST_37,Swain County,ST_37_CT_173,37173
+North Carolina,ST_37,Mitchell County,ST_37_CT_121,37121
+North Carolina,ST_37,Jackson County,ST_37_CT_99,37099
+North Carolina,ST_37,Transylvania County,ST_37_CT_175,37175
+North Carolina,ST_37,Henderson County,ST_37_CT_89,37089
+North Carolina,ST_37,Yancey County,ST_37_CT_199,37199
+North Carolina,ST_37,Haywood County,ST_37_CT_87,37087
+North Carolina,ST_37,Polk County,ST_37_CT_149,37149
+North Carolina,ST_37,Graham County,ST_37_CT_75,37075
+North Carolina,ST_37,Macon County,ST_37_CT_113,37113
+North Carolina,ST_37,McDowell County,ST_37_CT_111,37111
+North Carolina,ST_37,Madison County,ST_37_CT_115,37115
+North Carolina,ST_37,Cherokee County,ST_37_CT_39,37039
+North Carolina,ST_37,Clay County,ST_37_CT_43,37043
+South Carolina,ST_45,Clarendon County,ST_45_CT_27,45027
+South Carolina,ST_45,Richland County,ST_45_CT_79,45079
+South Carolina,ST_45,Bamberg County,ST_45_CT_9,45009
+South Carolina,ST_45,Lexington County,ST_45_CT_63,45063
+South Carolina,ST_45,Kershaw County,ST_45_CT_55,45055
+South Carolina,ST_45,Lee County,ST_45_CT_61,45061
+South Carolina,ST_45,Chester County,ST_45_CT_23,45023
+South Carolina,ST_45,Fairfield County,ST_45_CT_39,45039
+South Carolina,ST_45,Orangeburg County,ST_45_CT_75,45075
+South Carolina,ST_45,Calhoun County,ST_45_CT_17,45017
+South Carolina,ST_45,Union County,ST_45_CT_87,45087
+South Carolina,ST_45,Newberry County,ST_45_CT_71,45071
+South Carolina,ST_45,Sumter County,ST_45_CT_85,45085
+South Carolina,ST_45,Williamsburg County,ST_45_CT_89,45089
+South Carolina,ST_45,Lancaster County,ST_45_CT_57,45057
+South Carolina,ST_45,Darlington County,ST_45_CT_31,45031
+South Carolina,ST_45,Colleton County,ST_45_CT_29,45029
+South Carolina,ST_45,Chesterfield County,ST_45_CT_25,45025
+South Carolina,ST_45,Aiken County,ST_45_CT_3,45003
+South Carolina,ST_45,Florence County,ST_45_CT_41,45041
+South Carolina,ST_45,Saluda County,ST_45_CT_81,45081
+South Carolina,ST_45,Spartanburg County,ST_45_CT_83,45083
+South Carolina,ST_45,Laurens County,ST_45_CT_59,45059
+South Carolina,ST_45,Cherokee County,ST_45_CT_21,45021
+South Carolina,ST_45,Charleston County,ST_45_CT_19,45019
+South Carolina,ST_45,Berkeley County,ST_45_CT_15,45015
+South Carolina,ST_45,Dorchester County,ST_45_CT_35,45035
+South Carolina,ST_45,Georgetown County,ST_45_CT_43,45043
+South Carolina,ST_45,Horry County,ST_45_CT_51,45051
+South Carolina,ST_45,Marlboro County,ST_45_CT_69,45069
+South Carolina,ST_45,Marion County,ST_45_CT_67,45067
+South Carolina,ST_45,Dillon County,ST_45_CT_33,45033
+South Carolina,ST_45,Greenville County,ST_45_CT_45,45045
+South Carolina,ST_45,Abbeville County,ST_45_CT_1,45001
+South Carolina,ST_45,Anderson County,ST_45_CT_7,45007
+South Carolina,ST_45,Pickens County,ST_45_CT_77,45077
+South Carolina,ST_45,Oconee County,ST_45_CT_73,45073
+South Carolina,ST_45,Greenwood County,ST_45_CT_47,45047
+South Carolina,ST_45,York County,ST_45_CT_91,45091
+South Carolina,ST_45,Allendale County,ST_45_CT_5,45005
+South Carolina,ST_45,Barnwell County,ST_45_CT_11,45011
+South Carolina,ST_45,McCormick County,ST_45_CT_65,45065
+South Carolina,ST_45,Edgefield County,ST_45_CT_37,45037
+South Carolina,ST_45,Beaufort County,ST_45_CT_13,45013
+South Carolina,ST_45,Hampton County,ST_45_CT_49,45049
+South Carolina,ST_45,Jasper County,ST_45_CT_53,45053
+Georgia,ST_13,DeKalb County,ST_13_CT_89,13089
+Georgia,ST_13,Gwinnett County,ST_13_CT_135,13135
+Georgia,ST_13,Fulton County,ST_13_CT_121,13121
+Georgia,ST_13,Cobb County,ST_13_CT_67,13067
+Georgia,ST_13,Barrow County,ST_13_CT_13,13013
+Georgia,ST_13,Rockdale County,ST_13_CT_247,13247
+Georgia,ST_13,Newton County,ST_13_CT_217,13217
+Georgia,ST_13,Walton County,ST_13_CT_297,13297
+Georgia,ST_13,Forsyth County,ST_13_CT_117,13117
+Georgia,ST_13,Cherokee County,ST_13_CT_57,13057
+Georgia,ST_13,Bartow County,ST_13_CT_15,13015
+Georgia,ST_13,Polk County,ST_13_CT_233,13233
+Georgia,ST_13,Floyd County,ST_13_CT_115,13115
+Georgia,ST_13,Carroll County,ST_13_CT_45,13045
+Georgia,ST_13,Haralson County,ST_13_CT_143,13143
+Georgia,ST_13,Douglas County,ST_13_CT_97,13097
+Georgia,ST_13,Paulding County,ST_13_CT_223,13223
+Georgia,ST_13,Gordon County,ST_13_CT_129,13129
+Georgia,ST_13,Pickens County,ST_13_CT_227,13227
+Georgia,ST_13,Lamar County,ST_13_CT_171,13171
+Georgia,ST_13,Fayette County,ST_13_CT_113,13113
+Georgia,ST_13,Pike County,ST_13_CT_231,13231
+Georgia,ST_13,Spalding County,ST_13_CT_255,13255
+Georgia,ST_13,Butts County,ST_13_CT_35,13035
+Georgia,ST_13,Heard County,ST_13_CT_149,13149
+Georgia,ST_13,Meriwether County,ST_13_CT_199,13199
+Georgia,ST_13,Coweta County,ST_13_CT_77,13077
+Georgia,ST_13,Henry County,ST_13_CT_151,13151
+Georgia,ST_13,Troup County,ST_13_CT_285,13285
+Georgia,ST_13,Clayton County,ST_13_CT_63,13063
+Georgia,ST_13,Upson County,ST_13_CT_293,13293
+Georgia,ST_13,Emanuel County,ST_13_CT_107,13107
+Georgia,ST_13,Montgomery County,ST_13_CT_209,13209
+Georgia,ST_13,Wheeler County,ST_13_CT_309,13309
+Georgia,ST_13,Jefferson County,ST_13_CT_163,13163
+Georgia,ST_13,Evans County,ST_13_CT_109,13109
+Georgia,ST_13,Bulloch County,ST_13_CT_31,13031
+Georgia,ST_13,Tattnall County,ST_13_CT_267,13267
+Georgia,ST_13,Screven County,ST_13_CT_251,13251
+Georgia,ST_13,Burke County,ST_13_CT_33,13033
+Georgia,ST_13,Toombs County,ST_13_CT_279,13279
+Georgia,ST_13,Candler County,ST_13_CT_43,13043
+Georgia,ST_13,Jenkins County,ST_13_CT_165,13165
+Georgia,ST_13,Laurens County,ST_13_CT_175,13175
+Georgia,ST_13,Treutlen County,ST_13_CT_283,13283
+Georgia,ST_13,Hall County,ST_13_CT_139,13139
+Georgia,ST_13,Habersham County,ST_13_CT_137,13137
+Georgia,ST_13,Banks County,ST_13_CT_11,13011
+Georgia,ST_13,Union County,ST_13_CT_291,13291
+Georgia,ST_13,Fannin County,ST_13_CT_111,13111
+Georgia,ST_13,Hart County,ST_13_CT_147,13147
+Georgia,ST_13,Jackson County,ST_13_CT_157,13157
+Georgia,ST_13,Franklin County,ST_13_CT_119,13119
+Georgia,ST_13,Gilmer County,ST_13_CT_123,13123
+Georgia,ST_13,Rabun County,ST_13_CT_241,13241
+Georgia,ST_13,White County,ST_13_CT_311,13311
+Georgia,ST_13,Lumpkin County,ST_13_CT_187,13187
+Georgia,ST_13,Dawson County,ST_13_CT_85,13085
+Georgia,ST_13,Stephens County,ST_13_CT_257,13257
+Georgia,ST_13,Towns County,ST_13_CT_281,13281
+Georgia,ST_13,Clarke County,ST_13_CT_59,13059
+Georgia,ST_13,Oglethorpe County,ST_13_CT_221,13221
+Georgia,ST_13,Oconee County,ST_13_CT_219,13219
+Georgia,ST_13,Morgan County,ST_13_CT_211,13211
+Georgia,ST_13,Elbert County,ST_13_CT_105,13105
+Georgia,ST_13,Madison County,ST_13_CT_195,13195
+Georgia,ST_13,Taliaferro County,ST_13_CT_265,13265
+Georgia,ST_13,Greene County,ST_13_CT_133,13133
+Georgia,ST_13,Wilkes County,ST_13_CT_317,13317
+Georgia,ST_13,Murray County,ST_13_CT_213,13213
+Georgia,ST_13,Walker County,ST_13_CT_295,13295
+Georgia,ST_13,Whitfield County,ST_13_CT_313,13313
+Georgia,ST_13,Catoosa County,ST_13_CT_47,13047
+Georgia,ST_13,Chattooga County,ST_13_CT_55,13055
+Georgia,ST_13,Dade County,ST_13_CT_83,13083
+Georgia,ST_13,Columbia County,ST_13_CT_73,13073
+Georgia,ST_13,Richmond County,ST_13_CT_245,13245
+Georgia,ST_13,McDuffie County,ST_13_CT_189,13189
+Georgia,ST_13,Warren County,ST_13_CT_301,13301
+Georgia,ST_13,Glascock County,ST_13_CT_125,13125
+Georgia,ST_13,Lincoln County,ST_13_CT_181,13181
+Georgia,ST_13,Wilcox County,ST_13_CT_315,13315
+Georgia,ST_13,Wilkinson County,ST_13_CT_319,13319
+Georgia,ST_13,Monroe County,ST_13_CT_207,13207
+Georgia,ST_13,Houston County,ST_13_CT_153,13153
+Georgia,ST_13,Taylor County,ST_13_CT_269,13269
+Georgia,ST_13,Dooly County,ST_13_CT_93,13093
+Georgia,ST_13,Peach County,ST_13_CT_225,13225
+Georgia,ST_13,Crisp County,ST_13_CT_81,13081
+Georgia,ST_13,Dodge County,ST_13_CT_91,13091
+Georgia,ST_13,Bleckley County,ST_13_CT_23,13023
+Georgia,ST_13,Twiggs County,ST_13_CT_289,13289
+Georgia,ST_13,Washington County,ST_13_CT_303,13303
+Georgia,ST_13,Putnam County,ST_13_CT_237,13237
+Georgia,ST_13,Jones County,ST_13_CT_169,13169
+Georgia,ST_13,Baldwin County,ST_13_CT_9,13009
+Georgia,ST_13,Pulaski County,ST_13_CT_235,13235
+Georgia,ST_13,Telfair County,ST_13_CT_271,13271
+Georgia,ST_13,Jasper County,ST_13_CT_159,13159
+Georgia,ST_13,Macon County,ST_13_CT_193,13193
+Georgia,ST_13,Johnson County,ST_13_CT_167,13167
+Georgia,ST_13,Crawford County,ST_13_CT_79,13079
+Georgia,ST_13,Bibb County,ST_13_CT_21,13021
+Georgia,ST_13,Marion County,ST_13_CT_197,13197
+Georgia,ST_13,Hancock County,ST_13_CT_141,13141
+Georgia,ST_13,Liberty County,ST_13_CT_179,13179
+Georgia,ST_13,Chatham County,ST_13_CT_51,13051
+Georgia,ST_13,Effingham County,ST_13_CT_103,13103
+Georgia,ST_13,McIntosh County,ST_13_CT_191,13191
+Georgia,ST_13,Bryan County,ST_13_CT_29,13029
+Georgia,ST_13,Long County,ST_13_CT_183,13183
+Georgia,ST_13,Ware County,ST_13_CT_299,13299
+Georgia,ST_13,Bacon County,ST_13_CT_5,13005
+Georgia,ST_13,Coffee County,ST_13_CT_69,13069
+Georgia,ST_13,Appling County,ST_13_CT_1,13001
+Georgia,ST_13,Pierce County,ST_13_CT_229,13229
+Georgia,ST_13,Glynn County,ST_13_CT_127,13127
+Georgia,ST_13,Jeff Davis County,ST_13_CT_161,13161
+Georgia,ST_13,Charlton County,ST_13_CT_49,13049
+Georgia,ST_13,Brantley County,ST_13_CT_25,13025
+Georgia,ST_13,Wayne County,ST_13_CT_305,13305
+Georgia,ST_13,Camden County,ST_13_CT_39,13039
+Georgia,ST_13,Lowndes County,ST_13_CT_185,13185
+Georgia,ST_13,Cook County,ST_13_CT_75,13075
+Georgia,ST_13,Berrien County,ST_13_CT_19,13019
+Georgia,ST_13,Clinch County,ST_13_CT_65,13065
+Georgia,ST_13,Atkinson County,ST_13_CT_3,13003
+Georgia,ST_13,Brooks County,ST_13_CT_27,13027
+Georgia,ST_13,Thomas County,ST_13_CT_275,13275
+Georgia,ST_13,Lanier County,ST_13_CT_173,13173
+Georgia,ST_13,Echols County,ST_13_CT_101,13101
+Georgia,ST_13,Dougherty County,ST_13_CT_95,13095
+Georgia,ST_13,Sumter County,ST_13_CT_261,13261
+Georgia,ST_13,Calhoun County,ST_13_CT_37,13037
+Georgia,ST_13,Turner County,ST_13_CT_287,13287
+Georgia,ST_13,Decatur County,ST_13_CT_87,13087
+Georgia,ST_13,Mitchell County,ST_13_CT_205,13205
+Georgia,ST_13,Colquitt County,ST_13_CT_71,13071
+Georgia,ST_13,Early County,ST_13_CT_99,13099
+Georgia,ST_13,Clay County,ST_13_CT_61,13061
+Georgia,ST_13,Terrell County,ST_13_CT_273,13273
+Georgia,ST_13,Tift County,ST_13_CT_277,13277
+Georgia,ST_13,Grady County,ST_13_CT_131,13131
+Georgia,ST_13,Randolph County,ST_13_CT_243,13243
+Georgia,ST_13,Miller County,ST_13_CT_201,13201
+Georgia,ST_13,Seminole County,ST_13_CT_253,13253
+Georgia,ST_13,Ben Hill County,ST_13_CT_17,13017
+Georgia,ST_13,Quitman County,ST_13_CT_239,13239
+Georgia,ST_13,Irwin County,ST_13_CT_155,13155
+Georgia,ST_13,Lee County,ST_13_CT_177,13177
+Georgia,ST_13,Baker County,ST_13_CT_7,13007
+Georgia,ST_13,Worth County,ST_13_CT_321,13321
+Georgia,ST_13,Talbot County,ST_13_CT_263,13263
+Georgia,ST_13,Harris County,ST_13_CT_145,13145
+Georgia,ST_13,Chattahoochee County,ST_13_CT_53,13053
+Georgia,ST_13,Schley County,ST_13_CT_249,13249
+Georgia,ST_13,Muscogee County,ST_13_CT_215,13215
+Georgia,ST_13,Stewart County,ST_13_CT_259,13259
+Georgia,ST_13,Webster County,ST_13_CT_307,13307
+Florida,ST_12,Clay County,ST_12_CT_19,12019
+Florida,ST_12,St. Johns County,ST_12_CT_109,12109
+Florida,ST_12,Putnam County,ST_12_CT_107,12107
+Florida,ST_12,Suwannee County,ST_12_CT_121,12121
+Florida,ST_12,Nassau County,ST_12_CT_89,12089
+Florida,ST_12,Lafayette County,ST_12_CT_67,12067
+Florida,ST_12,Columbia County,ST_12_CT_23,12023
+Florida,ST_12,Union County,ST_12_CT_125,12125
+Florida,ST_12,Baker County,ST_12_CT_3,12003
+Florida,ST_12,Bradford County,ST_12_CT_7,12007
+Florida,ST_12,Hamilton County,ST_12_CT_47,12047
+Florida,ST_12,Madison County,ST_12_CT_79,12079
+Florida,ST_12,Duval County,ST_12_CT_31,12031
+Florida,ST_12,Lake County,ST_12_CT_69,12069
+Florida,ST_12,Volusia County,ST_12_CT_127,12127
+Florida,ST_12,Flagler County,ST_12_CT_35,12035
+Florida,ST_12,Marion County,ST_12_CT_83,12083
+Florida,ST_12,Sumter County,ST_12_CT_119,12119
+Florida,ST_12,Leon County,ST_12_CT_73,12073
+Florida,ST_12,Wakulla County,ST_12_CT_129,12129
+Florida,ST_12,Franklin County,ST_12_CT_37,12037
+Florida,ST_12,Liberty County,ST_12_CT_77,12077
+Florida,ST_12,Gadsden County,ST_12_CT_39,12039
+Florida,ST_12,Jefferson County,ST_12_CT_65,12065
+Florida,ST_12,Taylor County,ST_12_CT_123,12123
+Florida,ST_12,Bay County,ST_12_CT_5,12005
+Florida,ST_12,Jackson County,ST_12_CT_63,12063
+Florida,ST_12,Calhoun County,ST_12_CT_13,12013
+Florida,ST_12,Walton County,ST_12_CT_131,12131
+Florida,ST_12,Holmes County,ST_12_CT_59,12059
+Florida,ST_12,Washington County,ST_12_CT_133,12133
+Florida,ST_12,Gulf County,ST_12_CT_45,12045
+Florida,ST_12,Escambia County,ST_12_CT_33,12033
+Florida,ST_12,Santa Rosa County,ST_12_CT_113,12113
+Florida,ST_12,Okaloosa County,ST_12_CT_91,12091
+Florida,ST_12,Alachua County,ST_12_CT_1,12001
+Florida,ST_12,Gilchrist County,ST_12_CT_41,12041
+Florida,ST_12,Levy County,ST_12_CT_75,12075
+Florida,ST_12,Dixie County,ST_12_CT_29,12029
+Florida,ST_12,Seminole County,ST_12_CT_117,12117
+Florida,ST_12,Orange County,ST_12_CT_95,12095
+Florida,ST_12,Brevard County,ST_12_CT_9,12009
+Florida,ST_12,Indian River County,ST_12_CT_61,12061
+Florida,ST_12,Monroe County,ST_12_CT_87,12087
+Florida,ST_12,Miami-Dade County,ST_12_CT_86,12086
+Florida,ST_12,Broward County,ST_12_CT_11,12011
+Florida,ST_12,Palm Beach County,ST_12_CT_99,12099
+Florida,ST_12,Hendry County,ST_12_CT_51,12051
+Florida,ST_12,Martin County,ST_12_CT_85,12085
+Florida,ST_12,Glades County,ST_12_CT_43,12043
+Florida,ST_12,Hillsborough County,ST_12_CT_57,12057
+Florida,ST_12,Pasco County,ST_12_CT_101,12101
+Florida,ST_12,Pinellas County,ST_12_CT_103,12103
+Florida,ST_12,Polk County,ST_12_CT_105,12105
+Florida,ST_12,Highlands County,ST_12_CT_55,12055
+Florida,ST_12,Hardee County,ST_12_CT_49,12049
+Florida,ST_12,Osceola County,ST_12_CT_97,12097
+Florida,ST_12,Lee County,ST_12_CT_71,12071
+Florida,ST_12,Charlotte County,ST_12_CT_15,12015
+Florida,ST_12,Collier County,ST_12_CT_21,12021
+Florida,ST_12,Manatee County,ST_12_CT_81,12081
+Florida,ST_12,Sarasota County,ST_12_CT_115,12115
+Florida,ST_12,DeSoto County,ST_12_CT_27,12027
+Florida,ST_12,Citrus County,ST_12_CT_17,12017
+Florida,ST_12,Hernando County,ST_12_CT_53,12053
+Florida,ST_12,St. Lucie County,ST_12_CT_111,12111
+Florida,ST_12,Okeechobee County,ST_12_CT_93,12093
+Alabama,ST_1,St. Clair County,ST_1_CT_115,1115
+Alabama,ST_1,Jefferson County,ST_1_CT_73,1073
+Alabama,ST_1,Shelby County,ST_1_CT_117,1117
+Alabama,ST_1,Tallapoosa County,ST_1_CT_123,1123
+Alabama,ST_1,Blount County,ST_1_CT_9,1009
+Alabama,ST_1,Talladega County,ST_1_CT_121,1121
+Alabama,ST_1,Marshall County,ST_1_CT_95,1095
+Alabama,ST_1,Cullman County,ST_1_CT_43,1043
+Alabama,ST_1,Bibb County,ST_1_CT_7,1007
+Alabama,ST_1,Walker County,ST_1_CT_127,1127
+Alabama,ST_1,Chilton County,ST_1_CT_21,1021
+Alabama,ST_1,Coosa County,ST_1_CT_37,1037
+Alabama,ST_1,Clay County,ST_1_CT_27,1027
+Alabama,ST_1,Tuscaloosa County,ST_1_CT_125,1125
+Alabama,ST_1,Hale County,ST_1_CT_65,1065
+Alabama,ST_1,Pickens County,ST_1_CT_107,1107
+Alabama,ST_1,Greene County,ST_1_CT_63,1063
+Alabama,ST_1,Sumter County,ST_1_CT_119,1119
+Alabama,ST_1,Winston County,ST_1_CT_133,1133
+Alabama,ST_1,Fayette County,ST_1_CT_57,1057
+Alabama,ST_1,Marion County,ST_1_CT_93,1093
+Alabama,ST_1,Lamar County,ST_1_CT_75,1075
+Alabama,ST_1,Franklin County,ST_1_CT_59,1059
+Alabama,ST_1,Morgan County,ST_1_CT_103,1103
+Alabama,ST_1,Lauderdale County,ST_1_CT_77,1077
+Alabama,ST_1,Limestone County,ST_1_CT_83,1083
+Alabama,ST_1,Colbert County,ST_1_CT_33,1033
+Alabama,ST_1,Lawrence County,ST_1_CT_79,1079
+Alabama,ST_1,Jackson County,ST_1_CT_71,1071
+Alabama,ST_1,Madison County,ST_1_CT_89,1089
+Alabama,ST_1,Etowah County,ST_1_CT_55,1055
+Alabama,ST_1,Cherokee County,ST_1_CT_19,1019
+Alabama,ST_1,DeKalb County,ST_1_CT_49,1049
+Alabama,ST_1,Autauga County,ST_1_CT_1,1001
+Alabama,ST_1,Pike County,ST_1_CT_109,1109
+Alabama,ST_1,Crenshaw County,ST_1_CT_41,1041
+Alabama,ST_1,Montgomery County,ST_1_CT_101,1101
+Alabama,ST_1,Butler County,ST_1_CT_13,1013
+Alabama,ST_1,Barbour County,ST_1_CT_5,1005
+Alabama,ST_1,Elmore County,ST_1_CT_51,1051
+Alabama,ST_1,Bullock County,ST_1_CT_11,1011
+Alabama,ST_1,Macon County,ST_1_CT_87,1087
+Alabama,ST_1,Lowndes County,ST_1_CT_85,1085
+Alabama,ST_1,Covington County,ST_1_CT_39,1039
+Alabama,ST_1,Calhoun County,ST_1_CT_15,1015
+Alabama,ST_1,Cleburne County,ST_1_CT_29,1029
+Alabama,ST_1,Randolph County,ST_1_CT_111,1111
+Alabama,ST_1,Houston County,ST_1_CT_69,1069
+Alabama,ST_1,Henry County,ST_1_CT_67,1067
+Alabama,ST_1,Dale County,ST_1_CT_45,1045
+Alabama,ST_1,Geneva County,ST_1_CT_61,1061
+Alabama,ST_1,Coffee County,ST_1_CT_31,1031
+Alabama,ST_1,Conecuh County,ST_1_CT_35,1035
+Alabama,ST_1,Monroe County,ST_1_CT_99,1099
+Alabama,ST_1,Escambia County,ST_1_CT_53,1053
+Alabama,ST_1,Wilcox County,ST_1_CT_131,1131
+Alabama,ST_1,Clarke County,ST_1_CT_25,1025
+Alabama,ST_1,Mobile County,ST_1_CT_97,1097
+Alabama,ST_1,Baldwin County,ST_1_CT_3,1003
+Alabama,ST_1,Washington County,ST_1_CT_129,1129
+Alabama,ST_1,Dallas County,ST_1_CT_47,1047
+Alabama,ST_1,Marengo County,ST_1_CT_91,1091
+Alabama,ST_1,Perry County,ST_1_CT_105,1105
+Alabama,ST_1,Lee County,ST_1_CT_81,1081
+Alabama,ST_1,Russell County,ST_1_CT_113,1113
+Alabama,ST_1,Chambers County,ST_1_CT_17,1017
+Alabama,ST_1,Choctaw County,ST_1_CT_23,1023
+Tennessee,ST_47,Robertson County,ST_47_CT_147,47147
+Tennessee,ST_47,Davidson County,ST_47_CT_37,47037
+Tennessee,ST_47,DeKalb County,ST_47_CT_41,47041
+Tennessee,ST_47,Williamson County,ST_47_CT_187,47187
+Tennessee,ST_47,Cheatham County,ST_47_CT_21,47021
+Tennessee,ST_47,Cannon County,ST_47_CT_15,47015
+Tennessee,ST_47,Coffee County,ST_47_CT_31,47031
+Tennessee,ST_47,Marshall County,ST_47_CT_117,47117
+Tennessee,ST_47,Bedford County,ST_47_CT_3,47003
+Tennessee,ST_47,Sumner County,ST_47_CT_165,47165
+Tennessee,ST_47,Stewart County,ST_47_CT_161,47161
+Tennessee,ST_47,Hickman County,ST_47_CT_81,47081
+Tennessee,ST_47,Dickson County,ST_47_CT_43,47043
+Tennessee,ST_47,Smith County,ST_47_CT_159,47159
+Tennessee,ST_47,Rutherford County,ST_47_CT_149,47149
+Tennessee,ST_47,Montgomery County,ST_47_CT_125,47125
+Tennessee,ST_47,Houston County,ST_47_CT_83,47083
+Tennessee,ST_47,Wilson County,ST_47_CT_189,47189
+Tennessee,ST_47,Trousdale County,ST_47_CT_169,47169
+Tennessee,ST_47,Humphreys County,ST_47_CT_85,47085
+Tennessee,ST_47,Macon County,ST_47_CT_111,47111
+Tennessee,ST_47,Perry County,ST_47_CT_135,47135
+Tennessee,ST_47,Warren County,ST_47_CT_177,47177
+Tennessee,ST_47,Lincoln County,ST_47_CT_103,47103
+Tennessee,ST_47,Maury County,ST_47_CT_119,47119
+Tennessee,ST_47,Grundy County,ST_47_CT_61,47061
+Tennessee,ST_47,Hamilton County,ST_47_CT_65,47065
+Tennessee,ST_47,McMinn County,ST_47_CT_107,47107
+Tennessee,ST_47,Franklin County,ST_47_CT_51,47051
+Tennessee,ST_47,Polk County,ST_47_CT_139,47139
+Tennessee,ST_47,Bradley County,ST_47_CT_11,47011
+Tennessee,ST_47,Monroe County,ST_47_CT_123,47123
+Tennessee,ST_47,Rhea County,ST_47_CT_143,47143
+Tennessee,ST_47,Meigs County,ST_47_CT_121,47121
+Tennessee,ST_47,Sequatchie County,ST_47_CT_153,47153
+Tennessee,ST_47,Marion County,ST_47_CT_115,47115
+Tennessee,ST_47,Moore County,ST_47_CT_127,47127
+Tennessee,ST_47,Bledsoe County,ST_47_CT_7,47007
+Tennessee,ST_47,Shelby County,ST_47_CT_157,47157
+Tennessee,ST_47,Washington County,ST_47_CT_179,47179
+Tennessee,ST_47,Greene County,ST_47_CT_59,47059
+Tennessee,ST_47,Sullivan County,ST_47_CT_163,47163
+Tennessee,ST_47,Johnson County,ST_47_CT_91,47091
+Tennessee,ST_47,Hawkins County,ST_47_CT_73,47073
+Tennessee,ST_47,Carter County,ST_47_CT_19,47019
+Tennessee,ST_47,Unicoi County,ST_47_CT_171,47171
+Tennessee,ST_47,Blount County,ST_47_CT_9,47009
+Tennessee,ST_47,Anderson County,ST_47_CT_1,47001
+Tennessee,ST_47,Claiborne County,ST_47_CT_25,47025
+Tennessee,ST_47,Grainger County,ST_47_CT_57,47057
+Tennessee,ST_47,Cocke County,ST_47_CT_29,47029
+Tennessee,ST_47,Campbell County,ST_47_CT_13,47013
+Tennessee,ST_47,Morgan County,ST_47_CT_129,47129
+Tennessee,ST_47,Knox County,ST_47_CT_93,47093
+Tennessee,ST_47,Cumberland County,ST_47_CT_35,47035
+Tennessee,ST_47,Jefferson County,ST_47_CT_89,47089
+Tennessee,ST_47,Scott County,ST_47_CT_151,47151
+Tennessee,ST_47,Sevier County,ST_47_CT_155,47155
+Tennessee,ST_47,Loudon County,ST_47_CT_105,47105
+Tennessee,ST_47,Roane County,ST_47_CT_145,47145
+Tennessee,ST_47,Hancock County,ST_47_CT_67,47067
+Tennessee,ST_47,Hamblen County,ST_47_CT_63,47063
+Tennessee,ST_47,Union County,ST_47_CT_173,47173
+Tennessee,ST_47,Crockett County,ST_47_CT_33,47033
+Tennessee,ST_47,Tipton County,ST_47_CT_167,47167
+Tennessee,ST_47,Dyer County,ST_47_CT_45,47045
+Tennessee,ST_47,Hardeman County,ST_47_CT_69,47069
+Tennessee,ST_47,Fayette County,ST_47_CT_47,47047
+Tennessee,ST_47,Haywood County,ST_47_CT_75,47075
+Tennessee,ST_47,Lauderdale County,ST_47_CT_97,47097
+Tennessee,ST_47,Lake County,ST_47_CT_95,47095
+Tennessee,ST_47,Carroll County,ST_47_CT_17,47017
+Tennessee,ST_47,Benton County,ST_47_CT_5,47005
+Tennessee,ST_47,Henry County,ST_47_CT_79,47079
+Tennessee,ST_47,Weakley County,ST_47_CT_183,47183
+Tennessee,ST_47,Obion County,ST_47_CT_131,47131
+Tennessee,ST_47,Gibson County,ST_47_CT_53,47053
+Tennessee,ST_47,Madison County,ST_47_CT_113,47113
+Tennessee,ST_47,McNairy County,ST_47_CT_109,47109
+Tennessee,ST_47,Decatur County,ST_47_CT_39,47039
+Tennessee,ST_47,Hardin County,ST_47_CT_71,47071
+Tennessee,ST_47,Henderson County,ST_47_CT_77,47077
+Tennessee,ST_47,Chester County,ST_47_CT_23,47023
+Tennessee,ST_47,Wayne County,ST_47_CT_181,47181
+Tennessee,ST_47,Giles County,ST_47_CT_55,47055
+Tennessee,ST_47,Lawrence County,ST_47_CT_99,47099
+Tennessee,ST_47,Lewis County,ST_47_CT_101,47101
+Tennessee,ST_47,Putnam County,ST_47_CT_141,47141
+Tennessee,ST_47,Fentress County,ST_47_CT_49,47049
+Tennessee,ST_47,Overton County,ST_47_CT_133,47133
+Tennessee,ST_47,Pickett County,ST_47_CT_137,47137
+Tennessee,ST_47,Clay County,ST_47_CT_27,47027
+Tennessee,ST_47,White County,ST_47_CT_185,47185
+Tennessee,ST_47,Jackson County,ST_47_CT_87,47087
+Tennessee,ST_47,Van Buren County,ST_47_CT_175,47175
+Mississippi,ST_28,Lafayette County,ST_28_CT_71,28071
+Mississippi,ST_28,Tate County,ST_28_CT_137,28137
+Mississippi,ST_28,Benton County,ST_28_CT_9,28009
+Mississippi,ST_28,Panola County,ST_28_CT_107,28107
+Mississippi,ST_28,Quitman County,ST_28_CT_119,28119
+Mississippi,ST_28,Tippah County,ST_28_CT_139,28139
+Mississippi,ST_28,Marshall County,ST_28_CT_93,28093
+Mississippi,ST_28,Coahoma County,ST_28_CT_27,28027
+Mississippi,ST_28,Tunica County,ST_28_CT_143,28143
+Mississippi,ST_28,Union County,ST_28_CT_145,28145
+Mississippi,ST_28,DeSoto County,ST_28_CT_33,28033
+Mississippi,ST_28,Washington County,ST_28_CT_151,28151
+Mississippi,ST_28,Bolivar County,ST_28_CT_11,28011
+Mississippi,ST_28,Sharkey County,ST_28_CT_125,28125
+Mississippi,ST_28,Sunflower County,ST_28_CT_133,28133
+Mississippi,ST_28,Issaquena County,ST_28_CT_55,28055
+Mississippi,ST_28,Humphreys County,ST_28_CT_53,28053
+Mississippi,ST_28,Lee County,ST_28_CT_81,28081
+Mississippi,ST_28,Pontotoc County,ST_28_CT_115,28115
+Mississippi,ST_28,Monroe County,ST_28_CT_95,28095
+Mississippi,ST_28,Tishomingo County,ST_28_CT_141,28141
+Mississippi,ST_28,Prentiss County,ST_28_CT_117,28117
+Mississippi,ST_28,Alcorn County,ST_28_CT_3,28003
+Mississippi,ST_28,Calhoun County,ST_28_CT_13,28013
+Mississippi,ST_28,Itawamba County,ST_28_CT_57,28057
+Mississippi,ST_28,Chickasaw County,ST_28_CT_17,28017
+Mississippi,ST_28,Grenada County,ST_28_CT_43,28043
+Mississippi,ST_28,Carroll County,ST_28_CT_15,28015
+Mississippi,ST_28,Tallahatchie County,ST_28_CT_135,28135
+Mississippi,ST_28,Yalobusha County,ST_28_CT_161,28161
+Mississippi,ST_28,Holmes County,ST_28_CT_51,28051
+Mississippi,ST_28,Montgomery County,ST_28_CT_97,28097
+Mississippi,ST_28,Leflore County,ST_28_CT_83,28083
+Mississippi,ST_28,Yazoo County,ST_28_CT_163,28163
+Mississippi,ST_28,Hinds County,ST_28_CT_49,28049
+Mississippi,ST_28,Rankin County,ST_28_CT_121,28121
+Mississippi,ST_28,Simpson County,ST_28_CT_127,28127
+Mississippi,ST_28,Madison County,ST_28_CT_89,28089
+Mississippi,ST_28,Leake County,ST_28_CT_79,28079
+Mississippi,ST_28,Newton County,ST_28_CT_101,28101
+Mississippi,ST_28,Copiah County,ST_28_CT_29,28029
+Mississippi,ST_28,Attala County,ST_28_CT_7,28007
+Mississippi,ST_28,Jefferson County,ST_28_CT_63,28063
+Mississippi,ST_28,Scott County,ST_28_CT_123,28123
+Mississippi,ST_28,Claiborne County,ST_28_CT_21,28021
+Mississippi,ST_28,Smith County,ST_28_CT_129,28129
+Mississippi,ST_28,Covington County,ST_28_CT_31,28031
+Mississippi,ST_28,Adams County,ST_28_CT_1,28001
+Mississippi,ST_28,Lawrence County,ST_28_CT_77,28077
+Mississippi,ST_28,Warren County,ST_28_CT_149,28149
+Mississippi,ST_28,Lauderdale County,ST_28_CT_75,28075
+Mississippi,ST_28,Wayne County,ST_28_CT_153,28153
+Mississippi,ST_28,Kemper County,ST_28_CT_69,28069
+Mississippi,ST_28,Clarke County,ST_28_CT_23,28023
+Mississippi,ST_28,Jasper County,ST_28_CT_61,28061
+Mississippi,ST_28,Winston County,ST_28_CT_159,28159
+Mississippi,ST_28,Noxubee County,ST_28_CT_103,28103
+Mississippi,ST_28,Neshoba County,ST_28_CT_99,28099
+Mississippi,ST_28,Greene County,ST_28_CT_41,28041
+Mississippi,ST_28,Forrest County,ST_28_CT_35,28035
+Mississippi,ST_28,Jefferson Davis County,ST_28_CT_65,28065
+Mississippi,ST_28,Perry County,ST_28_CT_111,28111
+Mississippi,ST_28,Pearl River County,ST_28_CT_109,28109
+Mississippi,ST_28,Marion County,ST_28_CT_91,28091
+Mississippi,ST_28,Jones County,ST_28_CT_67,28067
+Mississippi,ST_28,George County,ST_28_CT_39,28039
+Mississippi,ST_28,Lamar County,ST_28_CT_73,28073
+Mississippi,ST_28,Harrison County,ST_28_CT_47,28047
+Mississippi,ST_28,Hancock County,ST_28_CT_45,28045
+Mississippi,ST_28,Jackson County,ST_28_CT_59,28059
+Mississippi,ST_28,Stone County,ST_28_CT_131,28131
+Mississippi,ST_28,Lincoln County,ST_28_CT_85,28085
+Mississippi,ST_28,Franklin County,ST_28_CT_37,28037
+Mississippi,ST_28,Wilkinson County,ST_28_CT_157,28157
+Mississippi,ST_28,Pike County,ST_28_CT_113,28113
+Mississippi,ST_28,Amite County,ST_28_CT_5,28005
+Mississippi,ST_28,Walthall County,ST_28_CT_147,28147
+Mississippi,ST_28,Lowndes County,ST_28_CT_87,28087
+Mississippi,ST_28,Choctaw County,ST_28_CT_19,28019
+Mississippi,ST_28,Webster County,ST_28_CT_155,28155
+Mississippi,ST_28,Clay County,ST_28_CT_25,28025
+Mississippi,ST_28,Oktibbeha County,ST_28_CT_105,28105
+Kentucky,ST_21,Shelby County,ST_21_CT_211,21211
+Kentucky,ST_21,Nelson County,ST_21_CT_179,21179
+Kentucky,ST_21,Trimble County,ST_21_CT_223,21223
+Kentucky,ST_21,Henry County,ST_21_CT_103,21103
+Kentucky,ST_21,Marion County,ST_21_CT_155,21155
+Kentucky,ST_21,Oldham County,ST_21_CT_185,21185
+Kentucky,ST_21,Jefferson County,ST_21_CT_111,21111
+Kentucky,ST_21,Washington County,ST_21_CT_229,21229
+Kentucky,ST_21,Spencer County,ST_21_CT_215,21215
+Kentucky,ST_21,Bullitt County,ST_21_CT_29,21029
+Kentucky,ST_21,Meade County,ST_21_CT_163,21163
+Kentucky,ST_21,Breckinridge County,ST_21_CT_27,21027
+Kentucky,ST_21,Grayson County,ST_21_CT_85,21085
+Kentucky,ST_21,Hardin County,ST_21_CT_93,21093
+Kentucky,ST_21,Mercer County,ST_21_CT_167,21167
+Kentucky,ST_21,Nicholas County,ST_21_CT_181,21181
+Kentucky,ST_21,Powell County,ST_21_CT_197,21197
+Kentucky,ST_21,Rowan County,ST_21_CT_205,21205
+Kentucky,ST_21,Menifee County,ST_21_CT_165,21165
+Kentucky,ST_21,Scott County,ST_21_CT_209,21209
+Kentucky,ST_21,Montgomery County,ST_21_CT_173,21173
+Kentucky,ST_21,Estill County,ST_21_CT_65,21065
+Kentucky,ST_21,Jessamine County,ST_21_CT_113,21113
+Kentucky,ST_21,Anderson County,ST_21_CT_5,21005
+Kentucky,ST_21,Woodford County,ST_21_CT_239,21239
+Kentucky,ST_21,Bourbon County,ST_21_CT_17,21017
+Kentucky,ST_21,Owen County,ST_21_CT_187,21187
+Kentucky,ST_21,Bath County,ST_21_CT_11,21011
+Kentucky,ST_21,Madison County,ST_21_CT_151,21151
+Kentucky,ST_21,Clark County,ST_21_CT_49,21049
+Kentucky,ST_21,Jackson County,ST_21_CT_109,21109
+Kentucky,ST_21,Rockcastle County,ST_21_CT_203,21203
+Kentucky,ST_21,Garrard County,ST_21_CT_79,21079
+Kentucky,ST_21,Lincoln County,ST_21_CT_137,21137
+Kentucky,ST_21,Boyle County,ST_21_CT_21,21021
+Kentucky,ST_21,Fayette County,ST_21_CT_67,21067
+Kentucky,ST_21,Franklin County,ST_21_CT_73,21073
+Kentucky,ST_21,Whitley County,ST_21_CT_235,21235
+Kentucky,ST_21,Laurel County,ST_21_CT_125,21125
+Kentucky,ST_21,Knox County,ST_21_CT_121,21121
+Kentucky,ST_21,Harlan County,ST_21_CT_95,21095
+Kentucky,ST_21,Leslie County,ST_21_CT_131,21131
+Kentucky,ST_21,Bell County,ST_21_CT_13,21013
+Kentucky,ST_21,Letcher County,ST_21_CT_133,21133
+Kentucky,ST_21,Clay County,ST_21_CT_51,21051
+Kentucky,ST_21,Perry County,ST_21_CT_193,21193
+Kentucky,ST_21,Campbell County,ST_21_CT_37,21037
+Kentucky,ST_21,Bracken County,ST_21_CT_23,21023
+Kentucky,ST_21,Harrison County,ST_21_CT_97,21097
+Kentucky,ST_21,Boone County,ST_21_CT_15,21015
+Kentucky,ST_21,Pendleton County,ST_21_CT_191,21191
+Kentucky,ST_21,Carroll County,ST_21_CT_41,21041
+Kentucky,ST_21,Grant County,ST_21_CT_81,21081
+Kentucky,ST_21,Kenton County,ST_21_CT_117,21117
+Kentucky,ST_21,Mason County,ST_21_CT_161,21161
+Kentucky,ST_21,Fleming County,ST_21_CT_69,21069
+Kentucky,ST_21,Gallatin County,ST_21_CT_77,21077
+Kentucky,ST_21,Robertson County,ST_21_CT_201,21201
+Kentucky,ST_21,Boyd County,ST_21_CT_19,21019
+Kentucky,ST_21,Greenup County,ST_21_CT_89,21089
+Kentucky,ST_21,Lawrence County,ST_21_CT_127,21127
+Kentucky,ST_21,Lewis County,ST_21_CT_135,21135
+Kentucky,ST_21,Carter County,ST_21_CT_43,21043
+Kentucky,ST_21,Elliott County,ST_21_CT_63,21063
+Kentucky,ST_21,Martin County,ST_21_CT_159,21159
+Kentucky,ST_21,Johnson County,ST_21_CT_115,21115
+Kentucky,ST_21,Wolfe County,ST_21_CT_237,21237
+Kentucky,ST_21,Breathitt County,ST_21_CT_25,21025
+Kentucky,ST_21,Lee County,ST_21_CT_129,21129
+Kentucky,ST_21,Owsley County,ST_21_CT_189,21189
+Kentucky,ST_21,Morgan County,ST_21_CT_175,21175
+Kentucky,ST_21,Magoffin County,ST_21_CT_153,21153
+Kentucky,ST_21,Pike County,ST_21_CT_195,21195
+Kentucky,ST_21,Floyd County,ST_21_CT_71,21071
+Kentucky,ST_21,Knott County,ST_21_CT_119,21119
+Kentucky,ST_21,McCracken County,ST_21_CT_145,21145
+Kentucky,ST_21,Calloway County,ST_21_CT_35,21035
+Kentucky,ST_21,Carlisle County,ST_21_CT_39,21039
+Kentucky,ST_21,Ballard County,ST_21_CT_7,21007
+Kentucky,ST_21,Marshall County,ST_21_CT_157,21157
+Kentucky,ST_21,Graves County,ST_21_CT_83,21083
+Kentucky,ST_21,Livingston County,ST_21_CT_139,21139
+Kentucky,ST_21,Hickman County,ST_21_CT_105,21105
+Kentucky,ST_21,Crittenden County,ST_21_CT_55,21055
+Kentucky,ST_21,Lyon County,ST_21_CT_143,21143
+Kentucky,ST_21,Fulton County,ST_21_CT_75,21075
+Kentucky,ST_21,Warren County,ST_21_CT_227,21227
+Kentucky,ST_21,Allen County,ST_21_CT_3,21003
+Kentucky,ST_21,Barren County,ST_21_CT_9,21009
+Kentucky,ST_21,Metcalfe County,ST_21_CT_169,21169
+Kentucky,ST_21,Monroe County,ST_21_CT_171,21171
+Kentucky,ST_21,Simpson County,ST_21_CT_213,21213
+Kentucky,ST_21,Edmonson County,ST_21_CT_61,21061
+Kentucky,ST_21,Butler County,ST_21_CT_31,21031
+Kentucky,ST_21,Logan County,ST_21_CT_141,21141
+Kentucky,ST_21,Todd County,ST_21_CT_219,21219
+Kentucky,ST_21,Trigg County,ST_21_CT_221,21221
+Kentucky,ST_21,Christian County,ST_21_CT_47,21047
+Kentucky,ST_21,Daviess County,ST_21_CT_59,21059
+Kentucky,ST_21,Ohio County,ST_21_CT_183,21183
+Kentucky,ST_21,Muhlenberg County,ST_21_CT_177,21177
+Kentucky,ST_21,McLean County,ST_21_CT_149,21149
+Kentucky,ST_21,Hancock County,ST_21_CT_91,21091
+Kentucky,ST_21,Henderson County,ST_21_CT_101,21101
+Kentucky,ST_21,Webster County,ST_21_CT_233,21233
+Kentucky,ST_21,Hopkins County,ST_21_CT_107,21107
+Kentucky,ST_21,Caldwell County,ST_21_CT_33,21033
+Kentucky,ST_21,Union County,ST_21_CT_225,21225
+Kentucky,ST_21,Pulaski County,ST_21_CT_199,21199
+Kentucky,ST_21,Casey County,ST_21_CT_45,21045
+Kentucky,ST_21,Clinton County,ST_21_CT_53,21053
+Kentucky,ST_21,Russell County,ST_21_CT_207,21207
+Kentucky,ST_21,McCreary County,ST_21_CT_147,21147
+Kentucky,ST_21,Wayne County,ST_21_CT_231,21231
+Kentucky,ST_21,Cumberland County,ST_21_CT_57,21057
+Kentucky,ST_21,Hart County,ST_21_CT_99,21099
+Kentucky,ST_21,Adair County,ST_21_CT_1,21001
+Kentucky,ST_21,Larue County,ST_21_CT_123,21123
+Kentucky,ST_21,Taylor County,ST_21_CT_217,21217
+Kentucky,ST_21,Green County,ST_21_CT_87,21087
+Ohio,ST_39,Licking County,ST_39_CT_89,39089
+Ohio,ST_39,Franklin County,ST_39_CT_49,39049
+Ohio,ST_39,Delaware County,ST_39_CT_41,39041
+Ohio,ST_39,Knox County,ST_39_CT_83,39083
+Ohio,ST_39,Union County,ST_39_CT_159,39159
+Ohio,ST_39,Champaign County,ST_39_CT_21,39021
+Ohio,ST_39,Clark County,ST_39_CT_23,39023
+Ohio,ST_39,Fairfield County,ST_39_CT_45,39045
+Ohio,ST_39,Madison County,ST_39_CT_97,39097
+Ohio,ST_39,Perry County,ST_39_CT_127,39127
+Ohio,ST_39,Ross County,ST_39_CT_141,39141
+Ohio,ST_39,Pickaway County,ST_39_CT_129,39129
+Ohio,ST_39,Fayette County,ST_39_CT_47,39047
+Ohio,ST_39,Hocking County,ST_39_CT_73,39073
+Ohio,ST_39,Marion County,ST_39_CT_101,39101
+Ohio,ST_39,Logan County,ST_39_CT_91,39091
+Ohio,ST_39,Morrow County,ST_39_CT_117,39117
+Ohio,ST_39,Wyandot County,ST_39_CT_175,39175
+Ohio,ST_39,Hardin County,ST_39_CT_65,39065
+Ohio,ST_39,Wood County,ST_39_CT_173,39173
+Ohio,ST_39,Sandusky County,ST_39_CT_143,39143
+Ohio,ST_39,Ottawa County,ST_39_CT_123,39123
+Ohio,ST_39,Lucas County,ST_39_CT_95,39095
+Ohio,ST_39,Erie County,ST_39_CT_43,39043
+Ohio,ST_39,Williams County,ST_39_CT_171,39171
+Ohio,ST_39,Fulton County,ST_39_CT_51,39051
+Ohio,ST_39,Henry County,ST_39_CT_69,39069
+Ohio,ST_39,Defiance County,ST_39_CT_39,39039
+Ohio,ST_39,Muskingum County,ST_39_CT_119,39119
+Ohio,ST_39,Noble County,ST_39_CT_121,39121
+Ohio,ST_39,Belmont County,ST_39_CT_13,39013
+Ohio,ST_39,Monroe County,ST_39_CT_111,39111
+Ohio,ST_39,Guernsey County,ST_39_CT_59,39059
+Ohio,ST_39,Morgan County,ST_39_CT_115,39115
+Ohio,ST_39,Coshocton County,ST_39_CT_31,39031
+Ohio,ST_39,Tuscarawas County,ST_39_CT_157,39157
+Ohio,ST_39,Jefferson County,ST_39_CT_81,39081
+Ohio,ST_39,Harrison County,ST_39_CT_67,39067
+Ohio,ST_39,Columbiana County,ST_39_CT_29,39029
+Ohio,ST_39,Lorain County,ST_39_CT_93,39093
+Ohio,ST_39,Ashtabula County,ST_39_CT_7,39007
+Ohio,ST_39,Cuyahoga County,ST_39_CT_35,39035
+Ohio,ST_39,Geauga County,ST_39_CT_55,39055
+Ohio,ST_39,Lake County,ST_39_CT_85,39085
+Ohio,ST_39,Summit County,ST_39_CT_153,39153
+Ohio,ST_39,Portage County,ST_39_CT_133,39133
+Ohio,ST_39,Medina County,ST_39_CT_103,39103
+Ohio,ST_39,Wayne County,ST_39_CT_169,39169
+Ohio,ST_39,Mahoning County,ST_39_CT_99,39099
+Ohio,ST_39,Trumbull County,ST_39_CT_155,39155
+Ohio,ST_39,Stark County,ST_39_CT_151,39151
+Ohio,ST_39,Carroll County,ST_39_CT_19,39019
+Ohio,ST_39,Holmes County,ST_39_CT_75,39075
+Ohio,ST_39,Seneca County,ST_39_CT_147,39147
+Ohio,ST_39,Hancock County,ST_39_CT_63,39063
+Ohio,ST_39,Ashland County,ST_39_CT_5,39005
+Ohio,ST_39,Huron County,ST_39_CT_77,39077
+Ohio,ST_39,Richland County,ST_39_CT_139,39139
+Ohio,ST_39,Crawford County,ST_39_CT_33,39033
+Ohio,ST_39,Hamilton County,ST_39_CT_61,39061
+Ohio,ST_39,Butler County,ST_39_CT_17,39017
+Ohio,ST_39,Warren County,ST_39_CT_165,39165
+Ohio,ST_39,Preble County,ST_39_CT_135,39135
+Ohio,ST_39,Brown County,ST_39_CT_15,39015
+Ohio,ST_39,Clermont County,ST_39_CT_25,39025
+Ohio,ST_39,Adams County,ST_39_CT_1,39001
+Ohio,ST_39,Clinton County,ST_39_CT_27,39027
+Ohio,ST_39,Highland County,ST_39_CT_71,39071
+Ohio,ST_39,Greene County,ST_39_CT_57,39057
+Ohio,ST_39,Shelby County,ST_39_CT_149,39149
+Ohio,ST_39,Darke County,ST_39_CT_37,39037
+Ohio,ST_39,Miami County,ST_39_CT_109,39109
+Ohio,ST_39,Montgomery County,ST_39_CT_113,39113
+Ohio,ST_39,Mercer County,ST_39_CT_107,39107
+Ohio,ST_39,Pike County,ST_39_CT_131,39131
+Ohio,ST_39,Gallia County,ST_39_CT_53,39053
+Ohio,ST_39,Lawrence County,ST_39_CT_87,39087
+Ohio,ST_39,Jackson County,ST_39_CT_79,39079
+Ohio,ST_39,Vinton County,ST_39_CT_163,39163
+Ohio,ST_39,Scioto County,ST_39_CT_145,39145
+Ohio,ST_39,Athens County,ST_39_CT_9,39009
+Ohio,ST_39,Washington County,ST_39_CT_167,39167
+Ohio,ST_39,Meigs County,ST_39_CT_105,39105
+Ohio,ST_39,Allen County,ST_39_CT_3,39003
+Ohio,ST_39,Auglaize County,ST_39_CT_11,39011
+Ohio,ST_39,Paulding County,ST_39_CT_125,39125
+Ohio,ST_39,Putnam County,ST_39_CT_137,39137
+Ohio,ST_39,Van Wert County,ST_39_CT_161,39161
+Indiana,ST_18,Madison County,ST_18_CT_95,18095
+Indiana,ST_18,Hamilton County,ST_18_CT_57,18057
+Indiana,ST_18,Clinton County,ST_18_CT_23,18023
+Indiana,ST_18,Hancock County,ST_18_CT_59,18059
+Indiana,ST_18,Tipton County,ST_18_CT_159,18159
+Indiana,ST_18,Boone County,ST_18_CT_11,18011
+Indiana,ST_18,Hendricks County,ST_18_CT_63,18063
+Indiana,ST_18,Rush County,ST_18_CT_139,18139
+Indiana,ST_18,Putnam County,ST_18_CT_133,18133
+Indiana,ST_18,Johnson County,ST_18_CT_81,18081
+Indiana,ST_18,Marion County,ST_18_CT_97,18097
+Indiana,ST_18,Shelby County,ST_18_CT_145,18145
+Indiana,ST_18,Morgan County,ST_18_CT_109,18109
+Indiana,ST_18,Fayette County,ST_18_CT_41,18041
+Indiana,ST_18,Henry County,ST_18_CT_65,18065
+Indiana,ST_18,Porter County,ST_18_CT_127,18127
+Indiana,ST_18,Lake County,ST_18_CT_89,18089
+Indiana,ST_18,Jasper County,ST_18_CT_73,18073
+Indiana,ST_18,LaPorte County,ST_18_CT_91,18091
+Indiana,ST_18,Newton County,ST_18_CT_111,18111
+Indiana,ST_18,Starke County,ST_18_CT_149,18149
+Indiana,ST_18,Marshall County,ST_18_CT_99,18099
+Indiana,ST_18,Kosciusko County,ST_18_CT_85,18085
+Indiana,ST_18,Elkhart County,ST_18_CT_39,18039
+Indiana,ST_18,St. Joseph County,ST_18_CT_141,18141
+Indiana,ST_18,LaGrange County,ST_18_CT_87,18087
+Indiana,ST_18,Noble County,ST_18_CT_113,18113
+Indiana,ST_18,Huntington County,ST_18_CT_69,18069
+Indiana,ST_18,Steuben County,ST_18_CT_151,18151
+Indiana,ST_18,Allen County,ST_18_CT_3,18003
+Indiana,ST_18,DeKalb County,ST_18_CT_33,18033
+Indiana,ST_18,Adams County,ST_18_CT_1,18001
+Indiana,ST_18,Wells County,ST_18_CT_179,18179
+Indiana,ST_18,Whitley County,ST_18_CT_183,18183
+Indiana,ST_18,Howard County,ST_18_CT_67,18067
+Indiana,ST_18,Fulton County,ST_18_CT_49,18049
+Indiana,ST_18,Miami County,ST_18_CT_103,18103
+Indiana,ST_18,Carroll County,ST_18_CT_15,18015
+Indiana,ST_18,Grant County,ST_18_CT_53,18053
+Indiana,ST_18,Cass County,ST_18_CT_17,18017
+Indiana,ST_18,Wabash County,ST_18_CT_169,18169
+Indiana,ST_18,Pulaski County,ST_18_CT_131,18131
+Indiana,ST_18,Dearborn County,ST_18_CT_29,18029
+Indiana,ST_18,Union County,ST_18_CT_161,18161
+Indiana,ST_18,Ripley County,ST_18_CT_137,18137
+Indiana,ST_18,Franklin County,ST_18_CT_47,18047
+Indiana,ST_18,Switzerland County,ST_18_CT_155,18155
+Indiana,ST_18,Ohio County,ST_18_CT_115,18115
+Indiana,ST_18,Scott County,ST_18_CT_143,18143
+Indiana,ST_18,Clark County,ST_18_CT_19,18019
+Indiana,ST_18,Harrison County,ST_18_CT_61,18061
+Indiana,ST_18,Washington County,ST_18_CT_175,18175
+Indiana,ST_18,Crawford County,ST_18_CT_25,18025
+Indiana,ST_18,Floyd County,ST_18_CT_43,18043
+Indiana,ST_18,Bartholomew County,ST_18_CT_5,18005
+Indiana,ST_18,Jackson County,ST_18_CT_71,18071
+Indiana,ST_18,Jennings County,ST_18_CT_79,18079
+Indiana,ST_18,Jefferson County,ST_18_CT_77,18077
+Indiana,ST_18,Decatur County,ST_18_CT_31,18031
+Indiana,ST_18,Delaware County,ST_18_CT_35,18035
+Indiana,ST_18,Wayne County,ST_18_CT_177,18177
+Indiana,ST_18,Jay County,ST_18_CT_75,18075
+Indiana,ST_18,Randolph County,ST_18_CT_135,18135
+Indiana,ST_18,Blackford County,ST_18_CT_9,18009
+Indiana,ST_18,Monroe County,ST_18_CT_105,18105
+Indiana,ST_18,Lawrence County,ST_18_CT_93,18093
+Indiana,ST_18,Greene County,ST_18_CT_55,18055
+Indiana,ST_18,Owen County,ST_18_CT_119,18119
+Indiana,ST_18,Orange County,ST_18_CT_117,18117
+Indiana,ST_18,Brown County,ST_18_CT_13,18013
+Indiana,ST_18,Daviess County,ST_18_CT_27,18027
+Indiana,ST_18,Knox County,ST_18_CT_83,18083
+Indiana,ST_18,Dubois County,ST_18_CT_37,18037
+Indiana,ST_18,Perry County,ST_18_CT_123,18123
+Indiana,ST_18,Martin County,ST_18_CT_101,18101
+Indiana,ST_18,Spencer County,ST_18_CT_147,18147
+Indiana,ST_18,Pike County,ST_18_CT_125,18125
+Indiana,ST_18,Warrick County,ST_18_CT_173,18173
+Indiana,ST_18,Posey County,ST_18_CT_129,18129
+Indiana,ST_18,Vanderburgh County,ST_18_CT_163,18163
+Indiana,ST_18,Gibson County,ST_18_CT_51,18051
+Indiana,ST_18,Vigo County,ST_18_CT_167,18167
+Indiana,ST_18,Parke County,ST_18_CT_121,18121
+Indiana,ST_18,Vermillion County,ST_18_CT_165,18165
+Indiana,ST_18,Clay County,ST_18_CT_21,18021
+Indiana,ST_18,Sullivan County,ST_18_CT_153,18153
+Indiana,ST_18,Tippecanoe County,ST_18_CT_157,18157
+Indiana,ST_18,Montgomery County,ST_18_CT_107,18107
+Indiana,ST_18,Benton County,ST_18_CT_7,18007
+Indiana,ST_18,Fountain County,ST_18_CT_45,18045
+Indiana,ST_18,White County,ST_18_CT_181,18181
+Indiana,ST_18,Warren County,ST_18_CT_171,18171
+Michigan,ST_26,St. Clair County,ST_26_CT_147,26147
+Michigan,ST_26,Lapeer County,ST_26_CT_87,26087
+Michigan,ST_26,Macomb County,ST_26_CT_99,26099
+Michigan,ST_26,Oakland County,ST_26_CT_125,26125
+Michigan,ST_26,Wayne County,ST_26_CT_163,26163
+Michigan,ST_26,Washtenaw County,ST_26_CT_161,26161
+Michigan,ST_26,Monroe County,ST_26_CT_115,26115
+Michigan,ST_26,Livingston County,ST_26_CT_93,26093
+Michigan,ST_26,Sanilac County,ST_26_CT_151,26151
+Michigan,ST_26,Genesee County,ST_26_CT_49,26049
+Michigan,ST_26,Huron County,ST_26_CT_63,26063
+Michigan,ST_26,Shiawassee County,ST_26_CT_155,26155
+Michigan,ST_26,Saginaw County,ST_26_CT_145,26145
+Michigan,ST_26,Tuscola County,ST_26_CT_157,26157
+Michigan,ST_26,Ogemaw County,ST_26_CT_129,26129
+Michigan,ST_26,Bay County,ST_26_CT_17,26017
+Michigan,ST_26,Gladwin County,ST_26_CT_51,26051
+Michigan,ST_26,Gratiot County,ST_26_CT_57,26057
+Michigan,ST_26,Clare County,ST_26_CT_35,26035
+Michigan,ST_26,Midland County,ST_26_CT_111,26111
+Michigan,ST_26,Oscoda County,ST_26_CT_135,26135
+Michigan,ST_26,Roscommon County,ST_26_CT_143,26143
+Michigan,ST_26,Arenac County,ST_26_CT_11,26011
+Michigan,ST_26,Alcona County,ST_26_CT_1,26001
+Michigan,ST_26,Iosco County,ST_26_CT_69,26069
+Michigan,ST_26,Isabella County,ST_26_CT_73,26073
+Michigan,ST_26,Ingham County,ST_26_CT_65,26065
+Michigan,ST_26,Clinton County,ST_26_CT_37,26037
+Michigan,ST_26,Ionia County,ST_26_CT_67,26067
+Michigan,ST_26,Montcalm County,ST_26_CT_117,26117
+Michigan,ST_26,Eaton County,ST_26_CT_45,26045
+Michigan,ST_26,Barry County,ST_26_CT_15,26015
+Michigan,ST_26,Kalamazoo County,ST_26_CT_77,26077
+Michigan,ST_26,Allegan County,ST_26_CT_5,26005
+Michigan,ST_26,Calhoun County,ST_26_CT_25,26025
+Michigan,ST_26,Van Buren County,ST_26_CT_159,26159
+Michigan,ST_26,Berrien County,ST_26_CT_21,26021
+Michigan,ST_26,Branch County,ST_26_CT_23,26023
+Michigan,ST_26,St. Joseph County,ST_26_CT_149,26149
+Michigan,ST_26,Cass County,ST_26_CT_27,26027
+Michigan,ST_26,Jackson County,ST_26_CT_75,26075
+Michigan,ST_26,Lenawee County,ST_26_CT_91,26091
+Michigan,ST_26,Hillsdale County,ST_26_CT_59,26059
+Michigan,ST_26,Kent County,ST_26_CT_81,26081
+Michigan,ST_26,Muskegon County,ST_26_CT_121,26121
+Michigan,ST_26,Lake County,ST_26_CT_85,26085
+Michigan,ST_26,Mecosta County,ST_26_CT_107,26107
+Michigan,ST_26,Newaygo County,ST_26_CT_123,26123
+Michigan,ST_26,Ottawa County,ST_26_CT_139,26139
+Michigan,ST_26,Mason County,ST_26_CT_105,26105
+Michigan,ST_26,Oceana County,ST_26_CT_127,26127
+Michigan,ST_26,Wexford County,ST_26_CT_165,26165
+Michigan,ST_26,Grand Traverse County,ST_26_CT_55,26055
+Michigan,ST_26,Antrim County,ST_26_CT_9,26009
+Michigan,ST_26,Manistee County,ST_26_CT_101,26101
+Michigan,ST_26,Benzie County,ST_26_CT_19,26019
+Michigan,ST_26,Leelanau County,ST_26_CT_89,26089
+Michigan,ST_26,Osceola County,ST_26_CT_133,26133
+Michigan,ST_26,Missaukee County,ST_26_CT_113,26113
+Michigan,ST_26,Kalkaska County,ST_26_CT_79,26079
+Michigan,ST_26,Cheboygan County,ST_26_CT_31,26031
+Michigan,ST_26,Emmet County,ST_26_CT_47,26047
+Michigan,ST_26,Alpena County,ST_26_CT_7,26007
+Michigan,ST_26,Montmorency County,ST_26_CT_119,26119
+Michigan,ST_26,Chippewa County,ST_26_CT_33,26033
+Michigan,ST_26,Charlevoix County,ST_26_CT_29,26029
+Michigan,ST_26,Mackinac County,ST_26_CT_97,26097
+Michigan,ST_26,Otsego County,ST_26_CT_137,26137
+Michigan,ST_26,Crawford County,ST_26_CT_39,26039
+Michigan,ST_26,Presque Isle County,ST_26_CT_141,26141
+Michigan,ST_26,Dickinson County,ST_26_CT_43,26043
+Michigan,ST_26,Keweenaw County,ST_26_CT_83,26083
+Michigan,ST_26,Alger County,ST_26_CT_3,26003
+Michigan,ST_26,Delta County,ST_26_CT_41,26041
+Michigan,ST_26,Marquette County,ST_26_CT_103,26103
+Michigan,ST_26,Menominee County,ST_26_CT_109,26109
+Michigan,ST_26,Schoolcraft County,ST_26_CT_153,26153
+Michigan,ST_26,Luce County,ST_26_CT_95,26095
+Michigan,ST_26,Iron County,ST_26_CT_71,26071
+Michigan,ST_26,Houghton County,ST_26_CT_61,26061
+Michigan,ST_26,Baraga County,ST_26_CT_13,26013
+Michigan,ST_26,Ontonagon County,ST_26_CT_131,26131
+Michigan,ST_26,Gogebic County,ST_26_CT_53,26053
+Iowa,ST_19,Warren County,ST_19_CT_181,19181
+Iowa,ST_19,Adair County,ST_19_CT_1,19001
+Iowa,ST_19,Dallas County,ST_19_CT_49,19049
+Iowa,ST_19,Marshall County,ST_19_CT_127,19127
+Iowa,ST_19,Hardin County,ST_19_CT_83,19083
+Iowa,ST_19,Polk County,ST_19_CT_153,19153
+Iowa,ST_19,Wayne County,ST_19_CT_185,19185
+Iowa,ST_19,Story County,ST_19_CT_169,19169
+Iowa,ST_19,Cass County,ST_19_CT_29,19029
+Iowa,ST_19,Audubon County,ST_19_CT_9,19009
+Iowa,ST_19,Guthrie County,ST_19_CT_77,19077
+Iowa,ST_19,Mahaska County,ST_19_CT_123,19123
+Iowa,ST_19,Jasper County,ST_19_CT_99,19099
+Iowa,ST_19,Boone County,ST_19_CT_15,19015
+Iowa,ST_19,Madison County,ST_19_CT_121,19121
+Iowa,ST_19,Hamilton County,ST_19_CT_79,19079
+Iowa,ST_19,Franklin County,ST_19_CT_69,19069
+Iowa,ST_19,Marion County,ST_19_CT_125,19125
+Iowa,ST_19,Lucas County,ST_19_CT_117,19117
+Iowa,ST_19,Greene County,ST_19_CT_73,19073
+Iowa,ST_19,Carroll County,ST_19_CT_27,19027
+Iowa,ST_19,Decatur County,ST_19_CT_53,19053
+Iowa,ST_19,Wright County,ST_19_CT_197,19197
+Iowa,ST_19,Ringgold County,ST_19_CT_159,19159
+Iowa,ST_19,Keokuk County,ST_19_CT_107,19107
+Iowa,ST_19,Poweshiek County,ST_19_CT_157,19157
+Iowa,ST_19,Union County,ST_19_CT_175,19175
+Iowa,ST_19,Monroe County,ST_19_CT_135,19135
+Iowa,ST_19,Tama County,ST_19_CT_171,19171
+Iowa,ST_19,Clarke County,ST_19_CT_39,19039
+Iowa,ST_19,Cerro Gordo County,ST_19_CT_33,19033
+Iowa,ST_19,Hancock County,ST_19_CT_81,19081
+Iowa,ST_19,Winnebago County,ST_19_CT_189,19189
+Iowa,ST_19,Mitchell County,ST_19_CT_131,19131
+Iowa,ST_19,Worth County,ST_19_CT_195,19195
+Iowa,ST_19,Floyd County,ST_19_CT_67,19067
+Iowa,ST_19,Kossuth County,ST_19_CT_109,19109
+Iowa,ST_19,Howard County,ST_19_CT_89,19089
+Iowa,ST_19,Webster County,ST_19_CT_187,19187
+Iowa,ST_19,Buena Vista County,ST_19_CT_21,19021
+Iowa,ST_19,Emmet County,ST_19_CT_63,19063
+Iowa,ST_19,Palo Alto County,ST_19_CT_147,19147
+Iowa,ST_19,Humboldt County,ST_19_CT_91,19091
+Iowa,ST_19,Sac County,ST_19_CT_161,19161
+Iowa,ST_19,Calhoun County,ST_19_CT_25,19025
+Iowa,ST_19,Pocahontas County,ST_19_CT_151,19151
+Iowa,ST_19,Butler County,ST_19_CT_23,19023
+Iowa,ST_19,Chickasaw County,ST_19_CT_37,19037
+Iowa,ST_19,Fayette County,ST_19_CT_65,19065
+Iowa,ST_19,Buchanan County,ST_19_CT_19,19019
+Iowa,ST_19,Grundy County,ST_19_CT_75,19075
+Iowa,ST_19,Black Hawk County,ST_19_CT_13,19013
+Iowa,ST_19,Bremer County,ST_19_CT_17,19017
+Iowa,ST_19,Delaware County,ST_19_CT_55,19055
+Iowa,ST_19,Taylor County,ST_19_CT_173,19173
+Iowa,ST_19,Adams County,ST_19_CT_3,19003
+Iowa,ST_19,Montgomery County,ST_19_CT_137,19137
+Iowa,ST_19,Plymouth County,ST_19_CT_149,19149
+Iowa,ST_19,Sioux County,ST_19_CT_167,19167
+Iowa,ST_19,Woodbury County,ST_19_CT_193,19193
+Iowa,ST_19,Cherokee County,ST_19_CT_35,19035
+Iowa,ST_19,Ida County,ST_19_CT_93,19093
+Iowa,ST_19,O'Brien County,ST_19_CT_141,19141
+Iowa,ST_19,Monona County,ST_19_CT_133,19133
+Iowa,ST_19,Clay County,ST_19_CT_41,19041
+Iowa,ST_19,Lyon County,ST_19_CT_119,19119
+Iowa,ST_19,Osceola County,ST_19_CT_143,19143
+Iowa,ST_19,Dickinson County,ST_19_CT_59,19059
+Iowa,ST_19,Crawford County,ST_19_CT_47,19047
+Iowa,ST_19,Shelby County,ST_19_CT_165,19165
+Iowa,ST_19,Pottawattamie County,ST_19_CT_155,19155
+Iowa,ST_19,Harrison County,ST_19_CT_85,19085
+Iowa,ST_19,Mills County,ST_19_CT_129,19129
+Iowa,ST_19,Page County,ST_19_CT_145,19145
+Iowa,ST_19,Fremont County,ST_19_CT_71,19071
+Iowa,ST_19,Dubuque County,ST_19_CT_61,19061
+Iowa,ST_19,Jackson County,ST_19_CT_97,19097
+Iowa,ST_19,Clinton County,ST_19_CT_45,19045
+Iowa,ST_19,Clayton County,ST_19_CT_43,19043
+Iowa,ST_19,Winneshiek County,ST_19_CT_191,19191
+Iowa,ST_19,Allamakee County,ST_19_CT_5,19005
+Iowa,ST_19,Washington County,ST_19_CT_183,19183
+Iowa,ST_19,Linn County,ST_19_CT_113,19113
+Iowa,ST_19,Iowa County,ST_19_CT_95,19095
+Iowa,ST_19,Jones County,ST_19_CT_105,19105
+Iowa,ST_19,Benton County,ST_19_CT_11,19011
+Iowa,ST_19,Cedar County,ST_19_CT_31,19031
+Iowa,ST_19,Johnson County,ST_19_CT_103,19103
+Iowa,ST_19,Wapello County,ST_19_CT_179,19179
+Iowa,ST_19,Jefferson County,ST_19_CT_101,19101
+Iowa,ST_19,Van Buren County,ST_19_CT_177,19177
+Iowa,ST_19,Davis County,ST_19_CT_51,19051
+Iowa,ST_19,Appanoose County,ST_19_CT_7,19007
+Iowa,ST_19,Des Moines County,ST_19_CT_57,19057
+Iowa,ST_19,Lee County,ST_19_CT_111,19111
+Iowa,ST_19,Henry County,ST_19_CT_87,19087
+Iowa,ST_19,Louisa County,ST_19_CT_115,19115
+Iowa,ST_19,Muscatine County,ST_19_CT_139,19139
+Iowa,ST_19,Scott County,ST_19_CT_163,19163
+Wisconsin,ST_55,Sheboygan County,ST_55_CT_117,55117
+Wisconsin,ST_55,Washington County,ST_55_CT_131,55131
+Wisconsin,ST_55,Dodge County,ST_55_CT_27,55027
+Wisconsin,ST_55,Ozaukee County,ST_55_CT_89,55089
+Wisconsin,ST_55,Waukesha County,ST_55_CT_133,55133
+Wisconsin,ST_55,Fond du Lac County,ST_55_CT_39,55039
+Wisconsin,ST_55,Calumet County,ST_55_CT_15,55015
+Wisconsin,ST_55,Manitowoc County,ST_55_CT_71,55071
+Wisconsin,ST_55,Jefferson County,ST_55_CT_55,55055
+Wisconsin,ST_55,Kenosha County,ST_55_CT_59,55059
+Wisconsin,ST_55,Racine County,ST_55_CT_101,55101
+Wisconsin,ST_55,Milwaukee County,ST_55_CT_79,55079
+Wisconsin,ST_55,Walworth County,ST_55_CT_127,55127
+Wisconsin,ST_55,Rock County,ST_55_CT_105,55105
+Wisconsin,ST_55,Green County,ST_55_CT_45,55045
+Wisconsin,ST_55,Iowa County,ST_55_CT_49,55049
+Wisconsin,ST_55,Lafayette County,ST_55_CT_65,55065
+Wisconsin,ST_55,Dane County,ST_55_CT_25,55025
+Wisconsin,ST_55,Grant County,ST_55_CT_43,55043
+Wisconsin,ST_55,Richland County,ST_55_CT_103,55103
+Wisconsin,ST_55,Columbia County,ST_55_CT_21,55021
+Wisconsin,ST_55,Sauk County,ST_55_CT_111,55111
+Wisconsin,ST_55,Crawford County,ST_55_CT_23,55023
+Wisconsin,ST_55,Adams County,ST_55_CT_1,55001
+Wisconsin,ST_55,Marquette County,ST_55_CT_77,55077
+Wisconsin,ST_55,Green Lake County,ST_55_CT_47,55047
+Wisconsin,ST_55,Juneau County,ST_55_CT_57,55057
+Wisconsin,ST_55,Polk County,ST_55_CT_95,55095
+Wisconsin,ST_55,St. Croix County,ST_55_CT_109,55109
+Wisconsin,ST_55,Pierce County,ST_55_CT_93,55093
+Wisconsin,ST_55,Oconto County,ST_55_CT_83,55083
+Wisconsin,ST_55,Marinette County,ST_55_CT_75,55075
+Wisconsin,ST_55,Forest County,ST_55_CT_41,55041
+Wisconsin,ST_55,Outagamie County,ST_55_CT_87,55087
+Wisconsin,ST_55,Shawano County,ST_55_CT_115,55115
+Wisconsin,ST_55,Brown County,ST_55_CT_9,55009
+Wisconsin,ST_55,Florence County,ST_55_CT_37,55037
+Wisconsin,ST_55,Menominee County,ST_55_CT_78,55078
+Wisconsin,ST_55,Kewaunee County,ST_55_CT_61,55061
+Wisconsin,ST_55,Door County,ST_55_CT_29,55029
+Wisconsin,ST_55,Marathon County,ST_55_CT_73,55073
+Wisconsin,ST_55,Wood County,ST_55_CT_141,55141
+Wisconsin,ST_55,Clark County,ST_55_CT_19,55019
+Wisconsin,ST_55,Portage County,ST_55_CT_97,55097
+Wisconsin,ST_55,Langlade County,ST_55_CT_67,55067
+Wisconsin,ST_55,Taylor County,ST_55_CT_119,55119
+Wisconsin,ST_55,Lincoln County,ST_55_CT_69,55069
+Wisconsin,ST_55,Price County,ST_55_CT_99,55099
+Wisconsin,ST_55,Oneida County,ST_55_CT_85,55085
+Wisconsin,ST_55,Vilas County,ST_55_CT_125,55125
+Wisconsin,ST_55,Ashland County,ST_55_CT_3,55003
+Wisconsin,ST_55,Iron County,ST_55_CT_51,55051
+Wisconsin,ST_55,Rusk County,ST_55_CT_107,55107
+Wisconsin,ST_55,La Crosse County,ST_55_CT_63,55063
+Wisconsin,ST_55,Buffalo County,ST_55_CT_11,55011
+Wisconsin,ST_55,Jackson County,ST_55_CT_53,55053
+Wisconsin,ST_55,Trempealeau County,ST_55_CT_121,55121
+Wisconsin,ST_55,Monroe County,ST_55_CT_81,55081
+Wisconsin,ST_55,Vernon County,ST_55_CT_123,55123
+Wisconsin,ST_55,Eau Claire County,ST_55_CT_35,55035
+Wisconsin,ST_55,Pepin County,ST_55_CT_91,55091
+Wisconsin,ST_55,Chippewa County,ST_55_CT_17,55017
+Wisconsin,ST_55,Dunn County,ST_55_CT_33,55033
+Wisconsin,ST_55,Barron County,ST_55_CT_5,55005
+Wisconsin,ST_55,Washburn County,ST_55_CT_129,55129
+Wisconsin,ST_55,Bayfield County,ST_55_CT_7,55007
+Wisconsin,ST_55,Douglas County,ST_55_CT_31,55031
+Wisconsin,ST_55,Sawyer County,ST_55_CT_113,55113
+Wisconsin,ST_55,Burnett County,ST_55_CT_13,55013
+Wisconsin,ST_55,Winnebago County,ST_55_CT_139,55139
+Wisconsin,ST_55,Waupaca County,ST_55_CT_135,55135
+Wisconsin,ST_55,Waushara County,ST_55_CT_137,55137
+Minnesota,ST_27,Washington County,ST_27_CT_163,27163
+Minnesota,ST_27,Chisago County,ST_27_CT_25,27025
+Minnesota,ST_27,Anoka County,ST_27_CT_3,27003
+Minnesota,ST_27,Isanti County,ST_27_CT_59,27059
+Minnesota,ST_27,Pine County,ST_27_CT_115,27115
+Minnesota,ST_27,Goodhue County,ST_27_CT_49,27049
+Minnesota,ST_27,Dakota County,ST_27_CT_37,27037
+Minnesota,ST_27,Rice County,ST_27_CT_131,27131
+Minnesota,ST_27,Scott County,ST_27_CT_139,27139
+Minnesota,ST_27,Wabasha County,ST_27_CT_157,27157
+Minnesota,ST_27,Steele County,ST_27_CT_147,27147
+Minnesota,ST_27,Kanabec County,ST_27_CT_65,27065
+Minnesota,ST_27,Ramsey County,ST_27_CT_123,27123
+Minnesota,ST_27,Hennepin County,ST_27_CT_53,27053
+Minnesota,ST_27,Wright County,ST_27_CT_171,27171
+Minnesota,ST_27,Sibley County,ST_27_CT_143,27143
+Minnesota,ST_27,Sherburne County,ST_27_CT_141,27141
+Minnesota,ST_27,Renville County,ST_27_CT_129,27129
+Minnesota,ST_27,McLeod County,ST_27_CT_85,27085
+Minnesota,ST_27,Carver County,ST_27_CT_19,27019
+Minnesota,ST_27,Meeker County,ST_27_CT_93,27093
+Minnesota,ST_27,Stearns County,ST_27_CT_145,27145
+Minnesota,ST_27,Mille Lacs County,ST_27_CT_95,27095
+Minnesota,ST_27,Lake County,ST_27_CT_75,27075
+Minnesota,ST_27,St. Louis County,ST_27_CT_137,27137
+Minnesota,ST_27,Cook County,ST_27_CT_31,27031
+Minnesota,ST_27,Carlton County,ST_27_CT_17,27017
+Minnesota,ST_27,Itasca County,ST_27_CT_61,27061
+Minnesota,ST_27,Aitkin County,ST_27_CT_1,27001
+Minnesota,ST_27,Olmsted County,ST_27_CT_109,27109
+Minnesota,ST_27,Mower County,ST_27_CT_99,27099
+Minnesota,ST_27,Winona County,ST_27_CT_169,27169
+Minnesota,ST_27,Houston County,ST_27_CT_55,27055
+Minnesota,ST_27,Fillmore County,ST_27_CT_45,27045
+Minnesota,ST_27,Dodge County,ST_27_CT_39,27039
+Minnesota,ST_27,Blue Earth County,ST_27_CT_13,27013
+Minnesota,ST_27,Nicollet County,ST_27_CT_103,27103
+Minnesota,ST_27,Freeborn County,ST_27_CT_47,27047
+Minnesota,ST_27,Faribault County,ST_27_CT_43,27043
+Minnesota,ST_27,Le Sueur County,ST_27_CT_79,27079
+Minnesota,ST_27,Brown County,ST_27_CT_15,27015
+Minnesota,ST_27,Watonwan County,ST_27_CT_165,27165
+Minnesota,ST_27,Martin County,ST_27_CT_91,27091
+Minnesota,ST_27,Waseca County,ST_27_CT_161,27161
+Minnesota,ST_27,Redwood County,ST_27_CT_127,27127
+Minnesota,ST_27,Cottonwood County,ST_27_CT_33,27033
+Minnesota,ST_27,Nobles County,ST_27_CT_105,27105
+Minnesota,ST_27,Jackson County,ST_27_CT_63,27063
+Minnesota,ST_27,Lincoln County,ST_27_CT_81,27081
+Minnesota,ST_27,Murray County,ST_27_CT_101,27101
+Minnesota,ST_27,Lyon County,ST_27_CT_83,27083
+Minnesota,ST_27,Rock County,ST_27_CT_133,27133
+Minnesota,ST_27,Pipestone County,ST_27_CT_117,27117
+Minnesota,ST_27,Kandiyohi County,ST_27_CT_67,27067
+Minnesota,ST_27,Stevens County,ST_27_CT_149,27149
+Minnesota,ST_27,Swift County,ST_27_CT_151,27151
+Minnesota,ST_27,Big Stone County,ST_27_CT_11,27011
+Minnesota,ST_27,Lac qui Parle County,ST_27_CT_73,27073
+Minnesota,ST_27,Traverse County,ST_27_CT_155,27155
+Minnesota,ST_27,Yellow Medicine County,ST_27_CT_173,27173
+Minnesota,ST_27,Chippewa County,ST_27_CT_23,27023
+Minnesota,ST_27,Grant County,ST_27_CT_51,27051
+Minnesota,ST_27,Douglas County,ST_27_CT_41,27041
+Minnesota,ST_27,Morrison County,ST_27_CT_97,27097
+Minnesota,ST_27,Todd County,ST_27_CT_153,27153
+Minnesota,ST_27,Pope County,ST_27_CT_121,27121
+Minnesota,ST_27,Otter Tail County,ST_27_CT_111,27111
+Minnesota,ST_27,Benton County,ST_27_CT_9,27009
+Minnesota,ST_27,Crow Wing County,ST_27_CT_35,27035
+Minnesota,ST_27,Cass County,ST_27_CT_21,27021
+Minnesota,ST_27,Hubbard County,ST_27_CT_57,27057
+Minnesota,ST_27,Wadena County,ST_27_CT_159,27159
+Minnesota,ST_27,Becker County,ST_27_CT_5,27005
+Minnesota,ST_27,Norman County,ST_27_CT_107,27107
+Minnesota,ST_27,Clay County,ST_27_CT_27,27027
+Minnesota,ST_27,Mahnomen County,ST_27_CT_87,27087
+Minnesota,ST_27,Polk County,ST_27_CT_119,27119
+Minnesota,ST_27,Wilkin County,ST_27_CT_167,27167
+Minnesota,ST_27,Beltrami County,ST_27_CT_7,27007
+Minnesota,ST_27,Clearwater County,ST_27_CT_29,27029
+Minnesota,ST_27,Lake of the Woods County,ST_27_CT_77,27077
+Minnesota,ST_27,Koochiching County,ST_27_CT_71,27071
+Minnesota,ST_27,Roseau County,ST_27_CT_135,27135
+Minnesota,ST_27,Pennington County,ST_27_CT_113,27113
+Minnesota,ST_27,Marshall County,ST_27_CT_89,27089
+Minnesota,ST_27,Red Lake County,ST_27_CT_125,27125
+Minnesota,ST_27,Kittson County,ST_27_CT_69,27069
+South Dakota,ST_46,Union County,ST_46_CT_127,46127
+South Dakota,ST_46,Brookings County,ST_46_CT_11,46011
+South Dakota,ST_46,Minnehaha County,ST_46_CT_99,46099
+South Dakota,ST_46,Clay County,ST_46_CT_27,46027
+South Dakota,ST_46,McCook County,ST_46_CT_87,46087
+South Dakota,ST_46,Lincoln County,ST_46_CT_83,46083
+South Dakota,ST_46,Turner County,ST_46_CT_125,46125
+South Dakota,ST_46,Lake County,ST_46_CT_79,46079
+South Dakota,ST_46,Moody County,ST_46_CT_101,46101
+South Dakota,ST_46,Hutchinson County,ST_46_CT_67,46067
+South Dakota,ST_46,Yankton County,ST_46_CT_135,46135
+South Dakota,ST_46,Kingsbury County,ST_46_CT_77,46077
+South Dakota,ST_46,Bon Homme County,ST_46_CT_9,46009
+South Dakota,ST_46,Codington County,ST_46_CT_29,46029
+South Dakota,ST_46,Deuel County,ST_46_CT_39,46039
+South Dakota,ST_46,Grant County,ST_46_CT_51,46051
+South Dakota,ST_46,Clark County,ST_46_CT_25,46025
+South Dakota,ST_46,Day County,ST_46_CT_37,46037
+South Dakota,ST_46,Hamlin County,ST_46_CT_57,46057
+South Dakota,ST_46,Roberts County,ST_46_CT_109,46109
+South Dakota,ST_46,Marshall County,ST_46_CT_91,46091
+South Dakota,ST_46,Davison County,ST_46_CT_35,46035
+South Dakota,ST_46,Hanson County,ST_46_CT_61,46061
+South Dakota,ST_46,Jerauld County,ST_46_CT_73,46073
+South Dakota,ST_46,Douglas County,ST_46_CT_43,46043
+South Dakota,ST_46,Sanborn County,ST_46_CT_111,46111
+South Dakota,ST_46,Gregory County,ST_46_CT_53,46053
+South Dakota,ST_46,Miner County,ST_46_CT_97,46097
+South Dakota,ST_46,Beadle County,ST_46_CT_5,46005
+South Dakota,ST_46,Brule County,ST_46_CT_15,46015
+South Dakota,ST_46,Charles Mix County,ST_46_CT_23,46023
+South Dakota,ST_46,Buffalo County,ST_46_CT_17,46017
+South Dakota,ST_46,Hyde County,ST_46_CT_69,46069
+South Dakota,ST_46,Hand County,ST_46_CT_59,46059
+South Dakota,ST_46,Lyman County,ST_46_CT_85,46085
+South Dakota,ST_46,Aurora County,ST_46_CT_3,46003
+South Dakota,ST_46,Brown County,ST_46_CT_13,46013
+South Dakota,ST_46,Walworth County,ST_46_CT_129,46129
+South Dakota,ST_46,Spink County,ST_46_CT_115,46115
+South Dakota,ST_46,Edmunds County,ST_46_CT_45,46045
+South Dakota,ST_46,Faulk County,ST_46_CT_49,46049
+South Dakota,ST_46,McPherson County,ST_46_CT_89,46089
+South Dakota,ST_46,Potter County,ST_46_CT_107,46107
+South Dakota,ST_46,Hughes County,ST_46_CT_65,46065
+South Dakota,ST_46,Sully County,ST_46_CT_119,46119
+South Dakota,ST_46,Jackson County,ST_46_CT_71,46071
+South Dakota,ST_46,Tripp County,ST_46_CT_123,46123
+South Dakota,ST_46,Jones County,ST_46_CT_75,46075
+South Dakota,ST_46,Stanley County,ST_46_CT_117,46117
+South Dakota,ST_46,Bennett County,ST_46_CT_7,46007
+South Dakota,ST_46,Haakon County,ST_46_CT_55,46055
+South Dakota,ST_46,Todd County,ST_46_CT_121,46121
+South Dakota,ST_46,Mellette County,ST_46_CT_95,46095
+South Dakota,ST_46,Perkins County,ST_46_CT_105,46105
+South Dakota,ST_46,Corson County,ST_46_CT_31,46031
+South Dakota,ST_46,Ziebach County,ST_46_CT_137,46137
+South Dakota,ST_46,Dewey County,ST_46_CT_41,46041
+South Dakota,ST_46,Meade County,ST_46_CT_93,46093
+South Dakota,ST_46,Campbell County,ST_46_CT_21,46021
+South Dakota,ST_46,Harding County,ST_46_CT_63,46063
+South Dakota,ST_46,Pennington County,ST_46_CT_103,46103
+South Dakota,ST_46,Butte County,ST_46_CT_19,46019
+South Dakota,ST_46,Custer County,ST_46_CT_33,46033
+South Dakota,ST_46,Lawrence County,ST_46_CT_81,46081
+South Dakota,ST_46,Fall River County,ST_46_CT_47,46047
+North Dakota,ST_38,Richland County,ST_38_CT_77,38077
+North Dakota,ST_38,Cass County,ST_38_CT_17,38017
+North Dakota,ST_38,Traill County,ST_38_CT_97,38097
+North Dakota,ST_38,Sargent County,ST_38_CT_81,38081
+North Dakota,ST_38,Ransom County,ST_38_CT_73,38073
+North Dakota,ST_38,Barnes County,ST_38_CT_3,38003
+North Dakota,ST_38,Steele County,ST_38_CT_91,38091
+North Dakota,ST_38,Grand Forks County,ST_38_CT_35,38035
+North Dakota,ST_38,Walsh County,ST_38_CT_99,38099
+North Dakota,ST_38,Nelson County,ST_38_CT_63,38063
+North Dakota,ST_38,Pembina County,ST_38_CT_67,38067
+North Dakota,ST_38,Cavalier County,ST_38_CT_19,38019
+North Dakota,ST_38,Ramsey County,ST_38_CT_71,38071
+North Dakota,ST_38,Rolette County,ST_38_CT_79,38079
+North Dakota,ST_38,Pierce County,ST_38_CT_69,38069
+North Dakota,ST_38,Towner County,ST_38_CT_95,38095
+North Dakota,ST_38,Bottineau County,ST_38_CT_9,38009
+North Dakota,ST_38,Wells County,ST_38_CT_103,38103
+North Dakota,ST_38,Benson County,ST_38_CT_5,38005
+North Dakota,ST_38,Eddy County,ST_38_CT_27,38027
+North Dakota,ST_38,Stutsman County,ST_38_CT_93,38093
+North Dakota,ST_38,McIntosh County,ST_38_CT_51,38051
+North Dakota,ST_38,LaMoure County,ST_38_CT_45,38045
+North Dakota,ST_38,Griggs County,ST_38_CT_39,38039
+North Dakota,ST_38,Foster County,ST_38_CT_31,38031
+North Dakota,ST_38,Kidder County,ST_38_CT_43,38043
+North Dakota,ST_38,Sheridan County,ST_38_CT_83,38083
+North Dakota,ST_38,Dickey County,ST_38_CT_21,38021
+North Dakota,ST_38,Logan County,ST_38_CT_47,38047
+North Dakota,ST_38,Burleigh County,ST_38_CT_15,38015
+North Dakota,ST_38,Morton County,ST_38_CT_59,38059
+North Dakota,ST_38,Mercer County,ST_38_CT_57,38057
+North Dakota,ST_38,Emmons County,ST_38_CT_29,38029
+North Dakota,ST_38,Sioux County,ST_38_CT_85,38085
+North Dakota,ST_38,Grant County,ST_38_CT_37,38037
+North Dakota,ST_38,Oliver County,ST_38_CT_65,38065
+North Dakota,ST_38,McLean County,ST_38_CT_55,38055
+North Dakota,ST_38,Stark County,ST_38_CT_89,38089
+North Dakota,ST_38,Slope County,ST_38_CT_87,38087
+North Dakota,ST_38,Golden Valley County,ST_38_CT_33,38033
+North Dakota,ST_38,Bowman County,ST_38_CT_11,38011
+North Dakota,ST_38,Dunn County,ST_38_CT_25,38025
+North Dakota,ST_38,Billings County,ST_38_CT_7,38007
+North Dakota,ST_38,McKenzie County,ST_38_CT_53,38053
+North Dakota,ST_38,Adams County,ST_38_CT_1,38001
+North Dakota,ST_38,Hettinger County,ST_38_CT_41,38041
+North Dakota,ST_38,Ward County,ST_38_CT_101,38101
+North Dakota,ST_38,McHenry County,ST_38_CT_49,38049
+North Dakota,ST_38,Burke County,ST_38_CT_13,38013
+North Dakota,ST_38,Divide County,ST_38_CT_23,38023
+North Dakota,ST_38,Renville County,ST_38_CT_75,38075
+North Dakota,ST_38,Williams County,ST_38_CT_105,38105
+North Dakota,ST_38,Mountrail County,ST_38_CT_61,38061
+Montana,ST_30,Stillwater County,ST_30_CT_95,30095
+Montana,ST_30,Yellowstone County,ST_30_CT_111,30111
+Montana,ST_30,Rosebud County,ST_30_CT_87,30087
+Montana,ST_30,Carbon County,ST_30_CT_9,30009
+Montana,ST_30,Treasure County,ST_30_CT_103,30103
+Montana,ST_30,Sweet Grass County,ST_30_CT_97,30097
+Montana,ST_30,Big Horn County,ST_30_CT_3,30003
+Montana,ST_30,Park County,ST_30_CT_67,30067
+Montana,ST_30,Fergus County,ST_30_CT_27,30027
+Montana,ST_30,Wheatland County,ST_30_CT_107,30107
+Montana,ST_30,Golden Valley County,ST_30_CT_37,30037
+Montana,ST_30,Meagher County,ST_30_CT_59,30059
+Montana,ST_30,Musselshell County,ST_30_CT_65,30065
+Montana,ST_30,Garfield County,ST_30_CT_33,30033
+Montana,ST_30,Powder River County,ST_30_CT_75,30075
+Montana,ST_30,Petroleum County,ST_30_CT_69,30069
+Montana,ST_30,Roosevelt County,ST_30_CT_85,30085
+Montana,ST_30,Sheridan County,ST_30_CT_91,30091
+Montana,ST_30,McCone County,ST_30_CT_55,30055
+Montana,ST_30,Richland County,ST_30_CT_83,30083
+Montana,ST_30,Daniels County,ST_30_CT_19,30019
+Montana,ST_30,Valley County,ST_30_CT_105,30105
+Montana,ST_30,Dawson County,ST_30_CT_21,30021
+Montana,ST_30,Phillips County,ST_30_CT_71,30071
+Montana,ST_30,Custer County,ST_30_CT_17,30017
+Montana,ST_30,Carter County,ST_30_CT_11,30011
+Montana,ST_30,Fallon County,ST_30_CT_25,30025
+Montana,ST_30,Prairie County,ST_30_CT_79,30079
+Montana,ST_30,Wibaux County,ST_30_CT_109,30109
+Montana,ST_30,Cascade County,ST_30_CT_13,30013
+Montana,ST_30,Lewis and Clark County,ST_30_CT_49,30049
+Montana,ST_30,Glacier County,ST_30_CT_35,30035
+Montana,ST_30,Pondera County,ST_30_CT_73,30073
+Montana,ST_30,Teton County,ST_30_CT_99,30099
+Montana,ST_30,Chouteau County,ST_30_CT_15,30015
+Montana,ST_30,Toole County,ST_30_CT_101,30101
+Montana,ST_30,Judith Basin County,ST_30_CT_45,30045
+Montana,ST_30,Liberty County,ST_30_CT_51,30051
+Montana,ST_30,Hill County,ST_30_CT_41,30041
+Montana,ST_30,Blaine County,ST_30_CT_5,30005
+Montana,ST_30,Jefferson County,ST_30_CT_43,30043
+Montana,ST_30,Broadwater County,ST_30_CT_7,30007
+Montana,ST_30,Silver Bow County,ST_30_CT_93,30093
+Montana,ST_30,Madison County,ST_30_CT_57,30057
+Montana,ST_30,Deer Lodge County,ST_30_CT_23,30023
+Montana,ST_30,Powell County,ST_30_CT_77,30077
+Montana,ST_30,Gallatin County,ST_30_CT_31,30031
+Montana,ST_30,Beaverhead County,ST_30_CT_1,30001
+Montana,ST_30,Missoula County,ST_30_CT_63,30063
+Montana,ST_30,Mineral County,ST_30_CT_61,30061
+Montana,ST_30,Lake County,ST_30_CT_47,30047
+Montana,ST_30,Ravalli County,ST_30_CT_81,30081
+Montana,ST_30,Sanders County,ST_30_CT_89,30089
+Montana,ST_30,Granite County,ST_30_CT_39,30039
+Montana,ST_30,Flathead County,ST_30_CT_29,30029
+Montana,ST_30,Lincoln County,ST_30_CT_53,30053
+Illinois,ST_17,McHenry County,ST_17_CT_111,17111
+Illinois,ST_17,Lake County,ST_17_CT_97,17097
+Illinois,ST_17,Cook County,ST_17_CT_31,17031
+Illinois,ST_17,DuPage County,ST_17_CT_43,17043
+Illinois,ST_17,Kane County,ST_17_CT_89,17089
+Illinois,ST_17,DeKalb County,ST_17_CT_37,17037
+Illinois,ST_17,Ogle County,ST_17_CT_141,17141
+Illinois,ST_17,Will County,ST_17_CT_197,17197
+Illinois,ST_17,Grundy County,ST_17_CT_63,17063
+Illinois,ST_17,Livingston County,ST_17_CT_105,17105
+Illinois,ST_17,LaSalle County,ST_17_CT_99,17099
+Illinois,ST_17,Kendall County,ST_17_CT_93,17093
+Illinois,ST_17,Lee County,ST_17_CT_103,17103
+Illinois,ST_17,Kankakee County,ST_17_CT_91,17091
+Illinois,ST_17,Iroquois County,ST_17_CT_75,17075
+Illinois,ST_17,Ford County,ST_17_CT_53,17053
+Illinois,ST_17,Vermilion County,ST_17_CT_183,17183
+Illinois,ST_17,Champaign County,ST_17_CT_19,17019
+Illinois,ST_17,Jo Daviess County,ST_17_CT_85,17085
+Illinois,ST_17,Boone County,ST_17_CT_7,17007
+Illinois,ST_17,Stephenson County,ST_17_CT_177,17177
+Illinois,ST_17,Carroll County,ST_17_CT_15,17015
+Illinois,ST_17,Winnebago County,ST_17_CT_201,17201
+Illinois,ST_17,Whiteside County,ST_17_CT_195,17195
+Illinois,ST_17,Rock Island County,ST_17_CT_161,17161
+Illinois,ST_17,Mercer County,ST_17_CT_131,17131
+Illinois,ST_17,Henry County,ST_17_CT_73,17073
+Illinois,ST_17,Bureau County,ST_17_CT_11,17011
+Illinois,ST_17,Putnam County,ST_17_CT_155,17155
+Illinois,ST_17,Marshall County,ST_17_CT_123,17123
+Illinois,ST_17,Knox County,ST_17_CT_95,17095
+Illinois,ST_17,McDonough County,ST_17_CT_109,17109
+Illinois,ST_17,Fulton County,ST_17_CT_57,17057
+Illinois,ST_17,Warren County,ST_17_CT_187,17187
+Illinois,ST_17,Henderson County,ST_17_CT_71,17071
+Illinois,ST_17,Stark County,ST_17_CT_175,17175
+Illinois,ST_17,Hancock County,ST_17_CT_67,17067
+Illinois,ST_17,Peoria County,ST_17_CT_143,17143
+Illinois,ST_17,Schuyler County,ST_17_CT_169,17169
+Illinois,ST_17,Woodford County,ST_17_CT_203,17203
+Illinois,ST_17,Mason County,ST_17_CT_125,17125
+Illinois,ST_17,Tazewell County,ST_17_CT_179,17179
+Illinois,ST_17,McLean County,ST_17_CT_113,17113
+Illinois,ST_17,Logan County,ST_17_CT_107,17107
+Illinois,ST_17,De Witt County,ST_17_CT_39,17039
+Illinois,ST_17,Macon County,ST_17_CT_115,17115
+Illinois,ST_17,Piatt County,ST_17_CT_147,17147
+Illinois,ST_17,Douglas County,ST_17_CT_41,17041
+Illinois,ST_17,Coles County,ST_17_CT_29,17029
+Illinois,ST_17,Moultrie County,ST_17_CT_139,17139
+Illinois,ST_17,Edgar County,ST_17_CT_45,17045
+Illinois,ST_17,Shelby County,ST_17_CT_173,17173
+Illinois,ST_17,Madison County,ST_17_CT_119,17119
+Illinois,ST_17,Calhoun County,ST_17_CT_13,17013
+Illinois,ST_17,Macoupin County,ST_17_CT_117,17117
+Illinois,ST_17,Fayette County,ST_17_CT_51,17051
+Illinois,ST_17,Jersey County,ST_17_CT_83,17083
+Illinois,ST_17,Montgomery County,ST_17_CT_135,17135
+Illinois,ST_17,Greene County,ST_17_CT_61,17061
+Illinois,ST_17,Bond County,ST_17_CT_5,17005
+Illinois,ST_17,St. Clair County,ST_17_CT_163,17163
+Illinois,ST_17,Christian County,ST_17_CT_21,17021
+Illinois,ST_17,Washington County,ST_17_CT_189,17189
+Illinois,ST_17,Clinton County,ST_17_CT_27,17027
+Illinois,ST_17,Randolph County,ST_17_CT_157,17157
+Illinois,ST_17,Monroe County,ST_17_CT_133,17133
+Illinois,ST_17,Perry County,ST_17_CT_145,17145
+Illinois,ST_17,Adams County,ST_17_CT_1,17001
+Illinois,ST_17,Pike County,ST_17_CT_149,17149
+Illinois,ST_17,Brown County,ST_17_CT_9,17009
+Illinois,ST_17,Effingham County,ST_17_CT_49,17049
+Illinois,ST_17,Wabash County,ST_17_CT_185,17185
+Illinois,ST_17,Crawford County,ST_17_CT_33,17033
+Illinois,ST_17,Lawrence County,ST_17_CT_101,17101
+Illinois,ST_17,Richland County,ST_17_CT_159,17159
+Illinois,ST_17,Clark County,ST_17_CT_23,17023
+Illinois,ST_17,Cumberland County,ST_17_CT_35,17035
+Illinois,ST_17,Jasper County,ST_17_CT_79,17079
+Illinois,ST_17,Clay County,ST_17_CT_25,17025
+Illinois,ST_17,Wayne County,ST_17_CT_191,17191
+Illinois,ST_17,Edwards County,ST_17_CT_47,17047
+Illinois,ST_17,Sangamon County,ST_17_CT_167,17167
+Illinois,ST_17,Morgan County,ST_17_CT_137,17137
+Illinois,ST_17,Scott County,ST_17_CT_171,17171
+Illinois,ST_17,Cass County,ST_17_CT_17,17017
+Illinois,ST_17,Menard County,ST_17_CT_129,17129
+Illinois,ST_17,Marion County,ST_17_CT_121,17121
+Illinois,ST_17,Jefferson County,ST_17_CT_81,17081
+Illinois,ST_17,Franklin County,ST_17_CT_55,17055
+Illinois,ST_17,Hamilton County,ST_17_CT_65,17065
+Illinois,ST_17,White County,ST_17_CT_193,17193
+Illinois,ST_17,Williamson County,ST_17_CT_199,17199
+Illinois,ST_17,Gallatin County,ST_17_CT_59,17059
+Illinois,ST_17,Jackson County,ST_17_CT_77,17077
+Illinois,ST_17,Union County,ST_17_CT_181,17181
+Illinois,ST_17,Johnson County,ST_17_CT_87,17087
+Illinois,ST_17,Massac County,ST_17_CT_127,17127
+Illinois,ST_17,Alexander County,ST_17_CT_3,17003
+Illinois,ST_17,Saline County,ST_17_CT_165,17165
+Illinois,ST_17,Hardin County,ST_17_CT_69,17069
+Illinois,ST_17,Pope County,ST_17_CT_151,17151
+Illinois,ST_17,Pulaski County,ST_17_CT_153,17153
+Missouri,ST_29,St. Louis County,ST_29_CT_189,29189
+Missouri,ST_29,Jefferson County,ST_29_CT_99,29099
+Missouri,ST_29,Franklin County,ST_29_CT_71,29071
+Missouri,ST_29,St. Francois County,ST_29_CT_187,29187
+Missouri,ST_29,Washington County,ST_29_CT_221,29221
+Missouri,ST_29,Gasconade County,ST_29_CT_73,29073
+Missouri,ST_29,St. Louis city,ST_29_CT_510,29510
+Missouri,ST_29,St. Charles County,ST_29_CT_183,29183
+Missouri,ST_29,Pike County,ST_29_CT_163,29163
+Missouri,ST_29,Montgomery County,ST_29_CT_139,29139
+Missouri,ST_29,Warren County,ST_29_CT_219,29219
+Missouri,ST_29,Lincoln County,ST_29_CT_113,29113
+Missouri,ST_29,Audrain County,ST_29_CT_7,29007
+Missouri,ST_29,Callaway County,ST_29_CT_27,29027
+Missouri,ST_29,Marion County,ST_29_CT_127,29127
+Missouri,ST_29,Clark County,ST_29_CT_45,29045
+Missouri,ST_29,Macon County,ST_29_CT_121,29121
+Missouri,ST_29,Scotland County,ST_29_CT_199,29199
+Missouri,ST_29,Shelby County,ST_29_CT_205,29205
+Missouri,ST_29,Lewis County,ST_29_CT_111,29111
+Missouri,ST_29,Ralls County,ST_29_CT_173,29173
+Missouri,ST_29,Knox County,ST_29_CT_103,29103
+Missouri,ST_29,Monroe County,ST_29_CT_137,29137
+Missouri,ST_29,Adair County,ST_29_CT_1,29001
+Missouri,ST_29,Schuyler County,ST_29_CT_197,29197
+Missouri,ST_29,Sullivan County,ST_29_CT_211,29211
+Missouri,ST_29,Putnam County,ST_29_CT_171,29171
+Missouri,ST_29,Linn County,ST_29_CT_115,29115
+Missouri,ST_29,Iron County,ST_29_CT_93,29093
+Missouri,ST_29,Reynolds County,ST_29_CT_179,29179
+Missouri,ST_29,Ste. Genevieve County,ST_29_CT_186,29186
+Missouri,ST_29,Wayne County,ST_29_CT_223,29223
+Missouri,ST_29,Madison County,ST_29_CT_123,29123
+Missouri,ST_29,Bollinger County,ST_29_CT_17,29017
+Missouri,ST_29,Cape Girardeau County,ST_29_CT_31,29031
+Missouri,ST_29,Stoddard County,ST_29_CT_207,29207
+Missouri,ST_29,Perry County,ST_29_CT_157,29157
+Missouri,ST_29,Scott County,ST_29_CT_201,29201
+Missouri,ST_29,Mississippi County,ST_29_CT_133,29133
+Missouri,ST_29,Dunklin County,ST_29_CT_69,29069
+Missouri,ST_29,Pemiscot County,ST_29_CT_155,29155
+Missouri,ST_29,New Madrid County,ST_29_CT_143,29143
+Missouri,ST_29,Butler County,ST_29_CT_23,29023
+Missouri,ST_29,Ripley County,ST_29_CT_181,29181
+Missouri,ST_29,Carter County,ST_29_CT_35,29035
+Missouri,ST_29,Lafayette County,ST_29_CT_107,29107
+Missouri,ST_29,Jackson County,ST_29_CT_95,29095
+Missouri,ST_29,Cass County,ST_29_CT_37,29037
+Missouri,ST_29,Ray County,ST_29_CT_177,29177
+Missouri,ST_29,Platte County,ST_29_CT_165,29165
+Missouri,ST_29,Johnson County,ST_29_CT_101,29101
+Missouri,ST_29,Clay County,ST_29_CT_47,29047
+Missouri,ST_29,Buchanan County,ST_29_CT_21,29021
+Missouri,ST_29,Gentry County,ST_29_CT_75,29075
+Missouri,ST_29,Worth County,ST_29_CT_227,29227
+Missouri,ST_29,Andrew County,ST_29_CT_3,29003
+Missouri,ST_29,DeKalb County,ST_29_CT_63,29063
+Missouri,ST_29,Nodaway County,ST_29_CT_147,29147
+Missouri,ST_29,Harrison County,ST_29_CT_81,29081
+Missouri,ST_29,Clinton County,ST_29_CT_49,29049
+Missouri,ST_29,Holt County,ST_29_CT_87,29087
+Missouri,ST_29,Atchison County,ST_29_CT_5,29005
+Missouri,ST_29,Livingston County,ST_29_CT_117,29117
+Missouri,ST_29,Daviess County,ST_29_CT_61,29061
+Missouri,ST_29,Carroll County,ST_29_CT_33,29033
+Missouri,ST_29,Caldwell County,ST_29_CT_25,29025
+Missouri,ST_29,Grundy County,ST_29_CT_79,29079
+Missouri,ST_29,Chariton County,ST_29_CT_41,29041
+Missouri,ST_29,Mercer County,ST_29_CT_129,29129
+Missouri,ST_29,Bates County,ST_29_CT_13,29013
+Missouri,ST_29,St. Clair County,ST_29_CT_185,29185
+Missouri,ST_29,Henry County,ST_29_CT_83,29083
+Missouri,ST_29,Vernon County,ST_29_CT_217,29217
+Missouri,ST_29,Cedar County,ST_29_CT_39,29039
+Missouri,ST_29,Barton County,ST_29_CT_11,29011
+Missouri,ST_29,Jasper County,ST_29_CT_97,29097
+Missouri,ST_29,McDonald County,ST_29_CT_119,29119
+Missouri,ST_29,Newton County,ST_29_CT_145,29145
+Missouri,ST_29,Barry County,ST_29_CT_9,29009
+Missouri,ST_29,Osage County,ST_29_CT_151,29151
+Missouri,ST_29,Boone County,ST_29_CT_19,29019
+Missouri,ST_29,Morgan County,ST_29_CT_141,29141
+Missouri,ST_29,Maries County,ST_29_CT_125,29125
+Missouri,ST_29,Miller County,ST_29_CT_131,29131
+Missouri,ST_29,Moniteau County,ST_29_CT_135,29135
+Missouri,ST_29,Camden County,ST_29_CT_29,29029
+Missouri,ST_29,Cole County,ST_29_CT_51,29051
+Missouri,ST_29,Cooper County,ST_29_CT_53,29053
+Missouri,ST_29,Howard County,ST_29_CT_89,29089
+Missouri,ST_29,Randolph County,ST_29_CT_175,29175
+Missouri,ST_29,Pettis County,ST_29_CT_159,29159
+Missouri,ST_29,Saline County,ST_29_CT_195,29195
+Missouri,ST_29,Benton County,ST_29_CT_15,29015
+Missouri,ST_29,Phelps County,ST_29_CT_161,29161
+Missouri,ST_29,Texas County,ST_29_CT_215,29215
+Missouri,ST_29,Shannon County,ST_29_CT_203,29203
+Missouri,ST_29,Dent County,ST_29_CT_65,29065
+Missouri,ST_29,Crawford County,ST_29_CT_55,29055
+Missouri,ST_29,Pulaski County,ST_29_CT_169,29169
+Missouri,ST_29,Laclede County,ST_29_CT_105,29105
+Missouri,ST_29,Howell County,ST_29_CT_91,29091
+Missouri,ST_29,Dallas County,ST_29_CT_59,29059
+Missouri,ST_29,Polk County,ST_29_CT_167,29167
+Missouri,ST_29,Dade County,ST_29_CT_57,29057
+Missouri,ST_29,Greene County,ST_29_CT_77,29077
+Missouri,ST_29,Lawrence County,ST_29_CT_109,29109
+Missouri,ST_29,Oregon County,ST_29_CT_149,29149
+Missouri,ST_29,Douglas County,ST_29_CT_67,29067
+Missouri,ST_29,Ozark County,ST_29_CT_153,29153
+Missouri,ST_29,Christian County,ST_29_CT_43,29043
+Missouri,ST_29,Stone County,ST_29_CT_209,29209
+Missouri,ST_29,Taney County,ST_29_CT_213,29213
+Missouri,ST_29,Hickory County,ST_29_CT_85,29085
+Missouri,ST_29,Webster County,ST_29_CT_225,29225
+Missouri,ST_29,Wright County,ST_29_CT_229,29229
+Kansas,ST_20,Atchison County,ST_20_CT_5,20005
+Kansas,ST_20,Douglas County,ST_20_CT_45,20045
+Kansas,ST_20,Leavenworth County,ST_20_CT_103,20103
+Kansas,ST_20,Doniphan County,ST_20_CT_43,20043
+Kansas,ST_20,Linn County,ST_20_CT_107,20107
+Kansas,ST_20,Wyandotte County,ST_20_CT_209,20209
+Kansas,ST_20,Miami County,ST_20_CT_121,20121
+Kansas,ST_20,Anderson County,ST_20_CT_3,20003
+Kansas,ST_20,Johnson County,ST_20_CT_91,20091
+Kansas,ST_20,Franklin County,ST_20_CT_59,20059
+Kansas,ST_20,Jefferson County,ST_20_CT_87,20087
+Kansas,ST_20,Wabaunsee County,ST_20_CT_197,20197
+Kansas,ST_20,Shawnee County,ST_20_CT_177,20177
+Kansas,ST_20,Marshall County,ST_20_CT_117,20117
+Kansas,ST_20,Nemaha County,ST_20_CT_131,20131
+Kansas,ST_20,Pottawatomie County,ST_20_CT_149,20149
+Kansas,ST_20,Osage County,ST_20_CT_139,20139
+Kansas,ST_20,Jackson County,ST_20_CT_85,20085
+Kansas,ST_20,Brown County,ST_20_CT_13,20013
+Kansas,ST_20,Geary County,ST_20_CT_61,20061
+Kansas,ST_20,Riley County,ST_20_CT_161,20161
+Kansas,ST_20,Bourbon County,ST_20_CT_11,20011
+Kansas,ST_20,Wilson County,ST_20_CT_205,20205
+Kansas,ST_20,Crawford County,ST_20_CT_37,20037
+Kansas,ST_20,Cherokee County,ST_20_CT_21,20021
+Kansas,ST_20,Neosho County,ST_20_CT_133,20133
+Kansas,ST_20,Allen County,ST_20_CT_1,20001
+Kansas,ST_20,Woodson County,ST_20_CT_207,20207
+Kansas,ST_20,Lyon County,ST_20_CT_111,20111
+Kansas,ST_20,Morris County,ST_20_CT_127,20127
+Kansas,ST_20,Coffey County,ST_20_CT_31,20031
+Kansas,ST_20,Marion County,ST_20_CT_115,20115
+Kansas,ST_20,Butler County,ST_20_CT_15,20015
+Kansas,ST_20,Chase County,ST_20_CT_17,20017
+Kansas,ST_20,Greenwood County,ST_20_CT_73,20073
+Kansas,ST_20,Cloud County,ST_20_CT_29,20029
+Kansas,ST_20,Republic County,ST_20_CT_157,20157
+Kansas,ST_20,Smith County,ST_20_CT_183,20183
+Kansas,ST_20,Washington County,ST_20_CT_201,20201
+Kansas,ST_20,Jewell County,ST_20_CT_89,20089
+Kansas,ST_20,Sedgwick County,ST_20_CT_173,20173
+Kansas,ST_20,Harper County,ST_20_CT_77,20077
+Kansas,ST_20,Sumner County,ST_20_CT_191,20191
+Kansas,ST_20,Cowley County,ST_20_CT_35,20035
+Kansas,ST_20,Harvey County,ST_20_CT_79,20079
+Kansas,ST_20,Pratt County,ST_20_CT_151,20151
+Kansas,ST_20,Chautauqua County,ST_20_CT_19,20019
+Kansas,ST_20,Comanche County,ST_20_CT_33,20033
+Kansas,ST_20,Kingman County,ST_20_CT_95,20095
+Kansas,ST_20,Kiowa County,ST_20_CT_97,20097
+Kansas,ST_20,Barber County,ST_20_CT_7,20007
+Kansas,ST_20,McPherson County,ST_20_CT_113,20113
+Kansas,ST_20,Montgomery County,ST_20_CT_125,20125
+Kansas,ST_20,Labette County,ST_20_CT_99,20099
+Kansas,ST_20,Elk County,ST_20_CT_49,20049
+Kansas,ST_20,Saline County,ST_20_CT_169,20169
+Kansas,ST_20,Dickinson County,ST_20_CT_41,20041
+Kansas,ST_20,Lincoln County,ST_20_CT_105,20105
+Kansas,ST_20,Mitchell County,ST_20_CT_123,20123
+Kansas,ST_20,Ottawa County,ST_20_CT_143,20143
+Kansas,ST_20,Rice County,ST_20_CT_159,20159
+Kansas,ST_20,Clay County,ST_20_CT_27,20027
+Kansas,ST_20,Osborne County,ST_20_CT_141,20141
+Kansas,ST_20,Ellsworth County,ST_20_CT_53,20053
+Kansas,ST_20,Reno County,ST_20_CT_155,20155
+Kansas,ST_20,Barton County,ST_20_CT_9,20009
+Kansas,ST_20,Rush County,ST_20_CT_165,20165
+Kansas,ST_20,Ness County,ST_20_CT_135,20135
+Kansas,ST_20,Edwards County,ST_20_CT_47,20047
+Kansas,ST_20,Pawnee County,ST_20_CT_145,20145
+Kansas,ST_20,Stafford County,ST_20_CT_185,20185
+Kansas,ST_20,Ellis County,ST_20_CT_51,20051
+Kansas,ST_20,Phillips County,ST_20_CT_147,20147
+Kansas,ST_20,Norton County,ST_20_CT_137,20137
+Kansas,ST_20,Graham County,ST_20_CT_65,20065
+Kansas,ST_20,Russell County,ST_20_CT_167,20167
+Kansas,ST_20,Trego County,ST_20_CT_195,20195
+Kansas,ST_20,Rooks County,ST_20_CT_163,20163
+Kansas,ST_20,Decatur County,ST_20_CT_39,20039
+Kansas,ST_20,Thomas County,ST_20_CT_193,20193
+Kansas,ST_20,Rawlins County,ST_20_CT_153,20153
+Kansas,ST_20,Cheyenne County,ST_20_CT_23,20023
+Kansas,ST_20,Sherman County,ST_20_CT_181,20181
+Kansas,ST_20,Gove County,ST_20_CT_63,20063
+Kansas,ST_20,Sheridan County,ST_20_CT_179,20179
+Kansas,ST_20,Logan County,ST_20_CT_109,20109
+Kansas,ST_20,Wallace County,ST_20_CT_199,20199
+Kansas,ST_20,Ford County,ST_20_CT_57,20057
+Kansas,ST_20,Clark County,ST_20_CT_25,20025
+Kansas,ST_20,Gray County,ST_20_CT_69,20069
+Kansas,ST_20,Hamilton County,ST_20_CT_75,20075
+Kansas,ST_20,Kearny County,ST_20_CT_93,20093
+Kansas,ST_20,Lane County,ST_20_CT_101,20101
+Kansas,ST_20,Meade County,ST_20_CT_119,20119
+Kansas,ST_20,Finney County,ST_20_CT_55,20055
+Kansas,ST_20,Hodgeman County,ST_20_CT_83,20083
+Kansas,ST_20,Stanton County,ST_20_CT_187,20187
+Kansas,ST_20,Seward County,ST_20_CT_175,20175
+Kansas,ST_20,Wichita County,ST_20_CT_203,20203
+Kansas,ST_20,Haskell County,ST_20_CT_81,20081
+Kansas,ST_20,Scott County,ST_20_CT_171,20171
+Kansas,ST_20,Greeley County,ST_20_CT_71,20071
+Kansas,ST_20,Grant County,ST_20_CT_67,20067
+Kansas,ST_20,Morton County,ST_20_CT_129,20129
+Kansas,ST_20,Stevens County,ST_20_CT_189,20189
+Nebraska,ST_31,Butler County,ST_31_CT_23,31023
+Nebraska,ST_31,Washington County,ST_31_CT_177,31177
+Nebraska,ST_31,Saunders County,ST_31_CT_155,31155
+Nebraska,ST_31,Cuming County,ST_31_CT_39,31039
+Nebraska,ST_31,Sarpy County,ST_31_CT_153,31153
+Nebraska,ST_31,Douglas County,ST_31_CT_55,31055
+Nebraska,ST_31,Cass County,ST_31_CT_25,31025
+Nebraska,ST_31,Burt County,ST_31_CT_21,31021
+Nebraska,ST_31,Dodge County,ST_31_CT_53,31053
+Nebraska,ST_31,Dakota County,ST_31_CT_43,31043
+Nebraska,ST_31,Thurston County,ST_31_CT_173,31173
+Nebraska,ST_31,Gage County,ST_31_CT_67,31067
+Nebraska,ST_31,Thayer County,ST_31_CT_169,31169
+Nebraska,ST_31,Nemaha County,ST_31_CT_127,31127
+Nebraska,ST_31,Seward County,ST_31_CT_159,31159
+Nebraska,ST_31,York County,ST_31_CT_185,31185
+Nebraska,ST_31,Lancaster County,ST_31_CT_109,31109
+Nebraska,ST_31,Pawnee County,ST_31_CT_133,31133
+Nebraska,ST_31,Otoe County,ST_31_CT_131,31131
+Nebraska,ST_31,Johnson County,ST_31_CT_97,31097
+Nebraska,ST_31,Saline County,ST_31_CT_151,31151
+Nebraska,ST_31,Richardson County,ST_31_CT_147,31147
+Nebraska,ST_31,Jefferson County,ST_31_CT_95,31095
+Nebraska,ST_31,Fillmore County,ST_31_CT_59,31059
+Nebraska,ST_31,Clay County,ST_31_CT_35,31035
+Nebraska,ST_31,Platte County,ST_31_CT_141,31141
+Nebraska,ST_31,Boone County,ST_31_CT_11,31011
+Nebraska,ST_31,Wheeler County,ST_31_CT_183,31183
+Nebraska,ST_31,Nance County,ST_31_CT_125,31125
+Nebraska,ST_31,Merrick County,ST_31_CT_121,31121
+Nebraska,ST_31,Colfax County,ST_31_CT_37,31037
+Nebraska,ST_31,Antelope County,ST_31_CT_3,31003
+Nebraska,ST_31,Polk County,ST_31_CT_143,31143
+Nebraska,ST_31,Greeley County,ST_31_CT_77,31077
+Nebraska,ST_31,Madison County,ST_31_CT_119,31119
+Nebraska,ST_31,Dixon County,ST_31_CT_51,31051
+Nebraska,ST_31,Holt County,ST_31_CT_89,31089
+Nebraska,ST_31,Rock County,ST_31_CT_149,31149
+Nebraska,ST_31,Cedar County,ST_31_CT_27,31027
+Nebraska,ST_31,Knox County,ST_31_CT_107,31107
+Nebraska,ST_31,Boyd County,ST_31_CT_15,31015
+Nebraska,ST_31,Wayne County,ST_31_CT_179,31179
+Nebraska,ST_31,Pierce County,ST_31_CT_139,31139
+Nebraska,ST_31,Keya Paha County,ST_31_CT_103,31103
+Nebraska,ST_31,Stanton County,ST_31_CT_167,31167
+Nebraska,ST_31,Hall County,ST_31_CT_79,31079
+Nebraska,ST_31,Buffalo County,ST_31_CT_19,31019
+Nebraska,ST_31,Custer County,ST_31_CT_41,31041
+Nebraska,ST_31,Valley County,ST_31_CT_175,31175
+Nebraska,ST_31,Sherman County,ST_31_CT_163,31163
+Nebraska,ST_31,Hamilton County,ST_31_CT_81,31081
+Nebraska,ST_31,Howard County,ST_31_CT_93,31093
+Nebraska,ST_31,Blaine County,ST_31_CT_9,31009
+Nebraska,ST_31,Garfield County,ST_31_CT_71,31071
+Nebraska,ST_31,Dawson County,ST_31_CT_47,31047
+Nebraska,ST_31,Loup County,ST_31_CT_115,31115
+Nebraska,ST_31,Adams County,ST_31_CT_1,31001
+Nebraska,ST_31,Harlan County,ST_31_CT_83,31083
+Nebraska,ST_31,Furnas County,ST_31_CT_65,31065
+Nebraska,ST_31,Phelps County,ST_31_CT_137,31137
+Nebraska,ST_31,Kearney County,ST_31_CT_99,31099
+Nebraska,ST_31,Webster County,ST_31_CT_181,31181
+Nebraska,ST_31,Franklin County,ST_31_CT_61,31061
+Nebraska,ST_31,Gosper County,ST_31_CT_73,31073
+Nebraska,ST_31,Nuckolls County,ST_31_CT_129,31129
+Nebraska,ST_31,Red Willow County,ST_31_CT_145,31145
+Nebraska,ST_31,Dundy County,ST_31_CT_57,31057
+Nebraska,ST_31,Chase County,ST_31_CT_29,31029
+Nebraska,ST_31,Hitchcock County,ST_31_CT_87,31087
+Nebraska,ST_31,Frontier County,ST_31_CT_63,31063
+Nebraska,ST_31,Hayes County,ST_31_CT_85,31085
+Nebraska,ST_31,Lincoln County,ST_31_CT_111,31111
+Nebraska,ST_31,Arthur County,ST_31_CT_5,31005
+Nebraska,ST_31,Deuel County,ST_31_CT_49,31049
+Nebraska,ST_31,Morrill County,ST_31_CT_123,31123
+Nebraska,ST_31,Keith County,ST_31_CT_101,31101
+Nebraska,ST_31,Kimball County,ST_31_CT_105,31105
+Nebraska,ST_31,Cheyenne County,ST_31_CT_33,31033
+Nebraska,ST_31,Perkins County,ST_31_CT_135,31135
+Nebraska,ST_31,Cherry County,ST_31_CT_31,31031
+Nebraska,ST_31,Thomas County,ST_31_CT_171,31171
+Nebraska,ST_31,Garden County,ST_31_CT_69,31069
+Nebraska,ST_31,Hooker County,ST_31_CT_91,31091
+Nebraska,ST_31,Logan County,ST_31_CT_113,31113
+Nebraska,ST_31,McPherson County,ST_31_CT_117,31117
+Nebraska,ST_31,Brown County,ST_31_CT_17,31017
+Nebraska,ST_31,Box Butte County,ST_31_CT_13,31013
+Nebraska,ST_31,Grant County,ST_31_CT_75,31075
+Nebraska,ST_31,Sheridan County,ST_31_CT_161,31161
+Nebraska,ST_31,Dawes County,ST_31_CT_45,31045
+Nebraska,ST_31,Scotts Bluff County,ST_31_CT_157,31157
+Nebraska,ST_31,Banner County,ST_31_CT_7,31007
+Nebraska,ST_31,Sioux County,ST_31_CT_165,31165
+Louisiana,ST_22,Jefferson Parish,ST_22_CT_51,22051
+Louisiana,ST_22,St. Charles Parish,ST_22_CT_89,22089
+Louisiana,ST_22,St. Bernard Parish,ST_22_CT_87,22087
+Louisiana,ST_22,Plaquemines Parish,ST_22_CT_75,22075
+Louisiana,ST_22,St. John the Baptist Parish,ST_22_CT_95,22095
+Louisiana,ST_22,St. James Parish,ST_22_CT_93,22093
+Louisiana,ST_22,Orleans Parish,ST_22_CT_71,22071
+Louisiana,ST_22,Lafourche Parish,ST_22_CT_57,22057
+Louisiana,ST_22,Assumption Parish,ST_22_CT_7,22007
+Louisiana,ST_22,St. Mary Parish,ST_22_CT_101,22101
+Louisiana,ST_22,Terrebonne Parish,ST_22_CT_109,22109
+Louisiana,ST_22,Ascension Parish,ST_22_CT_5,22005
+Louisiana,ST_22,Tangipahoa Parish,ST_22_CT_105,22105
+Louisiana,ST_22,St. Tammany Parish,ST_22_CT_103,22103
+Louisiana,ST_22,Washington Parish,ST_22_CT_117,22117
+Louisiana,ST_22,St. Helena Parish,ST_22_CT_91,22091
+Louisiana,ST_22,Livingston Parish,ST_22_CT_63,22063
+Louisiana,ST_22,Lafayette Parish,ST_22_CT_55,22055
+Louisiana,ST_22,Vermilion Parish,ST_22_CT_113,22113
+Louisiana,ST_22,St. Landry Parish,ST_22_CT_97,22097
+Louisiana,ST_22,Iberia Parish,ST_22_CT_45,22045
+Louisiana,ST_22,Evangeline Parish,ST_22_CT_39,22039
+Louisiana,ST_22,Acadia Parish,ST_22_CT_1,22001
+Louisiana,ST_22,St. Martin Parish,ST_22_CT_99,22099
+Louisiana,ST_22,Jefferson Davis Parish,ST_22_CT_53,22053
+Louisiana,ST_22,Calcasieu Parish,ST_22_CT_19,22019
+Louisiana,ST_22,Cameron Parish,ST_22_CT_23,22023
+Louisiana,ST_22,Beauregard Parish,ST_22_CT_11,22011
+Louisiana,ST_22,Allen Parish,ST_22_CT_3,22003
+Louisiana,ST_22,Vernon Parish,ST_22_CT_115,22115
+Louisiana,ST_22,East Baton Rouge Parish,ST_22_CT_33,22033
+Louisiana,ST_22,West Baton Rouge Parish,ST_22_CT_121,22121
+Louisiana,ST_22,West Feliciana Parish,ST_22_CT_125,22125
+Louisiana,ST_22,Pointe Coupee Parish,ST_22_CT_77,22077
+Louisiana,ST_22,Iberville Parish,ST_22_CT_47,22047
+Louisiana,ST_22,East Feliciana Parish,ST_22_CT_37,22037
+Louisiana,ST_22,Bienville Parish,ST_22_CT_13,22013
+Louisiana,ST_22,Natchitoches Parish,ST_22_CT_69,22069
+Louisiana,ST_22,Claiborne Parish,ST_22_CT_27,22027
+Louisiana,ST_22,Caddo Parish,ST_22_CT_17,22017
+Louisiana,ST_22,Bossier Parish,ST_22_CT_15,22015
+Louisiana,ST_22,Webster Parish,ST_22_CT_119,22119
+Louisiana,ST_22,Red River Parish,ST_22_CT_81,22081
+Louisiana,ST_22,De Soto Parish,ST_22_CT_31,22031
+Louisiana,ST_22,Sabine Parish,ST_22_CT_85,22085
+Louisiana,ST_22,Ouachita Parish,ST_22_CT_73,22073
+Louisiana,ST_22,Richland Parish,ST_22_CT_83,22083
+Louisiana,ST_22,Franklin Parish,ST_22_CT_41,22041
+Louisiana,ST_22,Morehouse Parish,ST_22_CT_67,22067
+Louisiana,ST_22,Union Parish,ST_22_CT_111,22111
+Louisiana,ST_22,Jackson Parish,ST_22_CT_49,22049
+Louisiana,ST_22,Lincoln Parish,ST_22_CT_61,22061
+Louisiana,ST_22,Madison Parish,ST_22_CT_65,22065
+Louisiana,ST_22,West Carroll Parish,ST_22_CT_123,22123
+Louisiana,ST_22,East Carroll Parish,ST_22_CT_35,22035
+Louisiana,ST_22,Rapides Parish,ST_22_CT_79,22079
+Louisiana,ST_22,Concordia Parish,ST_22_CT_29,22029
+Louisiana,ST_22,Avoyelles Parish,ST_22_CT_9,22009
+Louisiana,ST_22,Catahoula Parish,ST_22_CT_25,22025
+Louisiana,ST_22,LaSalle Parish,ST_22_CT_59,22059
+Louisiana,ST_22,Tensas Parish,ST_22_CT_107,22107
+Louisiana,ST_22,Winn Parish,ST_22_CT_127,22127
+Louisiana,ST_22,Grant Parish,ST_22_CT_43,22043
+Louisiana,ST_22,Caldwell Parish,ST_22_CT_21,22021
+Arkansas,ST_5,Jefferson County,ST_5_CT_69,5069
+Arkansas,ST_5,Desha County,ST_5_CT_41,5041
+Arkansas,ST_5,Bradley County,ST_5_CT_11,5011
+Arkansas,ST_5,Ashley County,ST_5_CT_3,5003
+Arkansas,ST_5,Chicot County,ST_5_CT_17,5017
+Arkansas,ST_5,Lincoln County,ST_5_CT_79,5079
+Arkansas,ST_5,Drew County,ST_5_CT_43,5043
+Arkansas,ST_5,Cleveland County,ST_5_CT_25,5025
+Arkansas,ST_5,Ouachita County,ST_5_CT_103,5103
+Arkansas,ST_5,Clark County,ST_5_CT_19,5019
+Arkansas,ST_5,Nevada County,ST_5_CT_99,5099
+Arkansas,ST_5,Union County,ST_5_CT_139,5139
+Arkansas,ST_5,Dallas County,ST_5_CT_39,5039
+Arkansas,ST_5,Columbia County,ST_5_CT_27,5027
+Arkansas,ST_5,Calhoun County,ST_5_CT_13,5013
+Arkansas,ST_5,Hempstead County,ST_5_CT_57,5057
+Arkansas,ST_5,Little River County,ST_5_CT_81,5081
+Arkansas,ST_5,Sevier County,ST_5_CT_133,5133
+Arkansas,ST_5,Lafayette County,ST_5_CT_73,5073
+Arkansas,ST_5,Howard County,ST_5_CT_61,5061
+Arkansas,ST_5,Miller County,ST_5_CT_91,5091
+Arkansas,ST_5,Garland County,ST_5_CT_51,5051
+Arkansas,ST_5,Pike County,ST_5_CT_109,5109
+Arkansas,ST_5,Hot Spring County,ST_5_CT_59,5059
+Arkansas,ST_5,Polk County,ST_5_CT_113,5113
+Arkansas,ST_5,Montgomery County,ST_5_CT_97,5097
+Arkansas,ST_5,Perry County,ST_5_CT_105,5105
+Arkansas,ST_5,Saline County,ST_5_CT_125,5125
+Arkansas,ST_5,Arkansas County,ST_5_CT_1,5001
+Arkansas,ST_5,Jackson County,ST_5_CT_67,5067
+Arkansas,ST_5,Woodruff County,ST_5_CT_147,5147
+Arkansas,ST_5,Lonoke County,ST_5_CT_85,5085
+Arkansas,ST_5,White County,ST_5_CT_145,5145
+Arkansas,ST_5,Van Buren County,ST_5_CT_141,5141
+Arkansas,ST_5,Prairie County,ST_5_CT_117,5117
+Arkansas,ST_5,Monroe County,ST_5_CT_95,5095
+Arkansas,ST_5,Conway County,ST_5_CT_29,5029
+Arkansas,ST_5,Faulkner County,ST_5_CT_45,5045
+Arkansas,ST_5,Cleburne County,ST_5_CT_23,5023
+Arkansas,ST_5,Stone County,ST_5_CT_137,5137
+Arkansas,ST_5,Pulaski County,ST_5_CT_119,5119
+Arkansas,ST_5,Grant County,ST_5_CT_53,5053
+Arkansas,ST_5,Independence County,ST_5_CT_63,5063
+Arkansas,ST_5,Crittenden County,ST_5_CT_35,5035
+Arkansas,ST_5,Mississippi County,ST_5_CT_93,5093
+Arkansas,ST_5,Lee County,ST_5_CT_77,5077
+Arkansas,ST_5,Phillips County,ST_5_CT_107,5107
+Arkansas,ST_5,Cross County,ST_5_CT_37,5037
+Arkansas,ST_5,St. Francis County,ST_5_CT_123,5123
+Arkansas,ST_5,Poinsett County,ST_5_CT_111,5111
+Arkansas,ST_5,Craighead County,ST_5_CT_31,5031
+Arkansas,ST_5,Lawrence County,ST_5_CT_75,5075
+Arkansas,ST_5,Greene County,ST_5_CT_55,5055
+Arkansas,ST_5,Randolph County,ST_5_CT_121,5121
+Arkansas,ST_5,Clay County,ST_5_CT_21,5021
+Arkansas,ST_5,Sharp County,ST_5_CT_135,5135
+Arkansas,ST_5,Izard County,ST_5_CT_65,5065
+Arkansas,ST_5,Fulton County,ST_5_CT_49,5049
+Arkansas,ST_5,Baxter County,ST_5_CT_5,5005
+Arkansas,ST_5,Boone County,ST_5_CT_9,5009
+Arkansas,ST_5,Carroll County,ST_5_CT_15,5015
+Arkansas,ST_5,Marion County,ST_5_CT_89,5089
+Arkansas,ST_5,Newton County,ST_5_CT_101,5101
+Arkansas,ST_5,Searcy County,ST_5_CT_129,5129
+Arkansas,ST_5,Pope County,ST_5_CT_115,5115
+Arkansas,ST_5,Washington County,ST_5_CT_143,5143
+Arkansas,ST_5,Benton County,ST_5_CT_7,5007
+Arkansas,ST_5,Madison County,ST_5_CT_87,5087
+Arkansas,ST_5,Franklin County,ST_5_CT_47,5047
+Arkansas,ST_5,Yell County,ST_5_CT_149,5149
+Arkansas,ST_5,Logan County,ST_5_CT_83,5083
+Arkansas,ST_5,Johnson County,ST_5_CT_71,5071
+Arkansas,ST_5,Scott County,ST_5_CT_127,5127
+Arkansas,ST_5,Sebastian County,ST_5_CT_131,5131
+Arkansas,ST_5,Crawford County,ST_5_CT_33,5033
+Oklahoma,ST_40,Caddo County,ST_40_CT_15,40015
+Oklahoma,ST_40,Grady County,ST_40_CT_51,40051
+Oklahoma,ST_40,Oklahoma County,ST_40_CT_109,40109
+Oklahoma,ST_40,McClain County,ST_40_CT_87,40087
+Oklahoma,ST_40,Canadian County,ST_40_CT_17,40017
+Oklahoma,ST_40,Kingfisher County,ST_40_CT_73,40073
+Oklahoma,ST_40,Cleveland County,ST_40_CT_27,40027
+Oklahoma,ST_40,Washita County,ST_40_CT_149,40149
+Oklahoma,ST_40,Logan County,ST_40_CT_83,40083
+Oklahoma,ST_40,Murray County,ST_40_CT_99,40099
+Oklahoma,ST_40,Blaine County,ST_40_CT_11,40011
+Oklahoma,ST_40,Kiowa County,ST_40_CT_75,40075
+Oklahoma,ST_40,Garvin County,ST_40_CT_49,40049
+Oklahoma,ST_40,Stephens County,ST_40_CT_137,40137
+Oklahoma,ST_40,Noble County,ST_40_CT_103,40103
+Oklahoma,ST_40,Custer County,ST_40_CT_39,40039
+Oklahoma,ST_40,Carter County,ST_40_CT_19,40019
+Oklahoma,ST_40,Love County,ST_40_CT_85,40085
+Oklahoma,ST_40,Johnston County,ST_40_CT_69,40069
+Oklahoma,ST_40,Marshall County,ST_40_CT_95,40095
+Oklahoma,ST_40,Bryan County,ST_40_CT_13,40013
+Oklahoma,ST_40,Jefferson County,ST_40_CT_67,40067
+Oklahoma,ST_40,Comanche County,ST_40_CT_31,40031
+Oklahoma,ST_40,Jackson County,ST_40_CT_65,40065
+Oklahoma,ST_40,Tillman County,ST_40_CT_141,40141
+Oklahoma,ST_40,Cotton County,ST_40_CT_33,40033
+Oklahoma,ST_40,Harmon County,ST_40_CT_57,40057
+Oklahoma,ST_40,Greer County,ST_40_CT_55,40055
+Oklahoma,ST_40,Beckham County,ST_40_CT_9,40009
+Oklahoma,ST_40,Roger Mills County,ST_40_CT_129,40129
+Oklahoma,ST_40,Dewey County,ST_40_CT_43,40043
+Oklahoma,ST_40,Garfield County,ST_40_CT_47,40047
+Oklahoma,ST_40,Alfalfa County,ST_40_CT_3,40003
+Oklahoma,ST_40,Woods County,ST_40_CT_151,40151
+Oklahoma,ST_40,Major County,ST_40_CT_93,40093
+Oklahoma,ST_40,Grant County,ST_40_CT_53,40053
+Oklahoma,ST_40,Woodward County,ST_40_CT_153,40153
+Oklahoma,ST_40,Ellis County,ST_40_CT_45,40045
+Oklahoma,ST_40,Harper County,ST_40_CT_59,40059
+Oklahoma,ST_40,Beaver County,ST_40_CT_7,40007
+Oklahoma,ST_40,Texas County,ST_40_CT_139,40139
+Oklahoma,ST_40,Cimarron County,ST_40_CT_25,40025
+Oklahoma,ST_40,Osage County,ST_40_CT_113,40113
+Oklahoma,ST_40,Washington County,ST_40_CT_147,40147
+Oklahoma,ST_40,Tulsa County,ST_40_CT_143,40143
+Oklahoma,ST_40,Creek County,ST_40_CT_37,40037
+Oklahoma,ST_40,Wagoner County,ST_40_CT_145,40145
+Oklahoma,ST_40,Rogers County,ST_40_CT_131,40131
+Oklahoma,ST_40,Pawnee County,ST_40_CT_117,40117
+Oklahoma,ST_40,Payne County,ST_40_CT_119,40119
+Oklahoma,ST_40,Lincoln County,ST_40_CT_81,40081
+Oklahoma,ST_40,Nowata County,ST_40_CT_105,40105
+Oklahoma,ST_40,Craig County,ST_40_CT_35,40035
+Oklahoma,ST_40,Mayes County,ST_40_CT_97,40097
+Oklahoma,ST_40,Ottawa County,ST_40_CT_115,40115
+Oklahoma,ST_40,Delaware County,ST_40_CT_41,40041
+Oklahoma,ST_40,Muskogee County,ST_40_CT_101,40101
+Oklahoma,ST_40,Okmulgee County,ST_40_CT_111,40111
+Oklahoma,ST_40,Pittsburg County,ST_40_CT_121,40121
+Oklahoma,ST_40,McIntosh County,ST_40_CT_91,40091
+Oklahoma,ST_40,Cherokee County,ST_40_CT_21,40021
+Oklahoma,ST_40,Sequoyah County,ST_40_CT_135,40135
+Oklahoma,ST_40,Haskell County,ST_40_CT_61,40061
+Oklahoma,ST_40,Adair County,ST_40_CT_1,40001
+Oklahoma,ST_40,Pushmataha County,ST_40_CT_127,40127
+Oklahoma,ST_40,Atoka County,ST_40_CT_5,40005
+Oklahoma,ST_40,Hughes County,ST_40_CT_63,40063
+Oklahoma,ST_40,Coal County,ST_40_CT_29,40029
+Oklahoma,ST_40,Latimer County,ST_40_CT_77,40077
+Oklahoma,ST_40,Le Flore County,ST_40_CT_79,40079
+Oklahoma,ST_40,Kay County,ST_40_CT_71,40071
+Oklahoma,ST_40,McCurtain County,ST_40_CT_89,40089
+Oklahoma,ST_40,Choctaw County,ST_40_CT_23,40023
+Oklahoma,ST_40,Pottawatomie County,ST_40_CT_125,40125
+Oklahoma,ST_40,Seminole County,ST_40_CT_133,40133
+Oklahoma,ST_40,Pontotoc County,ST_40_CT_123,40123
+Oklahoma,ST_40,Okfuskee County,ST_40_CT_107,40107
+Texas,ST_48,Travis County,ST_48_CT_453,48453
+Texas,ST_48,Dallas County,ST_48_CT_113,48113
+Texas,ST_48,Collin County,ST_48_CT_85,48085
+Texas,ST_48,Denton County,ST_48_CT_121,48121
+Texas,ST_48,Grayson County,ST_48_CT_181,48181
+Texas,ST_48,Rockwall County,ST_48_CT_397,48397
+Texas,ST_48,Ellis County,ST_48_CT_139,48139
+Texas,ST_48,Navarro County,ST_48_CT_349,48349
+Texas,ST_48,Van Zandt County,ST_48_CT_467,48467
+Texas,ST_48,Kaufman County,ST_48_CT_257,48257
+Texas,ST_48,Henderson County,ST_48_CT_213,48213
+Texas,ST_48,Hunt County,ST_48_CT_231,48231
+Texas,ST_48,Wood County,ST_48_CT_499,48499
+Texas,ST_48,Lamar County,ST_48_CT_277,48277
+Texas,ST_48,Red River County,ST_48_CT_387,48387
+Texas,ST_48,Fannin County,ST_48_CT_147,48147
+Texas,ST_48,Delta County,ST_48_CT_119,48119
+Texas,ST_48,Hopkins County,ST_48_CT_223,48223
+Texas,ST_48,Rains County,ST_48_CT_379,48379
+Texas,ST_48,Camp County,ST_48_CT_63,48063
+Texas,ST_48,Titus County,ST_48_CT_449,48449
+Texas,ST_48,Franklin County,ST_48_CT_159,48159
+Texas,ST_48,Bowie County,ST_48_CT_37,48037
+Texas,ST_48,Cass County,ST_48_CT_67,48067
+Texas,ST_48,Marion County,ST_48_CT_315,48315
+Texas,ST_48,Morris County,ST_48_CT_343,48343
+Texas,ST_48,Gregg County,ST_48_CT_183,48183
+Texas,ST_48,Panola County,ST_48_CT_365,48365
+Texas,ST_48,Upshur County,ST_48_CT_459,48459
+Texas,ST_48,Harrison County,ST_48_CT_203,48203
+Texas,ST_48,Rusk County,ST_48_CT_401,48401
+Texas,ST_48,Smith County,ST_48_CT_423,48423
+Texas,ST_48,Cherokee County,ST_48_CT_73,48073
+Texas,ST_48,Nacogdoches County,ST_48_CT_347,48347
+Texas,ST_48,Anderson County,ST_48_CT_1,48001
+Texas,ST_48,Leon County,ST_48_CT_289,48289
+Texas,ST_48,Trinity County,ST_48_CT_455,48455
+Texas,ST_48,Houston County,ST_48_CT_225,48225
+Texas,ST_48,Freestone County,ST_48_CT_161,48161
+Texas,ST_48,Madison County,ST_48_CT_313,48313
+Texas,ST_48,Angelina County,ST_48_CT_5,48005
+Texas,ST_48,Newton County,ST_48_CT_351,48351
+Texas,ST_48,San Augustine County,ST_48_CT_405,48405
+Texas,ST_48,Sabine County,ST_48_CT_403,48403
+Texas,ST_48,Polk County,ST_48_CT_373,48373
+Texas,ST_48,Shelby County,ST_48_CT_419,48419
+Texas,ST_48,Tyler County,ST_48_CT_457,48457
+Texas,ST_48,Jasper County,ST_48_CT_241,48241
+Texas,ST_48,Tarrant County,ST_48_CT_439,48439
+Texas,ST_48,Parker County,ST_48_CT_367,48367
+Texas,ST_48,Johnson County,ST_48_CT_251,48251
+Texas,ST_48,Wise County,ST_48_CT_497,48497
+Texas,ST_48,Hood County,ST_48_CT_221,48221
+Texas,ST_48,Somervell County,ST_48_CT_425,48425
+Texas,ST_48,Hill County,ST_48_CT_217,48217
+Texas,ST_48,Palo Pinto County,ST_48_CT_363,48363
+Texas,ST_48,Clay County,ST_48_CT_77,48077
+Texas,ST_48,Montague County,ST_48_CT_337,48337
+Texas,ST_48,Cooke County,ST_48_CT_97,48097
+Texas,ST_48,Wichita County,ST_48_CT_485,48485
+Texas,ST_48,Archer County,ST_48_CT_9,48009
+Texas,ST_48,Knox County,ST_48_CT_275,48275
+Texas,ST_48,Wilbarger County,ST_48_CT_487,48487
+Texas,ST_48,Young County,ST_48_CT_503,48503
+Texas,ST_48,Baylor County,ST_48_CT_23,48023
+Texas,ST_48,Haskell County,ST_48_CT_207,48207
+Texas,ST_48,Erath County,ST_48_CT_143,48143
+Texas,ST_48,Stephens County,ST_48_CT_429,48429
+Texas,ST_48,Jack County,ST_48_CT_237,48237
+Texas,ST_48,Shackelford County,ST_48_CT_417,48417
+Texas,ST_48,Brown County,ST_48_CT_49,48049
+Texas,ST_48,Eastland County,ST_48_CT_133,48133
+Texas,ST_48,Hamilton County,ST_48_CT_193,48193
+Texas,ST_48,Comanche County,ST_48_CT_93,48093
+Texas,ST_48,Callahan County,ST_48_CT_59,48059
+Texas,ST_48,Throckmorton County,ST_48_CT_447,48447
+Texas,ST_48,Bell County,ST_48_CT_27,48027
+Texas,ST_48,Milam County,ST_48_CT_331,48331
+Texas,ST_48,Coryell County,ST_48_CT_99,48099
+Texas,ST_48,McLennan County,ST_48_CT_309,48309
+Texas,ST_48,Williamson County,ST_48_CT_491,48491
+Texas,ST_48,Lampasas County,ST_48_CT_281,48281
+Texas,ST_48,Falls County,ST_48_CT_145,48145
+Texas,ST_48,Robertson County,ST_48_CT_395,48395
+Texas,ST_48,Bosque County,ST_48_CT_35,48035
+Texas,ST_48,Limestone County,ST_48_CT_293,48293
+Texas,ST_48,Mason County,ST_48_CT_319,48319
+Texas,ST_48,Runnels County,ST_48_CT_399,48399
+Texas,ST_48,McCulloch County,ST_48_CT_307,48307
+Texas,ST_48,Coleman County,ST_48_CT_83,48083
+Texas,ST_48,Llano County,ST_48_CT_299,48299
+Texas,ST_48,San Saba County,ST_48_CT_411,48411
+Texas,ST_48,Concho County,ST_48_CT_95,48095
+Texas,ST_48,Menard County,ST_48_CT_327,48327
+Texas,ST_48,Mills County,ST_48_CT_333,48333
+Texas,ST_48,Kimble County,ST_48_CT_267,48267
+Texas,ST_48,Edwards County,ST_48_CT_137,48137
+Texas,ST_48,Tom Green County,ST_48_CT_451,48451
+Texas,ST_48,Irion County,ST_48_CT_235,48235
+Texas,ST_48,Reagan County,ST_48_CT_383,48383
+Texas,ST_48,Coke County,ST_48_CT_81,48081
+Texas,ST_48,Schleicher County,ST_48_CT_413,48413
+Texas,ST_48,Crockett County,ST_48_CT_105,48105
+Texas,ST_48,Sutton County,ST_48_CT_435,48435
+Texas,ST_48,Sterling County,ST_48_CT_431,48431
+Texas,ST_48,Harris County,ST_48_CT_201,48201
+Texas,ST_48,Fort Bend County,ST_48_CT_157,48157
+Texas,ST_48,Montgomery County,ST_48_CT_339,48339
+Texas,ST_48,Walker County,ST_48_CT_471,48471
+Texas,ST_48,Liberty County,ST_48_CT_291,48291
+Texas,ST_48,San Jacinto County,ST_48_CT_407,48407
+Texas,ST_48,Grimes County,ST_48_CT_185,48185
+Texas,ST_48,Hardin County,ST_48_CT_199,48199
+Texas,ST_48,Matagorda County,ST_48_CT_321,48321
+Texas,ST_48,Colorado County,ST_48_CT_89,48089
+Texas,ST_48,Austin County,ST_48_CT_15,48015
+Texas,ST_48,Wharton County,ST_48_CT_481,48481
+Texas,ST_48,Brazoria County,ST_48_CT_39,48039
+Texas,ST_48,Waller County,ST_48_CT_473,48473
+Texas,ST_48,Washington County,ST_48_CT_477,48477
+Texas,ST_48,Galveston County,ST_48_CT_167,48167
+Texas,ST_48,Chambers County,ST_48_CT_71,48071
+Texas,ST_48,Orange County,ST_48_CT_361,48361
+Texas,ST_48,Jefferson County,ST_48_CT_245,48245
+Texas,ST_48,Brazos County,ST_48_CT_41,48041
+Texas,ST_48,Burleson County,ST_48_CT_51,48051
+Texas,ST_48,Lee County,ST_48_CT_287,48287
+Texas,ST_48,Victoria County,ST_48_CT_469,48469
+Texas,ST_48,Refugio County,ST_48_CT_391,48391
+Texas,ST_48,DeWitt County,ST_48_CT_123,48123
+Texas,ST_48,Jackson County,ST_48_CT_239,48239
+Texas,ST_48,Goliad County,ST_48_CT_175,48175
+Texas,ST_48,Lavaca County,ST_48_CT_285,48285
+Texas,ST_48,Calhoun County,ST_48_CT_57,48057
+Texas,ST_48,La Salle County,ST_48_CT_283,48283
+Texas,ST_48,Bexar County,ST_48_CT_29,48029
+Texas,ST_48,Bandera County,ST_48_CT_19,48019
+Texas,ST_48,Kendall County,ST_48_CT_259,48259
+Texas,ST_48,Frio County,ST_48_CT_163,48163
+Texas,ST_48,McMullen County,ST_48_CT_311,48311
+Texas,ST_48,Atascosa County,ST_48_CT_13,48013
+Texas,ST_48,Medina County,ST_48_CT_325,48325
+Texas,ST_48,Kerr County,ST_48_CT_265,48265
+Texas,ST_48,Live Oak County,ST_48_CT_297,48297
+Texas,ST_48,Webb County,ST_48_CT_479,48479
+Texas,ST_48,Zapata County,ST_48_CT_505,48505
+Texas,ST_48,Comal County,ST_48_CT_91,48091
+Texas,ST_48,Bee County,ST_48_CT_25,48025
+Texas,ST_48,Guadalupe County,ST_48_CT_187,48187
+Texas,ST_48,Karnes County,ST_48_CT_255,48255
+Texas,ST_48,Wilson County,ST_48_CT_493,48493
+Texas,ST_48,Gonzales County,ST_48_CT_177,48177
+Texas,ST_48,Nueces County,ST_48_CT_355,48355
+Texas,ST_48,Jim Wells County,ST_48_CT_249,48249
+Texas,ST_48,San Patricio County,ST_48_CT_409,48409
+Texas,ST_48,Kenedy County,ST_48_CT_261,48261
+Texas,ST_48,Duval County,ST_48_CT_131,48131
+Texas,ST_48,Brooks County,ST_48_CT_47,48047
+Texas,ST_48,Aransas County,ST_48_CT_7,48007
+Texas,ST_48,Jim Hogg County,ST_48_CT_247,48247
+Texas,ST_48,Kleberg County,ST_48_CT_273,48273
+Texas,ST_48,Hidalgo County,ST_48_CT_215,48215
+Texas,ST_48,Cameron County,ST_48_CT_61,48061
+Texas,ST_48,Starr County,ST_48_CT_427,48427
+Texas,ST_48,Willacy County,ST_48_CT_489,48489
+Texas,ST_48,Bastrop County,ST_48_CT_21,48021
+Texas,ST_48,Burnet County,ST_48_CT_53,48053
+Texas,ST_48,Blanco County,ST_48_CT_31,48031
+Texas,ST_48,Hays County,ST_48_CT_209,48209
+Texas,ST_48,Caldwell County,ST_48_CT_55,48055
+Texas,ST_48,Gillespie County,ST_48_CT_171,48171
+Texas,ST_48,Uvalde County,ST_48_CT_463,48463
+Texas,ST_48,Dimmit County,ST_48_CT_127,48127
+Texas,ST_48,Zavala County,ST_48_CT_507,48507
+Texas,ST_48,Kinney County,ST_48_CT_271,48271
+Texas,ST_48,Real County,ST_48_CT_385,48385
+Texas,ST_48,Val Verde County,ST_48_CT_465,48465
+Texas,ST_48,Terrell County,ST_48_CT_443,48443
+Texas,ST_48,Maverick County,ST_48_CT_323,48323
+Texas,ST_48,Fayette County,ST_48_CT_149,48149
+Texas,ST_48,Oldham County,ST_48_CT_359,48359
+Texas,ST_48,Gray County,ST_48_CT_179,48179
+Texas,ST_48,Wheeler County,ST_48_CT_483,48483
+Texas,ST_48,Lipscomb County,ST_48_CT_295,48295
+Texas,ST_48,Hutchinson County,ST_48_CT_233,48233
+Texas,ST_48,Parmer County,ST_48_CT_369,48369
+Texas,ST_48,Potter County,ST_48_CT_375,48375
+Texas,ST_48,Moore County,ST_48_CT_341,48341
+Texas,ST_48,Hemphill County,ST_48_CT_211,48211
+Texas,ST_48,Randall County,ST_48_CT_381,48381
+Texas,ST_48,Hartley County,ST_48_CT_205,48205
+Texas,ST_48,Armstrong County,ST_48_CT_11,48011
+Texas,ST_48,Hale County,ST_48_CT_189,48189
+Texas,ST_48,Dallam County,ST_48_CT_111,48111
+Texas,ST_48,Deaf Smith County,ST_48_CT_117,48117
+Texas,ST_48,Castro County,ST_48_CT_69,48069
+Texas,ST_48,Lamb County,ST_48_CT_279,48279
+Texas,ST_48,Ochiltree County,ST_48_CT_357,48357
+Texas,ST_48,Carson County,ST_48_CT_65,48065
+Texas,ST_48,Hansford County,ST_48_CT_195,48195
+Texas,ST_48,Swisher County,ST_48_CT_437,48437
+Texas,ST_48,Roberts County,ST_48_CT_393,48393
+Texas,ST_48,Collingsworth County,ST_48_CT_87,48087
+Texas,ST_48,Sherman County,ST_48_CT_421,48421
+Texas,ST_48,Childress County,ST_48_CT_75,48075
+Texas,ST_48,Dickens County,ST_48_CT_125,48125
+Texas,ST_48,Floyd County,ST_48_CT_153,48153
+Texas,ST_48,Cottle County,ST_48_CT_101,48101
+Texas,ST_48,Hardeman County,ST_48_CT_197,48197
+Texas,ST_48,Donley County,ST_48_CT_129,48129
+Texas,ST_48,Foard County,ST_48_CT_155,48155
+Texas,ST_48,King County,ST_48_CT_269,48269
+Texas,ST_48,Hall County,ST_48_CT_191,48191
+Texas,ST_48,Motley County,ST_48_CT_345,48345
+Texas,ST_48,Briscoe County,ST_48_CT_45,48045
+Texas,ST_48,Hockley County,ST_48_CT_219,48219
+Texas,ST_48,Cochran County,ST_48_CT_79,48079
+Texas,ST_48,Terry County,ST_48_CT_445,48445
+Texas,ST_48,Bailey County,ST_48_CT_17,48017
+Texas,ST_48,Crosby County,ST_48_CT_107,48107
+Texas,ST_48,Yoakum County,ST_48_CT_501,48501
+Texas,ST_48,Lubbock County,ST_48_CT_303,48303
+Texas,ST_48,Garza County,ST_48_CT_169,48169
+Texas,ST_48,Dawson County,ST_48_CT_115,48115
+Texas,ST_48,Gaines County,ST_48_CT_165,48165
+Texas,ST_48,Lynn County,ST_48_CT_305,48305
+Texas,ST_48,Jones County,ST_48_CT_253,48253
+Texas,ST_48,Stonewall County,ST_48_CT_433,48433
+Texas,ST_48,Nolan County,ST_48_CT_353,48353
+Texas,ST_48,Taylor County,ST_48_CT_441,48441
+Texas,ST_48,Howard County,ST_48_CT_227,48227
+Texas,ST_48,Mitchell County,ST_48_CT_335,48335
+Texas,ST_48,Scurry County,ST_48_CT_415,48415
+Texas,ST_48,Kent County,ST_48_CT_263,48263
+Texas,ST_48,Fisher County,ST_48_CT_151,48151
+Texas,ST_48,Midland County,ST_48_CT_329,48329
+Texas,ST_48,Andrews County,ST_48_CT_3,48003
+Texas,ST_48,Reeves County,ST_48_CT_389,48389
+Texas,ST_48,Ward County,ST_48_CT_475,48475
+Texas,ST_48,Pecos County,ST_48_CT_371,48371
+Texas,ST_48,Crane County,ST_48_CT_103,48103
+Texas,ST_48,Jeff Davis County,ST_48_CT_243,48243
+Texas,ST_48,Borden County,ST_48_CT_33,48033
+Texas,ST_48,Glasscock County,ST_48_CT_173,48173
+Texas,ST_48,Ector County,ST_48_CT_135,48135
+Texas,ST_48,Winkler County,ST_48_CT_495,48495
+Texas,ST_48,Martin County,ST_48_CT_317,48317
+Texas,ST_48,Upton County,ST_48_CT_461,48461
+Texas,ST_48,Loving County,ST_48_CT_301,48301
+Texas,ST_48,El Paso County,ST_48_CT_141,48141
+Texas,ST_48,Brewster County,ST_48_CT_43,48043
+Texas,ST_48,Hudspeth County,ST_48_CT_229,48229
+Texas,ST_48,Presidio County,ST_48_CT_377,48377
+Texas,ST_48,Culberson County,ST_48_CT_109,48109
+Colorado,ST_8,Jefferson County,ST_8_CT_59,8059
+Colorado,ST_8,Arapahoe County,ST_8_CT_5,8005
+Colorado,ST_8,Adams County,ST_8_CT_1,8001
+Colorado,ST_8,Broomfield County,ST_8_CT_14,8014
+Colorado,ST_8,Boulder County,ST_8_CT_13,8013
+Colorado,ST_8,Elbert County,ST_8_CT_39,8039
+Colorado,ST_8,Douglas County,ST_8_CT_35,8035
+Colorado,ST_8,El Paso County,ST_8_CT_41,8041
+Colorado,ST_8,Denver County,ST_8_CT_31,8031
+Colorado,ST_8,Park County,ST_8_CT_93,8093
+Colorado,ST_8,Gilpin County,ST_8_CT_47,8047
+Colorado,ST_8,Eagle County,ST_8_CT_37,8037
+Colorado,ST_8,Summit County,ST_8_CT_117,8117
+Colorado,ST_8,Routt County,ST_8_CT_107,8107
+Colorado,ST_8,Lake County,ST_8_CT_65,8065
+Colorado,ST_8,Jackson County,ST_8_CT_57,8057
+Colorado,ST_8,Clear Creek County,ST_8_CT_19,8019
+Colorado,ST_8,Grand County,ST_8_CT_49,8049
+Colorado,ST_8,Weld County,ST_8_CT_123,8123
+Colorado,ST_8,Larimer County,ST_8_CT_69,8069
+Colorado,ST_8,Morgan County,ST_8_CT_87,8087
+Colorado,ST_8,Washington County,ST_8_CT_121,8121
+Colorado,ST_8,Phillips County,ST_8_CT_95,8095
+Colorado,ST_8,Logan County,ST_8_CT_75,8075
+Colorado,ST_8,Yuma County,ST_8_CT_125,8125
+Colorado,ST_8,Sedgwick County,ST_8_CT_115,8115
+Colorado,ST_8,Cheyenne County,ST_8_CT_17,8017
+Colorado,ST_8,Lincoln County,ST_8_CT_73,8073
+Colorado,ST_8,Kit Carson County,ST_8_CT_63,8063
+Colorado,ST_8,Teller County,ST_8_CT_119,8119
+Colorado,ST_8,Pueblo County,ST_8_CT_101,8101
+Colorado,ST_8,Las Animas County,ST_8_CT_71,8071
+Colorado,ST_8,Kiowa County,ST_8_CT_61,8061
+Colorado,ST_8,Baca County,ST_8_CT_9,8009
+Colorado,ST_8,Otero County,ST_8_CT_89,8089
+Colorado,ST_8,Crowley County,ST_8_CT_25,8025
+Colorado,ST_8,Bent County,ST_8_CT_11,8011
+Colorado,ST_8,Huerfano County,ST_8_CT_55,8055
+Colorado,ST_8,Prowers County,ST_8_CT_99,8099
+Colorado,ST_8,Alamosa County,ST_8_CT_3,8003
+Colorado,ST_8,Conejos County,ST_8_CT_21,8021
+Colorado,ST_8,Archuleta County,ST_8_CT_7,8007
+Colorado,ST_8,La Plata County,ST_8_CT_67,8067
+Colorado,ST_8,Costilla County,ST_8_CT_23,8023
+Colorado,ST_8,Saguache County,ST_8_CT_109,8109
+Colorado,ST_8,Mineral County,ST_8_CT_79,8079
+Colorado,ST_8,Rio Grande County,ST_8_CT_105,8105
+Colorado,ST_8,Chaffee County,ST_8_CT_15,8015
+Colorado,ST_8,Gunnison County,ST_8_CT_51,8051
+Colorado,ST_8,Fremont County,ST_8_CT_43,8043
+Colorado,ST_8,Montrose County,ST_8_CT_85,8085
+Colorado,ST_8,Hinsdale County,ST_8_CT_53,8053
+Colorado,ST_8,Custer County,ST_8_CT_27,8027
+Colorado,ST_8,Dolores County,ST_8_CT_33,8033
+Colorado,ST_8,Montezuma County,ST_8_CT_83,8083
+Colorado,ST_8,San Miguel County,ST_8_CT_113,8113
+Colorado,ST_8,Delta County,ST_8_CT_29,8029
+Colorado,ST_8,Ouray County,ST_8_CT_91,8091
+Colorado,ST_8,San Juan County,ST_8_CT_111,8111
+Colorado,ST_8,Mesa County,ST_8_CT_77,8077
+Colorado,ST_8,Garfield County,ST_8_CT_45,8045
+Colorado,ST_8,Moffat County,ST_8_CT_81,8081
+Colorado,ST_8,Pitkin County,ST_8_CT_97,8097
+Colorado,ST_8,Rio Blanco County,ST_8_CT_103,8103
+Wyoming,ST_56,Laramie County,ST_56_CT_21,56021
+Wyoming,ST_56,Albany County,ST_56_CT_1,56001
+Wyoming,ST_56,Park County,ST_56_CT_29,56029
+Wyoming,ST_56,Platte County,ST_56_CT_31,56031
+Wyoming,ST_56,Goshen County,ST_56_CT_15,56015
+Wyoming,ST_56,Niobrara County,ST_56_CT_27,56027
+Wyoming,ST_56,Converse County,ST_56_CT_9,56009
+Wyoming,ST_56,Carbon County,ST_56_CT_7,56007
+Wyoming,ST_56,Fremont County,ST_56_CT_13,56013
+Wyoming,ST_56,Sweetwater County,ST_56_CT_37,56037
+Wyoming,ST_56,Washakie County,ST_56_CT_43,56043
+Wyoming,ST_56,Big Horn County,ST_56_CT_3,56003
+Wyoming,ST_56,Hot Springs County,ST_56_CT_17,56017
+Wyoming,ST_56,Natrona County,ST_56_CT_25,56025
+Wyoming,ST_56,Johnson County,ST_56_CT_19,56019
+Wyoming,ST_56,Weston County,ST_56_CT_45,56045
+Wyoming,ST_56,Crook County,ST_56_CT_11,56011
+Wyoming,ST_56,Campbell County,ST_56_CT_5,56005
+Wyoming,ST_56,Sheridan County,ST_56_CT_33,56033
+Wyoming,ST_56,Sublette County,ST_56_CT_35,56035
+Wyoming,ST_56,Uinta County,ST_56_CT_41,56041
+Wyoming,ST_56,Teton County,ST_56_CT_39,56039
+Wyoming,ST_56,Lincoln County,ST_56_CT_23,56023
+Idaho,ST_16,Bannock County,ST_16_CT_5,16005
+Idaho,ST_16,Bingham County,ST_16_CT_11,16011
+Idaho,ST_16,Power County,ST_16_CT_77,16077
+Idaho,ST_16,Butte County,ST_16_CT_23,16023
+Idaho,ST_16,Caribou County,ST_16_CT_29,16029
+Idaho,ST_16,Bear Lake County,ST_16_CT_7,16007
+Idaho,ST_16,Custer County,ST_16_CT_37,16037
+Idaho,ST_16,Franklin County,ST_16_CT_41,16041
+Idaho,ST_16,Lemhi County,ST_16_CT_59,16059
+Idaho,ST_16,Oneida County,ST_16_CT_71,16071
+Idaho,ST_16,Twin Falls County,ST_16_CT_83,16083
+Idaho,ST_16,Cassia County,ST_16_CT_31,16031
+Idaho,ST_16,Blaine County,ST_16_CT_13,16013
+Idaho,ST_16,Gooding County,ST_16_CT_47,16047
+Idaho,ST_16,Camas County,ST_16_CT_25,16025
+Idaho,ST_16,Lincoln County,ST_16_CT_63,16063
+Idaho,ST_16,Jerome County,ST_16_CT_53,16053
+Idaho,ST_16,Minidoka County,ST_16_CT_67,16067
+Idaho,ST_16,Bonneville County,ST_16_CT_19,16019
+Idaho,ST_16,Fremont County,ST_16_CT_43,16043
+Idaho,ST_16,Teton County,ST_16_CT_81,16081
+Idaho,ST_16,Clark County,ST_16_CT_33,16033
+Idaho,ST_16,Jefferson County,ST_16_CT_51,16051
+Idaho,ST_16,Madison County,ST_16_CT_65,16065
+Idaho,ST_16,Nez Perce County,ST_16_CT_69,16069
+Idaho,ST_16,Clearwater County,ST_16_CT_35,16035
+Idaho,ST_16,Idaho County,ST_16_CT_49,16049
+Idaho,ST_16,Lewis County,ST_16_CT_61,16061
+Idaho,ST_16,Latah County,ST_16_CT_57,16057
+Idaho,ST_16,Elmore County,ST_16_CT_39,16039
+Idaho,ST_16,Boise County,ST_16_CT_15,16015
+Idaho,ST_16,Owyhee County,ST_16_CT_73,16073
+Idaho,ST_16,Canyon County,ST_16_CT_27,16027
+Idaho,ST_16,Washington County,ST_16_CT_87,16087
+Idaho,ST_16,Valley County,ST_16_CT_85,16085
+Idaho,ST_16,Adams County,ST_16_CT_3,16003
+Idaho,ST_16,Ada County,ST_16_CT_1,16001
+Idaho,ST_16,Gem County,ST_16_CT_45,16045
+Idaho,ST_16,Payette County,ST_16_CT_75,16075
+Idaho,ST_16,Kootenai County,ST_16_CT_55,16055
+Idaho,ST_16,Shoshone County,ST_16_CT_79,16079
+Idaho,ST_16,Bonner County,ST_16_CT_17,16017
+Idaho,ST_16,Boundary County,ST_16_CT_21,16021
+Idaho,ST_16,Benewah County,ST_16_CT_9,16009
+Utah,ST_49,Duchesne County,ST_49_CT_13,49013
+Utah,ST_49,Utah County,ST_49_CT_49,49049
+Utah,ST_49,Salt Lake County,ST_49_CT_35,49035
+Utah,ST_49,Uintah County,ST_49_CT_47,49047
+Utah,ST_49,Davis County,ST_49_CT_11,49011
+Utah,ST_49,Summit County,ST_49_CT_43,49043
+Utah,ST_49,Morgan County,ST_49_CT_29,49029
+Utah,ST_49,Tooele County,ST_49_CT_45,49045
+Utah,ST_49,Daggett County,ST_49_CT_9,49009
+Utah,ST_49,Rich County,ST_49_CT_33,49033
+Utah,ST_49,Wasatch County,ST_49_CT_51,49051
+Utah,ST_49,Weber County,ST_49_CT_57,49057
+Utah,ST_49,Box Elder County,ST_49_CT_3,49003
+Utah,ST_49,Cache County,ST_49_CT_5,49005
+Utah,ST_49,Carbon County,ST_49_CT_7,49007
+Utah,ST_49,San Juan County,ST_49_CT_37,49037
+Utah,ST_49,Emery County,ST_49_CT_15,49015
+Utah,ST_49,Grand County,ST_49_CT_19,49019
+Utah,ST_49,Sevier County,ST_49_CT_41,49041
+Utah,ST_49,Sanpete County,ST_49_CT_39,49039
+Utah,ST_49,Millard County,ST_49_CT_27,49027
+Utah,ST_49,Juab County,ST_49_CT_23,49023
+Utah,ST_49,Kane County,ST_49_CT_25,49025
+Utah,ST_49,Garfield County,ST_49_CT_17,49017
+Utah,ST_49,Beaver County,ST_49_CT_1,49001
+Utah,ST_49,Iron County,ST_49_CT_21,49021
+Utah,ST_49,Wayne County,ST_49_CT_55,49055
+Utah,ST_49,Washington County,ST_49_CT_53,49053
+Utah,ST_49,Piute County,ST_49_CT_31,49031
+Arizona,ST_4,Maricopa County,ST_4_CT_13,4013
+Arizona,ST_4,Pinal County,ST_4_CT_21,4021
+Arizona,ST_4,Gila County,ST_4_CT_7,4007
+Arizona,ST_4,Pima County,ST_4_CT_19,4019
+Arizona,ST_4,Yavapai County,ST_4_CT_25,4025
+Arizona,ST_4,La Paz County,ST_4_CT_12,4012
+Arizona,ST_4,Yuma County,ST_4_CT_27,4027
+Arizona,ST_4,Mohave County,ST_4_CT_15,4015
+Arizona,ST_4,Graham County,ST_4_CT_9,4009
+Arizona,ST_4,Greenlee County,ST_4_CT_11,4011
+Arizona,ST_4,Cochise County,ST_4_CT_3,4003
+Arizona,ST_4,Santa Cruz County,ST_4_CT_23,4023
+Arizona,ST_4,Navajo County,ST_4_CT_17,4017
+Arizona,ST_4,Apache County,ST_4_CT_1,4001
+Arizona,ST_4,Coconino County,ST_4_CT_5,4005
+New Mexico,ST_35,Sandoval County,ST_35_CT_43,35043
+New Mexico,ST_35,Valencia County,ST_35_CT_61,35061
+New Mexico,ST_35,Cibola County,ST_35_CT_6,35006
+New Mexico,ST_35,Bernalillo County,ST_35_CT_1,35001
+New Mexico,ST_35,Torrance County,ST_35_CT_57,35057
+New Mexico,ST_35,Santa Fe County,ST_35_CT_49,35049
+New Mexico,ST_35,Socorro County,ST_35_CT_53,35053
+New Mexico,ST_35,Rio Arriba County,ST_35_CT_39,35039
+New Mexico,ST_35,San Juan County,ST_35_CT_45,35045
+New Mexico,ST_35,McKinley County,ST_35_CT_31,35031
+New Mexico,ST_35,Taos County,ST_35_CT_55,35055
+New Mexico,ST_35,San Miguel County,ST_35_CT_47,35047
+New Mexico,ST_35,Los Alamos County,ST_35_CT_28,35028
+New Mexico,ST_35,Colfax County,ST_35_CT_7,35007
+New Mexico,ST_35,Guadalupe County,ST_35_CT_19,35019
+New Mexico,ST_35,Mora County,ST_35_CT_33,35033
+New Mexico,ST_35,Harding County,ST_35_CT_21,35021
+New Mexico,ST_35,Catron County,ST_35_CT_3,35003
+New Mexico,ST_35,Sierra County,ST_35_CT_51,35051
+New Mexico,ST_35,Doña Ana County,ST_35_CT_13,35013
+New Mexico,ST_35,Hidalgo County,ST_35_CT_23,35023
+New Mexico,ST_35,Grant County,ST_35_CT_17,35017
+New Mexico,ST_35,Luna County,ST_35_CT_29,35029
+New Mexico,ST_35,Curry County,ST_35_CT_9,35009
+New Mexico,ST_35,Roosevelt County,ST_35_CT_41,35041
+New Mexico,ST_35,Lea County,ST_35_CT_25,35025
+New Mexico,ST_35,De Baca County,ST_35_CT_11,35011
+New Mexico,ST_35,Quay County,ST_35_CT_37,35037
+New Mexico,ST_35,Chaves County,ST_35_CT_5,35005
+New Mexico,ST_35,Eddy County,ST_35_CT_15,35015
+New Mexico,ST_35,Lincoln County,ST_35_CT_27,35027
+New Mexico,ST_35,Otero County,ST_35_CT_35,35035
+New Mexico,ST_35,Union County,ST_35_CT_59,35059
+Nevada,ST_32,Clark County,ST_32_CT_3,32003
+Nevada,ST_32,Lincoln County,ST_32_CT_17,32017
+Nevada,ST_32,Nye County,ST_32_CT_23,32023
+Nevada,ST_32,Esmeralda County,ST_32_CT_9,32009
+Nevada,ST_32,White Pine County,ST_32_CT_33,32033
+Nevada,ST_32,Lander County,ST_32_CT_15,32015
+Nevada,ST_32,Eureka County,ST_32_CT_11,32011
+Nevada,ST_32,Washoe County,ST_32_CT_31,32031
+Nevada,ST_32,Lyon County,ST_32_CT_19,32019
+Nevada,ST_32,Humboldt County,ST_32_CT_13,32013
+Nevada,ST_32,Churchill County,ST_32_CT_1,32001
+Nevada,ST_32,Douglas County,ST_32_CT_5,32005
+Nevada,ST_32,Mineral County,ST_32_CT_21,32021
+Nevada,ST_32,Pershing County,ST_32_CT_27,32027
+Nevada,ST_32,Storey County,ST_32_CT_29,32029
+Nevada,ST_32,Carson City,ST_32_CT_510,32510
+Nevada,ST_32,Elko County,ST_32_CT_7,32007
+California,ST_6,Los Angeles County,ST_6_CT_37,6037
+California,ST_6,Orange County,ST_6_CT_59,6059
+California,ST_6,Ventura County,ST_6_CT_111,6111
+California,ST_6,San Bernardino County,ST_6_CT_71,6071
+California,ST_6,Riverside County,ST_6_CT_65,6065
+California,ST_6,San Diego County,ST_6_CT_73,6073
+California,ST_6,Imperial County,ST_6_CT_25,6025
+California,ST_6,Inyo County,ST_6_CT_27,6027
+California,ST_6,Santa Barbara County,ST_6_CT_83,6083
+California,ST_6,Tulare County,ST_6_CT_107,6107
+California,ST_6,Kings County,ST_6_CT_31,6031
+California,ST_6,Kern County,ST_6_CT_29,6029
+California,ST_6,Fresno County,ST_6_CT_19,6019
+California,ST_6,San Luis Obispo County,ST_6_CT_79,6079
+California,ST_6,Monterey County,ST_6_CT_53,6053
+California,ST_6,Mono County,ST_6_CT_51,6051
+California,ST_6,Madera County,ST_6_CT_39,6039
+California,ST_6,Merced County,ST_6_CT_47,6047
+California,ST_6,Mariposa County,ST_6_CT_43,6043
+California,ST_6,San Mateo County,ST_6_CT_81,6081
+California,ST_6,Santa Clara County,ST_6_CT_85,6085
+California,ST_6,San Francisco County,ST_6_CT_75,6075
+California,ST_6,Sacramento County,ST_6_CT_67,6067
+California,ST_6,Alameda County,ST_6_CT_1,6001
+California,ST_6,Napa County,ST_6_CT_55,6055
+California,ST_6,Contra Costa County,ST_6_CT_13,6013
+California,ST_6,Solano County,ST_6_CT_95,6095
+California,ST_6,Marin County,ST_6_CT_41,6041
+California,ST_6,Sonoma County,ST_6_CT_97,6097
+California,ST_6,Santa Cruz County,ST_6_CT_87,6087
+California,ST_6,San Benito County,ST_6_CT_69,6069
+California,ST_6,San Joaquin County,ST_6_CT_77,6077
+California,ST_6,Calaveras County,ST_6_CT_9,6009
+California,ST_6,Tuolumne County,ST_6_CT_109,6109
+California,ST_6,Stanislaus County,ST_6_CT_99,6099
+California,ST_6,Mendocino County,ST_6_CT_45,6045
+California,ST_6,Lake County,ST_6_CT_33,6033
+California,ST_6,Humboldt County,ST_6_CT_23,6023
+California,ST_6,Trinity County,ST_6_CT_105,6105
+California,ST_6,Del Norte County,ST_6_CT_15,6015
+California,ST_6,Siskiyou County,ST_6_CT_93,6093
+California,ST_6,Amador County,ST_6_CT_5,6005
+California,ST_6,Placer County,ST_6_CT_61,6061
+California,ST_6,Yolo County,ST_6_CT_113,6113
+California,ST_6,El Dorado County,ST_6_CT_17,6017
+California,ST_6,Alpine County,ST_6_CT_3,6003
+California,ST_6,Sutter County,ST_6_CT_101,6101
+California,ST_6,Yuba County,ST_6_CT_115,6115
+California,ST_6,Nevada County,ST_6_CT_57,6057
+California,ST_6,Sierra County,ST_6_CT_91,6091
+California,ST_6,Colusa County,ST_6_CT_11,6011
+California,ST_6,Glenn County,ST_6_CT_21,6021
+California,ST_6,Butte County,ST_6_CT_7,6007
+California,ST_6,Plumas County,ST_6_CT_63,6063
+California,ST_6,Shasta County,ST_6_CT_89,6089
+California,ST_6,Modoc County,ST_6_CT_49,6049
+California,ST_6,Lassen County,ST_6_CT_35,6035
+California,ST_6,Tehama County,ST_6_CT_103,6103
+Hawaii,ST_15,Honolulu County,ST_15_CT_3,15003
+Hawaii,ST_15,Kauai County,ST_15_CT_7,15007
+Hawaii,ST_15,Hawaii County,ST_15_CT_1,15001
+Hawaii,ST_15,Maui County,ST_15_CT_9,15009
+Hawaii,ST_15,Kalawao County,ST_15_CT_5,15005
+Oregon,ST_41,Wasco County,ST_41_CT_65,41065
+Oregon,ST_41,Marion County,ST_41_CT_47,41047
+Oregon,ST_41,Clackamas County,ST_41_CT_5,41005
+Oregon,ST_41,Washington County,ST_41_CT_67,41067
+Oregon,ST_41,Multnomah County,ST_41_CT_51,41051
+Oregon,ST_41,Hood River County,ST_41_CT_27,41027
+Oregon,ST_41,Columbia County,ST_41_CT_9,41009
+Oregon,ST_41,Sherman County,ST_41_CT_55,41055
+Oregon,ST_41,Yamhill County,ST_41_CT_71,41071
+Oregon,ST_41,Clatsop County,ST_41_CT_7,41007
+Oregon,ST_41,Tillamook County,ST_41_CT_57,41057
+Oregon,ST_41,Polk County,ST_41_CT_53,41053
+Oregon,ST_41,Linn County,ST_41_CT_43,41043
+Oregon,ST_41,Benton County,ST_41_CT_3,41003
+Oregon,ST_41,Lincoln County,ST_41_CT_41,41041
+Oregon,ST_41,Lane County,ST_41_CT_39,41039
+Oregon,ST_41,Curry County,ST_41_CT_15,41015
+Oregon,ST_41,Coos County,ST_41_CT_11,41011
+Oregon,ST_41,Douglas County,ST_41_CT_19,41019
+Oregon,ST_41,Klamath County,ST_41_CT_35,41035
+Oregon,ST_41,Josephine County,ST_41_CT_33,41033
+Oregon,ST_41,Jackson County,ST_41_CT_29,41029
+Oregon,ST_41,Lake County,ST_41_CT_37,41037
+Oregon,ST_41,Deschutes County,ST_41_CT_17,41017
+Oregon,ST_41,Harney County,ST_41_CT_25,41025
+Oregon,ST_41,Jefferson County,ST_41_CT_31,41031
+Oregon,ST_41,Wheeler County,ST_41_CT_69,41069
+Oregon,ST_41,Crook County,ST_41_CT_13,41013
+Oregon,ST_41,Umatilla County,ST_41_CT_59,41059
+Oregon,ST_41,Gilliam County,ST_41_CT_21,41021
+Oregon,ST_41,Baker County,ST_41_CT_1,41001
+Oregon,ST_41,Grant County,ST_41_CT_23,41023
+Oregon,ST_41,Morrow County,ST_41_CT_49,41049
+Oregon,ST_41,Union County,ST_41_CT_61,41061
+Oregon,ST_41,Wallowa County,ST_41_CT_63,41063
+Oregon,ST_41,Malheur County,ST_41_CT_45,41045
+Washington,ST_53,King County,ST_53_CT_33,53033
+Washington,ST_53,Snohomish County,ST_53_CT_61,53061
+Washington,ST_53,Kitsap County,ST_53_CT_35,53035
+Washington,ST_53,Whatcom County,ST_53_CT_73,53073
+Washington,ST_53,Skagit County,ST_53_CT_57,53057
+Washington,ST_53,San Juan County,ST_53_CT_55,53055
+Washington,ST_53,Island County,ST_53_CT_29,53029
+Washington,ST_53,Pierce County,ST_53_CT_53,53053
+Washington,ST_53,Clallam County,ST_53_CT_9,53009
+Washington,ST_53,Jefferson County,ST_53_CT_31,53031
+Washington,ST_53,Lewis County,ST_53_CT_41,53041
+Washington,ST_53,Thurston County,ST_53_CT_67,53067
+Washington,ST_53,Grays Harbor County,ST_53_CT_27,53027
+Washington,ST_53,Mason County,ST_53_CT_45,53045
+Washington,ST_53,Pacific County,ST_53_CT_49,53049
+Washington,ST_53,Cowlitz County,ST_53_CT_15,53015
+Washington,ST_53,Clark County,ST_53_CT_11,53011
+Washington,ST_53,Klickitat County,ST_53_CT_39,53039
+Washington,ST_53,Skamania County,ST_53_CT_59,53059
+Washington,ST_53,Wahkiakum County,ST_53_CT_69,53069
+Washington,ST_53,Chelan County,ST_53_CT_7,53007
+Washington,ST_53,Douglas County,ST_53_CT_17,53017
+Washington,ST_53,Okanogan County,ST_53_CT_47,53047
+Washington,ST_53,Grant County,ST_53_CT_25,53025
+Washington,ST_53,Yakima County,ST_53_CT_77,53077
+Washington,ST_53,Kittitas County,ST_53_CT_37,53037
+Washington,ST_53,Spokane County,ST_53_CT_63,53063
+Washington,ST_53,Lincoln County,ST_53_CT_43,53043
+Washington,ST_53,Stevens County,ST_53_CT_65,53065
+Washington,ST_53,Whitman County,ST_53_CT_75,53075
+Washington,ST_53,Adams County,ST_53_CT_1,53001
+Washington,ST_53,Ferry County,ST_53_CT_19,53019
+Washington,ST_53,Pend Oreille County,ST_53_CT_51,53051
+Washington,ST_53,Franklin County,ST_53_CT_21,53021
+Washington,ST_53,Benton County,ST_53_CT_5,53005
+Washington,ST_53,Walla Walla County,ST_53_CT_71,53071
+Washington,ST_53,Columbia County,ST_53_CT_13,53013
+Washington,ST_53,Garfield County,ST_53_CT_23,53023
+Washington,ST_53,Asotin County,ST_53_CT_3,53003
+Alaska,ST_2,Anchorage Municipality,ST_2_CT_20,2020
+Alaska,ST_2,Aleutians West Census Area,ST_2_CT_16,2016
+Alaska,ST_2,Lake and Peninsula Borough,ST_2_CT_164,2164
+Alaska,ST_2,Kodiak Island Borough,ST_2_CT_150,2150
+Alaska,ST_2,Bethel Census Area,ST_2_CT_50,2050
+Alaska,ST_2,Aleutians East Borough,ST_2_CT_13,2013
+Alaska,ST_2,Dillingham Census Area,ST_2_CT_70,2070
+Alaska,ST_2,Kenai Peninsula Borough,ST_2_CT_122,2122
+Alaska,ST_2,Yukon-Koyukuk Census Area,ST_2_CT_290,2290
+Alaska,ST_2,Valdez-Cordova Census Area,ST_2_CT_261,2261
+Alaska,ST_2,Bristol Bay Borough,ST_2_CT_60,2060
+Alaska,ST_2,Matanuska-Susitna Borough,ST_2_CT_170,2170
+Alaska,ST_2,Nome Census Area,ST_2_CT_180,2180
+Alaska,ST_2,Yakutat City and Borough,ST_2_CT_282,2282
+Alaska,ST_2,Fairbanks North Star Borough,ST_2_CT_90,2090
+Alaska,ST_2,Denali Borough,ST_2_CT_68,2068
+Alaska,ST_2,North Slope Borough,ST_2_CT_185,2185
+Alaska,ST_2,Northwest Arctic Borough,ST_2_CT_188,2188
+Alaska,ST_2,Southeast Fairbanks Census Area,ST_2_CT_240,2240
+Alaska,ST_2,Juneau City and Borough,ST_2_CT_110,2110
+Alaska,ST_2,Haines Borough,ST_2_CT_100,2100
+Alaska,ST_2,Sitka City and Borough,ST_2_CT_220,2220
+Alaska,ST_2,Ketchikan Gateway Borough,ST_2_CT_130,2130
