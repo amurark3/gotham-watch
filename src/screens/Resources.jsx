@@ -1,59 +1,34 @@
+/**
+ * Resources Component
+ * Displays a grid of external resource cards related to crime prevention and support.
+ * Users can click on a card to open the resource URL in a new browser tab.
+ */
 import { Card, Col, Row, Typography } from 'antd';
 import React from 'react';
 
 const { Text } = Typography;
+
 const Resources = () => {
+  // Static list of external resources and helplines
   const resourceList = [
-    {
-      name: 'National Domestic Violence Helpline',
-      url: 'https://www.thehotline.org/',
-    },
-    {
-      name: 'National Sexual Assault Helpline',
-      url: 'https://rainn.org/',
-    },
-    {
-      name: 'Victim Connect Resource Center',
-      url: 'https://victimconnect.org/',
-    },
-    {
-      name: 'MADD (Mothers Against Drunk Driving',
-      url: 'https://madd.org/',
-    },
-    {
-      name: 'Internet Crime Complaint Center',
-      url: 'https://www.ic3.gov/',
-    },
-    {
-      name: 'Crime Stoppers USA',
-      url: 'https://www.crimestoppersusa.org/',
-    },
-    {
-      name: 'National Highway Traffic Safety Administration',
-      url: 'https://www.nhtsa.gov/',
-    },
-    {
-      name: 'Alchoholics Anonymous',
-      url: 'https://www.aa.org/',
-    },
-    {
-      name: 'National White Collar Crime Center',
-      url: 'https://www.nw3c.org/UI/Index.html',
-    },
-    {
-      name: 'Bureau of Alcohol, Tobacco, Firearms and Explosives',
-      url: 'https://www.atf.gov/',
-    },
-    {
-      name: 'Gun Violence Policy and Advocacy',
-      url: 'https://giffords.org/',
-    },
-    {
-      name: 'Community Resources',
-      url: 'https://www.usa.gov/',
-    },
+    { name: 'National Domestic Violence Helpline', url: 'https://www.thehotline.org/' },
+    { name: 'National Sexual Assault Helpline', url: 'https://rainn.org/' },
+    { name: 'Victim Connect Resource Center', url: 'https://victimconnect.org/' },
+    { name: 'MADD (Mothers Against Drunk Driving)', url: 'https://madd.org/' },
+    { name: 'Internet Crime Complaint Center', url: 'https://www.ic3.gov/' },
+    { name: 'Crime Stoppers USA', url: 'https://www.crimestoppersusa.org/' },
+    { name: 'National Highway Traffic Safety Administration', url: 'https://www.nhtsa.gov/' },
+    { name: 'Alcoholics Anonymous', url: 'https://www.aa.org/' },
+    { name: 'National White Collar Crime Center', url: 'https://www.nw3c.org/UI/Index.html' },
+    { name: 'Bureau of Alcohol, Tobacco, Firearms and Explosives', url: 'https://www.atf.gov/' },
+    { name: 'Gun Violence Policy and Advocacy', url: 'https://giffords.org/' },
+    { name: 'Community Resources', url: 'https://www.usa.gov/' },
   ];
 
+  /**
+   * Opens the targeted URL in a new blank tab
+   * @param {string} url - External link to redirect to
+   */
   const handleCardClick = (url) => {
     window.open(url, '_blank');
   };

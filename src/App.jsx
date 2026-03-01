@@ -1,3 +1,7 @@
+/**
+ * Main application component that sets up routing and the primary layout.
+ * Provides the overall structure of the Gotham Watch application including the Header, Content area with Routes, and the Footer.
+ */
 import React from 'react';
 import { Route, Routes } from 'react-router-dom';
 import './App.css';
@@ -10,11 +14,18 @@ import Homepage from './screens/Homepage';
 
 const { Content, Footer } = Layout;
 
+/**
+ * App Component
+ * @returns {JSX.Element} The rendered React application
+ */
 const App = () => {
   return (
     <div className="App">
       <Layout>
+        {/* Navigation header for the application */}
         <Header />
+        
+        {/* Main content area containing route-based views */}
         <Content
           style={{
             padding: '20px',
@@ -34,7 +45,7 @@ const App = () => {
           </Routes>
         </Content>
 
-        {/* Footer */}
+        {/* Global Footer */}
         <Footer
           style={{
             textAlign: 'center',

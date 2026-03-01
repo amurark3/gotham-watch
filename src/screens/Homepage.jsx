@@ -1,3 +1,8 @@
+/**
+ * Homepage Component
+ * Acts as the landing page for the application, displaying the primary title
+ * and an introductory description about the purpose of Gotham Watch.
+ */
 import React from 'react';
 
 const Homepage = () => {
